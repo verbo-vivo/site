@@ -21,8 +21,7 @@ Esta é uma verdade de razão pura: Quem não repousa para alimentar não é sac
 
 Da mesma forma, quem não separa tempo para Deus e nEle confia o suprimento das necessidades diárias jamais desfrutará de satisfação e felicidade. Sua vida será vazia e inútil, uma verdadeira corrida atrás do vento.
 
-Sugestão de leitura complementar: Mssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB3JMfQ1wlOQF8o68SsscD8DlyaTbJRDKy3luLi1S5dL GitJournal-android-2022-01-28
-ateus 6:19-34.
+Sugestão de leitura complementar: Mateus 6:19-34.
 
 Tenha um ótimo dia!!
 
