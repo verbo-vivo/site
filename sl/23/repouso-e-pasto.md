@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 # SALMO 23 - Repouso e Pasto
 
 DEVOCIONAL CBPAZ PAULA CÂNDIDO - 28/01/2022 
