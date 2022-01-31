@@ -1,4 +1,4 @@
-# SALMO 23 - Repouso e Pasto
+# SALMO 23 - O Senhor é o meu pastor
 
 > O Senhor é o meu pastor; nada me faltará. Ele me faz repousar em pastos verdejantes. Leva-me para junto das águas de descanso;
 refrigera-me a alma. Guia-me pelas veredas da justiça por amor do seu nome. Ainda que eu ande pelo vale da sombra da morte, não temerei mal nenhum,  porque tu estás comigo; o teu bordão e o teu cajado me consolam. Preparas-me uma mesa na presença dos meus adversários, unges a minha cabeça com óleo; o meu cálice transborda. Bondade e misericórdia certamente me seguirão todos os dias da minha vida; e habitarei na Casa do Senhor para todo o sempre. (Salmo 23)
