@@ -1,6 +1,3 @@
----
-type: Journal
----
 
 # SALMO 23 - Repouso e Pasto
 
