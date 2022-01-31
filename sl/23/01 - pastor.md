@@ -7,6 +7,12 @@ Neste salmo, o escritor, Davi, um pastor de ovelhas, faz uma reflexão sobre o c
 
 > O Senhor (aquele que É) é o meu pastor; nada me faltará (me falta)
 
-O salmista começa identificando aquele de quem ele fala e expõe duas verdades que resumem todo o salmo. 
+O salmista começa identificando aquele de quem ele fala e expõe três verdades que resumem todo o salmo. 
 
-Primeiro: o salmista fala especificamente de uma pessoa, isto é YHWH, aquele que É. Este de quem o salmista fala não qualquer pessoa e não pode ser identificado com um nome comum. Ele É. Não pode ser criado, Ele é o criador de tudo.
+Primeiro: (***o SENHOR***) o salmista fala especificamente de uma pessoa, isto é YHWH, aquele que É. Este de quem o salmista fala não é qualquer pessoa e não pode ser identificado com um nome comum. Ele É. Não pode ser criado, Ele é o criador de tudo em absoluto. YHWM se descreve para Moisés como *Eu Sou o que Sou*.
+
+Segundo: (***MEU***) embora o salmista fala a respeito da *pessoa* mais importante do universo, com toda humildade ele consegue dizer com toda a convicção: **meu**. O salmista não apenas sabe o que está falando e a respeito de quem está falando, ele também tem um relacionamento íntimo com o SENHOR. Para o salmista o SENHOR não está longe, mas muito perto, tão perto quanto ele mesmo (o salmista) está perto das ovelhas de seu pai.
+
+Terceiro: (***PASTOR***) Não apenas tão perto, mas o SENHOR cuida do salmista muito mais que o próprio salmista cuida das ovelhas de seu pai.
+
+É com esta linguagem, simples, mas sempre incompleta, que o salmista expressa o cuidado incomparável de Deus comparando com o relacionamento entre pastor e ovelhas.
