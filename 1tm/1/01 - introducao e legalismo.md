@@ -65,4 +65,8 @@ E quem era Timóteo, o destinatário dessas epístolas? Vamos responder a essa p
      - um homem de caráter provado (Fp 2.22). Timóteo tinha bom testemunho antes de ser missionário (At 16.1,2) e agora, quando Paulo está prestes a lhe passar o bastão de continuador da sua obra, testemunha que ele continua tendo um caráter provado (Fp 2.22). E lamentável que muitos líderes religiosos que se apresentam grandes em fama e riqueza sejam anões no caráter. Vivemos uma crise avassaladora de integridade no meio evangélico brasileiro. Precisamos urgentemente de homens íntegros, provados, que sejam modelos para o rebanho.
      - um homem disposto a servir (Fp 2.22b). E digno de nota que Timóteo serviu ao evangelho. Ele serviu com Paulo, e não a Paulo. Embora a relação entre Paulo e Timóteo fosse de pai e filho, ambos estavam engajados no mesmo projeto. Hoje, muitos líderes se colocam acima de seus colaboradores. Esse tipo de relação não é de parceria no trabalho, mas de subserviência pessoal.
  
-7.  **quanto ao seu ministério**. Paulo fechou as cortinas do seu ministério quando foi executado em Roma, nos idos de 67 d.C. Timóteo, porém, continuou seu trabalho como pastor da igreja de Efeso. Segundo a tradição eclesiástica, Timóteo foi bispo de Efeso e sofreu o martírio no ano 97 d.C., sob o imperador Nerva.19
+7.  **quanto ao seu ministério**. Paulo fechou as cortinas do seu ministério quando foi executado em Roma, nos idos de 67 d.C. Timóteo, porém, continuou seu trabalho como pastor da igreja de Efeso. Segundo a tradição eclesiástica, Timóteo foi bispo de Efeso e sofreu o martírio no ano 97 d.C., sob o imperador Nerva.
+
+*NOTA: Retirado de "1 Timoteo: O pastor, sua vida e sua obra - Hernandes Dias Lopes"*
+
+
