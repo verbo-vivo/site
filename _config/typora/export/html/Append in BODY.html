@@ -1,0 +1,43 @@
+<style>
+#write>h1:first-child, h1 {
+	margin-top: 0
+}
+
+@media (min-width: 800px) {
+	#write {
+		column-count: 2;
+	}
+}
+
+h2,
+h3 {
+	margin-top: 1em !important;
+}
+
+body {
+	counter-reset: h2counter;
+}
+
+h1 {
+	counter-reset: h2counter;
+	font-size: 2em;
+}
+
+h2:before {
+	content: counter(h2counter) ".\0000a0\0000a0";
+	counter-increment: h2counter;
+	counter-reset: h3counter;
+}
+
+h3:before {
+	content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+	counter-increment: h3counter;
+}
+</style>
+
+<style media="print">
+	#write {
+		max-width: initial;
+		column-count: 2;
+	}
+</style>

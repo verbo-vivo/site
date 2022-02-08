@@ -1,0 +1,565 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-fences-math .MathJax_SVG_Display, .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: visible; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; zoom: 90%; }
+#math-inline-preview-content { zoom: 1.1; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-require-zoom-fix foreignobject { font-size: var(--mermaid-font-zoom); }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-math .MathJax_SVG_Display { margin-top: 8px; cursor: default; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+
+
+html {
+	font-size: 19px;
+}
+
+html, body {
+	margin: auto;
+	background: #fefefe;
+}
+body {
+	font-family: "Vollkorn", Palatino, Times;
+	color: #333;
+	line-height: 1.4;
+	text-align: justify;
+}
+
+#write {
+	max-width: 960px;
+	margin: 0 auto;
+	margin-bottom: 2em;
+	line-height: 1.53;
+	padding-top: 40px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1100px;
+	}
+}
+
+@media print {
+	html {
+		font-size: 13px;
+	}
+}
+
+/* Typography
+-------------------------------------------------------- */
+
+#write>h1:first-child,
+h1 {
+	margin-top: 1.6em;
+	font-weight: normal;
+}
+
+h1 {
+	font-size:3em;
+}
+
+h2 {
+	margin-top:2em;
+	font-weight: normal;
+}
+
+h3 {
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 3em;
+}
+
+h1, 
+h2, 
+h3{
+	text-align: center;
+}
+
+h2:after{
+	border-bottom: 1px solid #2f2f2f;
+    content: '';
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    height: 1px;
+}
+
+h1+h2, h2+h3 {
+	margin-top: 0.83em;
+}
+
+p,
+.mathjax-block {
+	margin-top: 0;
+	-webkit-hypens: auto;
+	-moz-hypens: auto;
+	hyphens: auto;
+}
+ul {
+	list-style: square;
+	padding-left: 1.2em;
+}
+ol {
+	padding-left: 1.2em;
+}
+blockquote {
+	margin-left: 1em;
+	padding-left: 1em;
+	border-left: 1px solid #ddd;
+}
+code,
+pre {
+	font-family: "Consolas", "Menlo", "Monaco", monospace, serif;
+	font-size: .9em;
+	background: white;
+}
+.md-fences{
+	margin-left: 1em;
+	padding-left: 1em;
+	border: 1px solid #ddd;
+	padding-bottom: 8px;
+	padding-top: 6px;
+	margin-bottom: 1.5em;
+}
+
+a {
+	color: #2484c1;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a img {
+	border: none;
+}
+h1 a,
+h1 a:hover {
+	color: #333;
+	text-decoration: none;
+}
+hr {
+	color: #ddd;
+	height: 1px;
+	margin: 2em 0;
+	border-top: solid 1px #ddd;
+	border-bottom: none;
+	border-left: 0;
+	border-right: 0;
+}
+.ty-table-edit {
+	background: #ededed;
+    padding-top: 4px;
+}
+table {
+	margin-bottom: 1.333333rem
+}
+table th,
+table td {
+	padding: 8px;
+	line-height: 1.333333rem;
+	vertical-align: top;
+	border-top: 1px solid #ddd
+}
+table th {
+	font-weight: bold
+}
+table thead th {
+	vertical-align: bottom
+}
+table caption+thead tr:first-child th,
+table caption+thead tr:first-child td,
+table colgroup+thead tr:first-child th,
+table colgroup+thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+	border-top: 0
+}
+table tbody+tbody {
+	border-top: 2px solid #ddd
+}
+
+.task-list{
+	padding:0;
+}
+
+.md-task-list-item {
+	padding-left: 1.6rem;
+}
+
+.md-task-list-item > input:before {
+	content: '\221A';
+	display: inline-block;
+	width: 1.33333333rem;
+  	height: 1.6rem;
+	vertical-align: middle;
+	text-align: center;
+	color: #ddd;
+	background-color: #fefefe;
+}
+
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before{
+	color: inherit;
+}
+.md-tag {
+	color: inherit;
+	font: inherit;
+}
+#write pre.md-meta-block {
+	min-height: 35px;
+	padding: 0.5em 1em;
+}
+#write pre.md-meta-block {
+	white-space: pre;
+	background: #f8f8f8;
+	border: 0px;
+	color: #999;
+	
+	width: 100vw;
+	max-width: calc(100% + 60px);
+	margin-left: -30px;
+	border-left: 30px #f8f8f8 solid;
+	border-right: 30px #f8f8f8 solid;
+
+	margin-bottom: 2em;
+	margin-top: -1.3333333333333rem;
+	padding-top: 26px;
+	padding-bottom: 10px;
+	line-height: 1.8em;
+	font-size: 0.9em;
+	font-size: 0.76em;
+	padding-left: 0;
+}
+.md-img-error.md-image>.md-meta{
+	vertical-align: bottom;
+}
+#write>h5.md-focus:before {
+	top: 2px;
+}
+
+.md-toc {
+	margin-top: 40px;
+}
+
+.md-toc-content {
+	padding-bottom: 20px;
+}
+
+.outline-expander:before {
+	color: inherit;
+	font-size: 14px;
+	top: auto;
+	content: "\f0da";
+	font-family: FontAwesome;
+}
+
+.outline-expander:hover:before,
+.outline-item-open>.outline-item>.outline-expander:before {
+  	content: "\f0d7";
+}
+
+/** source code mode */
+#typora-source {
+	font-family: Courier, monospace;
+    color: #6A6A6A;
+}
+
+.html-for-mac #typora-sidebar {
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}
+
+.cm-s-typora-default .cm-header, 
+.cm-s-typora-default .cm-property,
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+	color: #428bca;
+}
+
+.cm-s-typora-default .cm-atom, .cm-s-typora-default .cm-number {
+	color: #777777;
+}
+
+.typora-node .file-list-item-parent-loc, 
+.typora-node .file-list-item-time, 
+.typora-node .file-list-item-summary {
+	font-family: arial, sans-serif;
+}
+
+.md-task-list-item>input {
+    margin-left: -1.3em;
+    margin-top: calc(1rem - 12px);
+}
+
+.md-mathjax-midline {
+	background: #fafafa;
+}
+
+.md-fences .code-tooltip {
+	bottom: -2em !important;
+}
+
+.dropdown-menu .divider {
+	border-color: #e5e5e5;
+}
+
+ .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} 
+</style><title>01 - cap 01 - introducao</title>
+</head>
+<body class='typora-export typora-export-show-outline typora-export-no-collapse-outline'><div class='typora-export-content'>
+<div class="typora-export-sidebar"><div class="outline-content"><li class="outline-item-wrapper outline-h1"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#1-timóteo---introdução-cap-1">1 Timóteo - Introdução (Cap. 1)</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#introdução-geral">Introdução Geral</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#autoria-e-autoridade">Autoria e autoridade</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#autoria-lugar-e-data">Autoria, Lugar e Data</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h4"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#lugar-e-data">Lugar e Data</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#autoridade">Autoridade</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#destinatário">Destinatário</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#saudação">Saudação</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#motivo-pela-qual-a-carta-foi-escrita">Motivo pela qual a carta foi escrita</a></div><ul class="outline-children"><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#supervisão-incubência-do-apóstolo">Supervisão, incubência do apóstolo</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#a-missão-de-timóteo">A missão de Timóteo</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#o-conteúdo-da-falsa-doutrina">O conteúdo da falsa doutrina</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#resultado-da-falsa-doutrina">Resultado da falsa doutrina</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h3"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#expectativas-do-ap-paulo">Expectativas do Ap. Paulo</a></div><ul class="outline-children"></ul></li></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#disciplina-para-os-que-rejeitam-a-admoestação">Disciplina para os que rejeitam a admoestação</a></div><ul class="outline-children"></ul></li><li class="outline-item-wrapper outline-h2"><div class="outline-item"><span class="outline-expander"></span><a class="outline-label" href="#aplicação">APLICAÇÃO</a></div><ul class="outline-children"></ul></li></ul></li></div></div><div id='write'  class=''><h1 id='1-timóteo---introdução-cap-1'><span>1 Timóteo - Introdução (Cap. 1)</span></h1><p><span>Sermão ministrado por Moisés Paes Sena, em 08/02/2022 na Comunidade Batista da Paz, em Paula Cândido - MG.</span></p><h2 id='introdução-geral'><span>Introdução Geral</span></h2><ol start='' ><li><span>As EPÍSTOLAS DE PAULO a Timóteo e Tito são conhecidas como &quot;cartas pastorais&quot;.</span></li><li><span>As cartas são destinadas a igrejas nas casas (células, pequenos grupos etc).</span></li><li><span>As cartas pastorais nos dão um raio X das igrejas como nenhuma outra carta. Nelas vemos os problemas enfrentados </span>
+<span>pelas igrejas e as soluções dadas pelo Espírito Santo.</span></li><li><span>As cartas pastorais remetidas a Timóteo e Tito têm o propósito imediato de orientar esses dois ministros a lidarem </span>
+<span>corretamente com as diferentes demandas da vida da igreja local.</span></li></ol><h2 id='autoria-e-autoridade'><span>Autoria e autoridade</span></h2><blockquote><p><span>(v. 1) Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança</span></p></blockquote><h3 id='autoria-lugar-e-data'><span>Autoria, Lugar e Data</span></h3><p><span>O Autor da carta é o próprio Ap. Paulo.</span></p><h4 id='lugar-e-data'><span>Lugar e Data</span></h4><p><span>Estudiosos (John Kelly) acreditam firmemente que o Ap. foi solto da primeira prisão em Roma (descrita por Lucas em Atos) e continuou suas viagens missionárias, </span>
+<span>mas foi novamente preso, em Roma uma segunda vez até o seu martírio e que 1 Timóteo foi escrita no intervalo entre a primeira e segunda prisão por volta do ano 63 d.C.</span></p><h3 id='autoridade'><span>Autoridade</span></h3><p><span>A autoridade com que o Ap. escreve e dá soluções para os problemas enfrentados pelas igrejas é baseado em:</span></p><ol start='' ><li><span>Na </span><strong><span>vocação</span></strong><span> para o ministério apostólico diretamente por Jesus e não por homens;</span></li><li><span>A </span><strong><span>confirmação</span></strong><span> da vocação pelos demais apóstolos de Jerusalém;</span></li><li><span>O </span><strong><span>chamado</span></strong><span> para a missão por ordem do Espírito Santo através dos profetas e mestres de Antioquia em um ambiente de adoração e jejum (At 13).</span></li><li><span>O </span><strong><span>envio</span></strong><span> por meio da imposição de mãos destes (profetas e mestres - item 3).</span></li></ol><p><span>O ministério apostólico de Paulo e dos doze (incluindo Matias) difere de todos os outros pelo fato de que estes foram chamados e treinados pessoalmente por Jesus.</span></p><blockquote><p><span>[...] por ordem de Deus, </span><strong><span>nosso Salvador</span></strong><span> [...]</span></p></blockquote><p><span>Paulo apresenta Deus como nosso Salvador. Embora essa expressão seja mais comumente empregada para descrever Cristo, está plenamente amparada pelo ensino geral das Escrituras (Dt 32.15; Lc 1.46,47). Deus nos amou e nos enviou seu Filho (Jo 3.16); Deus não poupou seu Filho e o entregou por nós (Rm 8.32); Deus nos abençoou com toda sorte de bênção espiritual (Ef 1.3). A presciência, a predestinação, a liberdade, o chamamento, a justificação e a glorificação são atribuídos a Deus Pai (Rm 8.29,30).</span></p><blockquote><p><span>[...] e de Cristo Jesus, </span><strong><span>nossa esperança</span></strong><span>.</span></p></blockquote><p><span>Jesus é a fonte e o objeto da nossa esperança. A presença de Jesus em nós é a nossa esperança de glória (Cl 1.27). Deus é a fonte da nossa salvação, e Jesus é a consumação da nossa salvação. Quando Paulo fala sobre Deus Pai, olha para trás e vê Deus como aquele que planejou a nossa salvação. Quando fala sobre Deus Filho, olha para a frente como aquele que consumará a nossa redenção.</span></p><h2 id='destinatário'><span>Destinatário</span></h2><blockquote><p><span>(v. 2) a Timóteo, verdadeiro filho na fé.</span></p></blockquote><p><span>Embora esse jovem pastor tivesse bebido o leite da piedade desde a infância, tendo sido instruído por sua mãe e avó materna, converteu-se a Cristo por intermédio do ministério de Paulo, quando de sua primeira viagem missionária.</span></p><p><span>Todo que recebe Cristo torna-se filho de Deus (Jo 1.12). Os filhos são aqueles que nascem da água e do Espírito. Nascem de novo e tornam-se novas criaturas. Desde a conversão, Timóteo passou a ser reconhecido como um homem de bom testemunho tanto dentro como fora de sua cidade natal. Isso levou Paulo a convidá-lo a fazer parte de sua caravana missionária desde a segunda viagem na Macedonia e Acaia e na terceira viagem na Ásia Menor.</span></p><p><span>Timóteo tornou-se companheiro de viagem, cooperador e amigo do apóstolo. Um verdadeiro filho na fé, alguém em quem Paulo podia confiar. </span></p><p><span>A designação filho atribuída a Timóteo foi muito feliz, porque combina duas idéias: “eu te gerei” e “és muito amado”.</span></p><h2 id='saudação'><span>Saudação</span></h2><blockquote><p><span>(v. 2) Que a graça, a misericórdia e a paz, da parte de Deus Pai e de Cristo Jesus, nosso Senhor, estejam com você.</span></p></blockquote><p><span>Somente nas duas cartas a Timóteo o apóstolo Paulo usou a tríade de palavras </span><strong><span>graça</span></strong><span>, </span><strong><span>misericórdia</span></strong><span> e </span><strong><span>paz</span></strong><span> em suas saudações.</span></p><ul><li><strong><span>Graça</span></strong><span> é quando Deus nos dá o que não merecemos; </span></li><li><strong><span>misericórdia</span></strong><span> é quando Deus não nos dá o que merecemos; e </span></li><li><strong><span>paz</span></strong><span> é o resultado tanto da graça como da misericórdia.</span></li></ul><p><span>A paz é contrária a todo tipo de conflito, guerra ou incômodo, seja de inimizade exterior ou confusão interior. A graça e a misericórdia são a fonte, e a paz as águas que fluem dessa fonte. O que foi quebrado e arruinado pelo pecado é restaurado pela graça e misericórdia. A paz é realidade e o sentimento resultante da reconciliação com Deus, da plenitude de alegria e da segurança inabalável.</span></p><h2 id='motivo-pela-qual-a-carta-foi-escrita'><span>Motivo pela qual a carta foi escrita</span></h2><blockquote><p><span>(vs 3-4) Quando eu estava de viagem, rumo à Macedônia, pedi a você que ainda permanecesse em Éfeso para admoestar certas pessoas, a fim de que não ensinem outra doutrina, nem se ocupem com fábulas e genealogias sem fim.</span></p></blockquote><h3 id='supervisão-incubência-do-apóstolo'><span>Supervisão, incubência do apóstolo</span></h3><blockquote><p><span>... pedi a você que ainda permanecesse em Éfeso para admoestar certas pessoas</span></p></blockquote><p><span>Embora os apóstolos de hoje não são como os doze e Paulo, uma das responsabilidades do ministério apostólico é a contínua supervisão das igrejas sob sua responsabilidade.</span></p><p><span>É importante ressaltar que a igreja de Éfeso era um conjunto de igrejas domésticas, e não um grande templo com muitas pessoas.</span></p><p><span>Timóteo não é o plantador das igrejas nem pastor delas. Também não é apóstolo de vocação, mas evangelista. Aqui no entanto, está como instrumento de Cristo no Seu Reino, recebendo autoridade apostólica de Paulo para cuidar destas igrejas por um tempo.</span></p><p><span>É dever de Timóteo cumprir toda a expectativa de Cristo e do Ap. Paulo na tarefa que lhe é conferida.</span></p><p><span>Era bem comum haver reuniões comunitária onde reuniam várias igrejas para instruções comunitárias (às vezes na sinagoga, escolhas, ou em algum lugar aberto), mas o pastoreio era, normalmente realizado nas igrejas domésticas. Na semelhança do que fazemos aqui nos cultos de celebração e no TADEL.</span></p><h3 id='a-missão-de-timóteo'><span>A missão de Timóteo</span></h3><p><span>Neste primeiro capítulo, o apóstolo fala sobre três responsabilidades do ministro: </span><strong><span>ensinar a sã doutrina</span></strong><span> (1.11), </span><strong><span>proclamar o evangelho</span></strong><span> (1.12-17) e </span><strong><span>defender a sã doutrina</span></strong><span> (1.18-20).</span></p><p><span>A igreja de Efeso estava ameaçada por falsas doutrinas e corria sérios riscos em virtude da infiltração de perigosas heresias. Timóteo precisava admoestar as pessoas que se haviam infiltrado na igreja para pregar a mensagem do Espírito Santo e não das artimanhas e enganos da mente humana.</span></p><ul><li><strong><span>A sã doutrina é absoluta</span></strong><span> e não admite que outro evangelho seja pregado. </span></li><li><span>Nada é mais nocivo para a saúde espiritual da igreja do que as falsas doutrinas. </span></li><li><span>Ninguém é mais perigoso para a igreja do que os falsos mestres. </span></li><li><span>Algumas pessoas estarem sempre ansiosas para receber de bom grado tudo o que é novo e diferente, como os atenienses na época de Paulo (At 17.21). Geralmente, o que eles consideram “novo” é heresia antiga, vestida com roupagens modernas.</span></li></ul><h3 id='o-conteúdo-da-falsa-doutrina'><span>O conteúdo da falsa doutrina</span></h3><blockquote><p><span>... a fim de que não ensinem, </span><strong><span>outra doutrina</span></strong><span> (1.3b).</span></p></blockquote><p><span>Uma falsa doutrina pode ser a negação de uma verdade da fé cristã ou mesmo uma adição a ela.</span></p><ul><li><span>Cultura - O pano de fundo religioso judaico: </span><em><span>fábulas e genealogias sem fim (v.4)</span></em></li><li><span>Costumes - legalismos</span></li><li><span>&quot;Ciência&quot;</span></li><li><span>Filosofia</span></li><li><span>Antropologia</span></li><li><span>Psicologia</span></li><li><span>Modinhas/Músicas</span></li></ul><h3 id='resultado-da-falsa-doutrina'><span>Resultado da falsa doutrina</span></h3><blockquote><p><span>(v. 4) Essas coisas mais promovem discussões do que o serviço de Deus, na fé.</span></p></blockquote><p><span>Estas coisas são contraditórias ao Evangelho:</span></p><blockquote><p><span>(v. 5) O objetivo desta admoestação é o amor que procede de um </span><strong><span>coração puro</span></strong><span>, de uma </span><strong><span>boa consciência</span></strong><span>  e de uma </span><strong><span>fé sem hipocrisia</span></strong><span>.</span></p><p><span>(v. 6-7) Algumas pessoas se desviaram destas coisas e se perderam em discussões inúteis,</span>
+<span>pretendendo passar por mestres da lei, não compreendendo, porém, nem o que dizem,  nem os assuntos sobre os quais falam com tanta ousadia.</span></p></blockquote><h3 id='expectativas-do-ap-paulo'><span>Expectativas do Ap. Paulo</span></h3><blockquote><p><span>(v 18-19) Esta é a admoestação que faço a você, meu filho Timóteo, segundo as  profecias que anteriormente foram feitas a seu respeito: que, firmado  nelas, você combata o bom combate, mantendo a fé e a boa consciência ...</span></p></blockquote><ol start='' ><li><strong><em><span>Combata o bom combate</span></em></strong><span>: o serviço prestado ao Reino de Deus seja agradável a Deus e não apenas aos homens. Sabendo, poucas vezes os homens receberam de bom grado este serviço.</span></li><li><strong><em><span>Mantendo a fé</span></em></strong><span>: muitos não observando cuidadosamente a sã doutrina, não sendo plenamente guiados pelo do Espírito Santo, começam muito bem, com empolgação, mas certamente cairão no meio do caminho.</span></li><li><strong><span>boa consciência</span></strong><span>: auto supervisão quanto aos desígnos de Deus e a prestação do serviço a Deus.</span></li></ol><h2 id='disciplina-para-os-que-rejeitam-a-admoestação'><span>Disciplina para os que rejeitam a admoestação</span></h2><blockquote><p><span>(v. 19-20) ... porque alguns, tendo rejeitado a boa consciência, vieram a naufragar na fé. Entre esses estão Himeneu e Alexandre, os quais entreguei a Satanás para  serem castigados, a fim de que aprendam a não blasfemar.</span></p></blockquote><p><strong><span>Aplicação de Mateus 18:15</span></strong><span>: Alguns tendo rejeitado a Doutrina do Evangelho e as admoestações feitas por intermédio de seus líderes, não se arrependendo foram desligados da comunhão dos santos. Não do </span><strong><span>ROL DE MEMBROS</span></strong><span>.</span></p><h2 id='aplicação'><span>APLICAÇÃO</span></h2><ol start='' ><li><p><span>A carta é autoritativa e toda ela deve ser observada e aplicada nos nossos dias com toda humildade e sabedoria na plena orientação do Espírito Santo.</span></p></li><li><p><span>Fomos salvos por Jesus Cristo para o seu Reino e não para uma Denominação. É verdade que Deus usou e usa pessoas, pessoas que fazem parte de algum grupo/denominação/igreja, e estamos de muitas maneiras ligados a tudo isto, mas acima de tudo, fomos salvos por Cristo para sermos em tudo guiados pelo Espírito Santo que é Senhor soberano de toda a Igreja. Qualquer apego a costumes próprios de determinado grupo está acima da </span><strong><span>sã doutrina</span></strong><span>, </span><strong><em><span>não promove fé nem serviço a Deus</span></em></strong><span>, ao contrário, produz separação entre irmãos e leva muitos a naufragarem na fé.</span></p><blockquote><p><span>Jesus disse aos seus discípulos: — É inevitável que existam pedras de tropeço, mas ai de quem é responsável por elas!</span>
+<span>Seria melhor para esse que uma pedra de moinho fosse pendurada ao seu pescoço e fosse atirado no mar do que fazer tropeçar um destes pequeninos. (Lucas 17:1,2)</span></p></blockquote></li><li><p><span>Precisamos ser fiéis no nosso serviço a Deus:</span></p><ol start='' ><li><span>Ao pastor (apóstolo das células): o pastoreio geral e supervisão contínua. Ensinar, proclamar e defender a sã doutrina com toda autoridade e no poder do Espírito Santo.</span></li><li><span>Aos líderes e companheiros do pastor: lhe ser como filhos fiéis, humildes, com quem ele possa contar para auxiliar no cuidado do rebanho a ele confiado, ensinando, proclamando e defendendo a sã doutrina com toda autoridade e no poder do Espírito Santo.</span></li><li><span>À igreja como um todo: receber com toda humildade e cheios de gratidão o ensino e cuidado a ela dispensando.</span></li></ol></li><li><p><span>O verdadeiro ensino do Evangelho precisa ser tratado com seriedade, não como uma sugestão, mas como mandamento absoluto:</span></p><ol start='' ><li><blockquote><p><span>Jesus, aproximando-se, falou-lhes, dizendo: — Toda a autoridade me foi dada no céu e na terra.</span>
+<span>Portanto, vãoe façam discípulos de todas as nações, batizando-os em nome do Pai, do Filho e do Espírito Santo,</span>
+<strong><span>ensinando-os a obedecer todas as coisas que tenho ordenado a vocês</span></strong><span>. E eis que estou com vocês todos os dias até o fim dos tempos. (Mateus 28:18-20)</span></p></blockquote></li><li><p><span>Aos líderes que rejeitaram devem ser tratados PELAS AUTORIDADES de maneira adequada, sem politicagem ou boa vizinhança, mas com toda a sabedoria e seriedade própria do Evangelho.</span></p></li></ol></li></ol></div></div>
+
+<script>(function(){var e=document.body.parentElement,t=[],n=null,i=document.body.classList.contains("typora-export-collapse-outline"),r=function(e,t,n){document.addEventListener(e,function(e){if(!e.defaultPrevented)for(var i=e.target;i&&i!=this;i=i.parentNode)if(i.matches(t)){!1===n.call(i,e)&&(e.preventDefault(),e.stopPropagation());break}},!1)};function o(){return e.scrollTop}r("click",".outline-expander",function(e){var t=this.closest(".outline-item-wrapper").classList;return t.contains("outline-item-open")?t.remove("outline-item-open"):t.add("outline-item-open"),d(),!1}),r("click",".outline-item",function(e){var t=this.querySelector(".outline-label");if(location.hash="#"+t.getAttribute("href"),i){var n=this.closest(".outline-item-wrapper").classList;n.contains("outline-item-open")||n.add("outline-item-open"),c(),n.add("outline-item-active")}});var a,s,l=function(){var e=o();n=null;for(var i=0;i<t.length&&t[i][1]-e<60;i++)n=t[i]},c=function(){document.querySelectorAll(".outline-item-active").forEach(e=>e.classList.remove("outline-item-active")),document.querySelectorAll(".outline-item-single.outline-item-open").forEach(e=>e.classList.remove("outline-item-open"))},d=function(){if(n){c();var e=document.querySelector('.outline-label[href="#'+(CSS.escape?CSS.escape(n[0]):n[0])+'"]');if(e)if(i){var t=e.closest(".outline-item-open>ul>.outline-item-wrapper");if(t)t.classList.add("outline-item-active");else{for(var r=(e=e.closest(".outline-item-wrapper")).parentElement.closest(".outline-item-wrapper");r;)r=(e=r).parentElement.closest(".outline-item-wrapper");e.classList.add("outline-item-active")}}else e.closest(".outline-item-wrapper").classList.add("outline-item-active")}};window.addEventListener("scroll",function(e){a&&clearTimeout(a),a=setTimeout(function(){l(),d()},300)});var u=function(){s=setTimeout(function(){!function(){t=[];var e=o();document.querySelector("#write").querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(n=>{var i=n.getAttribute("id");t.push([i,e+n.getBoundingClientRect().y])})}(),l(),d()},300)};window.addEventListener("resize",function(e){s&&clearTimeout(s),u()}),u()})();</script><style>
+#write>h1:first-child, h1 {
+	margin-top: 0
+}
+
+@media (min-width: 800px) {
+	#write {
+		column-count: 2;
+	}
+}
+
+h2,
+h3 {
+	margin-top: 1em !important;
+}
+
+body {
+	counter-reset: h2counter;
+}
+
+h1 {
+	counter-reset: h2counter;
+	font-size: 2em;
+}
+
+h2:before {
+	content: counter(h2counter) ".\0000a0\0000a0";
+	counter-increment: h2counter;
+	counter-reset: h3counter;
+}
+
+h3:before {
+	content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+	counter-increment: h3counter;
+}
+</style>
+
+<style media="print">
+	#write {
+		max-width: initial;
+		column-count: 2;
+	}
+</style>
+
+</body>
+</html>
