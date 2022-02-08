@@ -83,7 +83,7 @@ Timóteo não é o plantador das igrejas nem pastor delas. Também não é após
 
 É dever de Timóteo cumprir toda a expectativa de Cristo e do Ap. Paulo na tarefa que lhe é conferida.
 
-Era bem comum haver reuniões comunitária onde reuniam várias igrejas para instruções comunitárias (às vezes na sinagoga, escolhas, ou em algum lugar aberto), mas o pastoreio era, normalmente realizado nas igrejas domésticas. Na semelhança do que fazemos aqui nos cultos de celebração e no TADEL.
+Era bem comum haver reuniões comunitárias onde reuniam várias igrejas para instruções comunitárias (as vezes na sinagoga, escolhas, ou em algum lugar aberto), mas o pastoreio era, normalmente realizado nas igrejas domésticas. Na semelhança do que fazemos aqui nos cultos de celebração e no TADEL.
 
 ### A missão de Timóteo
 
@@ -94,7 +94,7 @@ A igreja de Efeso estava ameaçada por falsas doutrinas e corria sérios riscos 
 - **A sã doutrina é absoluta** e não admite que outro evangelho seja pregado. 
 - Nada é mais nocivo para a saúde espiritual da igreja do que as falsas doutrinas. 
 - Ninguém é mais perigoso para a igreja do que os falsos mestres. 
-- Algumas pessoas estarem sempre ansiosas para receber de bom grado tudo o que é novo e diferente, como os atenienses na época de Paulo (At 17.21). Geralmente, o que eles consideram “novo” é heresia antiga, vestida com roupagens modernas.
+- Algumas pessoas estão sempre ansiosas para receber de bom grado tudo o que é novo e diferente, como os atenienses na época de Paulo (At 17.21). Geralmente, o que eles consideram “novo” é heresia antiga, vestida com roupagens modernas.
 
 ### O conteúdo da falsa doutrina
 
@@ -126,8 +126,8 @@ Estas coisas são contraditórias ao Evangelho:
 > (v 18-19) Esta é a admoestação que faço a você, meu filho Timóteo, segundo as  profecias que anteriormente foram feitas a seu respeito: que, firmado  nelas, você combata o bom combate, mantendo a fé e a boa consciência ...
 
 1. ***Combata o bom combate***: o serviço prestado ao Reino de Deus seja agradável a Deus e não apenas aos homens. Sabendo, poucas vezes os homens receberam de bom grado este serviço.
-2. ***Mantendo a fé***: muitos não observando cuidadosamente a sã doutrina, não sendo plenamente guiados pelo do Espírito Santo, começam muito bem, com empolgação, mas certamente cairão no meio do caminho.
-3. **boa consciência**: auto supervisão quanto aos desígnos de Deus e a prestação do serviço a Deus.
+2. ***Mantendo a fé***: muitos não observando cuidadosamente a sã doutrina, não sendo plenamente guiados pelo Espírito Santo, começam muito bem, com empolgação, mas certamente cairão no meio do caminho.
+3. **boa consciência**: auto-supervisão quanto aos desígnos de Deus e a prestação do serviço a Deus.
 
 ## Disciplina para os que rejeitam a admoestação
 
