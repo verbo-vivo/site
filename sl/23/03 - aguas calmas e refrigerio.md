@@ -26,7 +26,7 @@ Não podemos jamais esquecer das palavras de Jesus para a mulher samaritana (Jo 
 
 ## Leva-me para junto das águas de calmas
 
-**Águas calmas** é literalmente, não corrente. Ovelha não bebe água corrente.
+**Águas calmas** é literalmente, não corrente. Ovelha não bebe água corrente, em movimento, apenas represada.
 
 É Jesus quem foi até a mulher e Ele mesmo é a própria água. Ele não levou a mulher até água, mas levou a água até a mulher.
 O pastor nem sempre leva as ovelhas até a água, muitas vezes ele leva água até as ovelhas. 
