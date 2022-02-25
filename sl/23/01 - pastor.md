@@ -15,4 +15,20 @@ Segundo: (***MEU***) embora o salmista fala a respeito da *pessoa* mais importan
 
 Terceiro: (***PASTOR***) Não apenas tão perto, mas o SENHOR cuida do salmista muito mais que o próprio salmista cuida das ovelhas de seu pai.
 
+Vejamos uma descrição da realidade diária de um pastor com suas ovelhas:
+
+Eis que no meio do deserto surge uma área isolada com palmeiras e algumas 
+árvores e uma linda represa de águas claras rodeada por um pasto muito verde e macio.
+As ovelhas se deitam para dormir no verde macio, bebem água e sentem recobrarem as forças. 
+Em seguida se põem a caminho: o pastor,
+fazendo honra a seu título, vai guiando o rebanho pelo trilho estreito, que
+conhece a dedo, evitando, assim que as ovelhas se extraviem. Caminhando
+por beco estreito, surge a escuridão: as ovelhas, com pouco sentido de
+orientação e sem poderem ver o pastor, obedecem a sinais de sons e tato: um
+golpe leve de bastão dirige e puxa para caminho certo as que se desviam e incita
+as que se atrasam, ao passo que o golpe ritmado do cajado nas pedras dão
+a certeza de uma presença conhecida e tranqüilizadora.
+
+## Conclusão
+
 É com esta linguagem, simples, mas sempre incompleta, que o salmista expressa o cuidado incomparável de Deus comparando com o relacionamento entre pastor e ovelhas.
