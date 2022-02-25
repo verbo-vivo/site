@@ -34,10 +34,10 @@ Mas ele jamais deixa suas ovelhas famintas ou sedentas.
 
 **Refrigera-me** é resgatar de um estado doentio para a perfeição.
 
-**Alma** não implica apenas de emoções, o ovelha/pessoa como um todo, ou seja totalmente/completamente.
+**Alma** não se refere apenas às emoções, mas a ovelha/pessoa como um todo, ou seja totalmente/completamente. Todo o ser. Ou seja: as emoções, a inteligência/mente, a saúde, os relacionamentos...
 
 Jesus não ofereceu água comum para a mulher, mas ÁGUA VIVA, uma água que sacia e jorra para a vida eterna.
-A mulher samaritana foi completamente restaurada: dos sentimentos, da sua relação para com Deus e para com as pessoas.
+A mulher samaritana foi completamente restaurada: as emoções, o entimento das coisas espirituais, as sua relação para com Deus e para com as pessoas.
 
 ## Conclusão
 
