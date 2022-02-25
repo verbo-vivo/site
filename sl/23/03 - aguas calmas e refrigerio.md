@@ -8,7 +8,9 @@ refrigera-me a alma**. Guia-me pelas veredas da justiça por amor do seu nome. A
 Bom dia meus amados irmãos!!
 A Graça e a Paz de nosso Senhor e Rendentor Jesus Cristo seja com você!!
 
-Hoje vamos meditar sobre as Águas Calmas e Refrigério conforme **Leva-me para junto das água calmas; refrigera-me a alma**.
+Hoje vamos meditar sobre as Águas Calmas e Refrigério conforme o texto lido:
+
+> Leva-me para junto das água calmas; refrigera-me a alma.
 
 A água não tira apenas a sede depois da caminhada, mas também
 devolve a respiração e as forças. A água brota de uma
