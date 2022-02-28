@@ -1,6 +1,6 @@
 # Culto Doméstico
 
-Roteiro para um culto doméstico, que envolve e prepara toda a família, inclusive as crianças, para enunciarem Jesus Cristo e discipularem as nações da terra.
+Roteiro para um Culto Doméstico (CD), que envolve e prepara toda a família, inclusive as crianças, para enunciarem Jesus Cristo e discipularem as nações da terra.
 
 ## Introdução
 
@@ -12,7 +12,7 @@ Culto doméstico não é um ritual, mas um meio extraordinário de toda a ser di
 
 ### 1. Prioridade e Valor
 
-1. O Culto Doméstico não um apêndice na rotina da família. Este tem a prioridade. A Ele está reservado o horário NOBRE da família.
+1. O Culto Doméstico não um apêndice na rotina da família. Este tem a prioridade. A ele está reservado o horário NOBRE da família.
 
 2. Todo culto oferecido a Deus nas Escrituras envolvem TODA a família e não parte dela. TODOS estão presentes, das crianças de peito, aos IDOSOS. Não falta ninguém. Nada pode competir com o culto doméstico. 
 
@@ -30,9 +30,21 @@ O culto doméstico do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebraç�
 
 O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o culto doméstico. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO.
 
-## Abertura
+### 4. Duração
 
-Quais motivos você tem para agradecer a Deus essa semana?
-Quais dificuldades você teve essa semana?  Podemos fazer algo?
-Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
+O culto doméstico não deverá ultrapassar 1 hora, senão ficará enfadonho e desmotiva a família e os filhos pequenos. A vida familiar precisa ser um culto, e não apenas o CULTO DOMÉSTICO.
+
+## Esquema do Culto Doméstico (CD)
+
+## Hino
+
+Começe o 
+
+## 1. Abertura
+
+- Quais motivos você tem para agradecer a Deus essa semana?
+
+- Quais dificuldades você teve essa semana?  Podemos fazer algo?
+
+- Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
 
