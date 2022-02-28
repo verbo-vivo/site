@@ -38,7 +38,9 @@ O CD não deverá ultrapassar 1 hora, senão ficará enfadonho e desmotiva a fam
 
 ## Hino
 
-Começe o 
+Começe com um hino, ou seja, uma música que seja inteiramente Bíblica. Que TODOS (**inclusive as crianças**) possam cantar. Evite muitos instrumentos musicais e instrumentos de som predominante (som muito forte), dê preferência para ACAPELA (apenas voz) ou, se possivel, acompanhado de algum instrumento de fundo musical como violão etc. Evite PLAY-BACK.
+
+Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais.
 
 ## 1. Abertura
 
