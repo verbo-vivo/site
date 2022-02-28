@@ -1,3 +1,4 @@
 ## Seja Bem Vindo
 
-- [./Artigos](Artigos)
+- [./artigos](Artigos)
+- [./exposicao-biblia](Exposição Bíblica)
