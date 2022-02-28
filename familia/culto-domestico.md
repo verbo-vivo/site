@@ -36,17 +36,36 @@ O CD não deverá ultrapassar 1 hora, senão ficará enfadonho e desmotiva a fam
 
 ## Esquema do CD
 
-## Hino
+### 1. Hino
 
 Começe com um hino, ou seja, uma música que seja inteiramente Bíblica. Que TODOS (**inclusive as crianças**) possam cantar. Evite muitos instrumentos musicais e instrumentos de som predominante (som muito forte), dê preferência para ACAPELA (apenas voz) ou, se possivel, acompanhado de algum instrumento de fundo musical como violão etc. Evite PLAY-BACK.
 
 Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais.
 
-## 1. Abertura
+### 2. Abertura
 
 - Quais motivos você tem para agradecer a Deus essa semana?
 
 - Quais dificuldades você teve essa semana?  Podemos fazer algo?
 
 - Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
+
+### 3. Prestação de Contas
+1. Qual passagem estudamos na semana passada? O que você aprendeu?
+2. Você se comprometeu em fazer algumas coisas esta semana, como foi?
+3. Como foi quando compartilhou com outros?
+
+### 4. Estudo Bíblico de Descobrimento
+
+#### Tipos
+- Semi-oral
+- Histórias
+
+#### Descobrindo o Texto
+1. O que chamou a sua atenção nesse texto?
+2. O que aprendemos sobre Deus/Jesus?
+3. O que aprendemos sobre o homem?
+4. O que você acha que Deus quer que você faça?
+5. Com quem você pode compartilhar o estudo de hoje?
+
 
