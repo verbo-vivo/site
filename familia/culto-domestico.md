@@ -4,37 +4,37 @@ Roteiro para um Culto Doméstico (CD), que envolve e prepara toda a família, in
 
 ## Introdução
 
-O Culto deve ser coordenado para liderança da casa. O maior responsável é a figura paterna da casa (PAI) (veja Gn 17), a seguir, a figura materna (MAE), seguido dos filhos em ordem de maior para menor idade. Todos precisam aprender, estes ensinarão seus filhos. Esta é uma ordem de AUTORIDADE.
+O CD deve ser coordenado para liderança da casa. O maior responsável é a figura paterna da casa (PAI) (veja Gn 17), a seguir, a figura materna (MAE), seguido dos filhos em ordem de maior para menor idade. Todos precisam aprender, estes ensinarão seus filhos. Esta é uma ordem de AUTORIDADE.
 
-Culto doméstico não é um ritual, mas um meio extraordinário de toda a ser discipulada diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
+CD não é um ritual, mas um meio extraordinário de toda a ser discipulada diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
 
 É importante observar alguns preceitos:
 
 ### 1. Prioridade e Valor
 
-1. O Culto Doméstico não um apêndice na rotina da família. Este tem a prioridade. A ele está reservado o horário NOBRE da família.
+1. O CD não um apêndice na rotina da família. Este tem a prioridade. A ele está reservado o horário NOBRE da família.
 
-2. Todo culto oferecido a Deus nas Escrituras envolvem TODA a família e não parte dela. TODOS estão presentes, das crianças de peito, aos IDOSOS. Não falta ninguém. Nada pode competir com o culto doméstico. 
+2. Todo culto oferecido a Deus nas Escrituras envolvem TODA a família e não parte dela. TODOS estão presentes, das crianças de peito, aos IDOSOS. Não falta ninguém. Nada pode competir com o CD. 
 
 3. Este é o momento mais importante do dia e jamais deve ser cancelado. 
 
-4. Se algum membro da família tiver fora de casa, deverá, no horário do culto doméstico tirar um tempo especial para oferecer a Deus o seu culto (Daniel fazia isto). Havendo possibilidade (isto é importante), convidadar outras pessoas para participar. Ainda que na forma SIMPLIFICADA [^cds] (ou apenas em espírito), deve ter mente onde quer que esteja lá o Senhor o estará esperando. 
+4. Se algum membro da família tiver fora de casa, deverá, no horário do CD tirar um tempo especial para oferecer a Deus o seu culto (Daniel fazia isto). Havendo possibilidade (isto é importante), convidadar outras pessoas para participar. Ainda que na forma SIMPLIFICADA [^cds] (ou apenas em espírito), deve ter mente onde quer que esteja lá o Senhor o estará esperando. 
 
-[^cds]: O Culto Doméstico Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
+[^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
 
 ### 2. Texto Base do compartilhamento
 
-O culto doméstico do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do culto doméstico. Nestes "cultos" da Igreja Local, a pessoa responsável pelo culto doméstico no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
+O CD do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do CD. Nestes "cultos" da Igreja Local, a pessoa responsável pelo CD no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
 
 ### 3. Organização
 
-O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o culto doméstico. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO.
+O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o CD. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO.
 
 ### 4. Duração
 
-O culto doméstico não deverá ultrapassar 1 hora, senão ficará enfadonho e desmotiva a família e os filhos pequenos. A vida familiar precisa ser um culto, e não apenas o CULTO DOMÉSTICO.
+O CD não deverá ultrapassar 1 hora, senão ficará enfadonho e desmotiva a família e os filhos pequenos. A vida familiar precisa ser um culto, e não apenas o CULTO DOMÉSTICO.
 
-## Esquema do Culto Doméstico (CD)
+## Esquema do CD
 
 ## Hino
 
