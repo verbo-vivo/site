@@ -18,9 +18,9 @@ Culto doméstico não é um ritual, mas um meio extraordinário de toda a ser di
 
 3. Este é o momento mais importante do dia e jamais deve ser cancelado. 
 
-4. Se algum membro da família tiver fora de casa, deverá, no horário do culto doméstico tirar um tempo especial para oferecer a Deus o seu culto (Daniel fazia isto). Havendo possibilidade (isto é importante), convidadar outras pessoas para participar. Ainda que de uma maneira mais SIMPLES [1] (ou apenas em espírito), deve ter mente onde quer que esteja lá o Senhor o estará esperando. 
+4. Se algum membro da família tiver fora de casa, deverá, no horário do culto doméstico tirar um tempo especial para oferecer a Deus o seu culto (Daniel fazia isto). Havendo possibilidade (isto é importante), convidadar outras pessoas para participar. Ainda que na forma SIMPLIFICADA [^cds] (ou apenas em espírito), deve ter mente onde quer que esteja lá o Senhor o estará esperando. 
 
-[1] O Culto Doméstico mais SIMPLE deve contemplar: Um hino, leitura de um texto bíblico (com reflexão) e oração.
+[^cds]: O Culto Doméstico Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
 
 ### 2. Texto Base do compartilhamento
 
