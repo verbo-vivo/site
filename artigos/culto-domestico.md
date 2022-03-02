@@ -30,13 +30,13 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 - Começo com pelo menos UM dia, mas marque a data para acrescentar mais um dia, até seja um realidade diária.
 - Considere realizar o CD de forma simplificada[^cds] alguns dias da semana, é importante para aprendizado.
 
-### Texto Base do compartilhamento
+### Texto Base do Estudo Bíblico
 
 O CD do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do CD. Nestes "cultos" da Igreja Local, a pessoa responsável pelo CD no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
 
 ### Organização, Escala
 
-1. O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o CD. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO. 
+1. O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o CD. Inclusive o facilitador do Estudo Bíblico. 
 
 2. Considere incluir crianças na escala e delegar mesmo que uma simples tarefa, como recitar um versículo decorado algumas vezes na semana ou mesmo cantar um hino, de acordo com a idade. Todos devem participar, mas em uma única vez. Seja inteligente e moderado.
 
@@ -76,7 +76,7 @@ Planeje e execute períodos de oração e jejum em conjunto. Pegue sua família 
 
 Começe com um hino, ou seja, uma música que seja inteiramente Bíblica. Que TODOS (**inclusive as crianças**) possam cantar. Evite muitos instrumentos musicais e instrumentos de som predominante (som muito forte), dê preferência para ACAPELA (apenas voz) ou, se possivel, acompanhado de algum instrumento de fundo musical como violão etc. Evite PLAY-BACK.
 
-Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais.
+Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais. Deve-se cantar hinos conhecidos, fáceis, fofinhos.
 
 **A recitação de um Salmo deve ocupar o lugar de hino ou corinho periodicamente.**
 
@@ -94,7 +94,7 @@ Salmos cantados, Hinários e livro de Corinhos, tais como: Harpa Cristã (Assemb
   
   Podemos fazer algo para resolver isto?
 
-Considere deixar claro: *Você pode compartilhar conosco aqui, e isto é ótimo! mas você também pode falar estas coisas para Deus.*
+Considere deixar claro: *Você pode compartilhar conosco aqui, e isto é ótimo! Mas você também pode falar estas coisas para Deus.*
 
 NOTA: Com estas três perguntas, ensinamos as pessoas a 1) louvar a Deus e ser agradecidos pelo que Ele faz e o que Ele é. 2) A clamar pelas nossas dificuldades e as dificuldades ao nosso redor e, 3) A servirem as pessoas do grupo e as pessoas ao redor.
 
@@ -128,13 +128,13 @@ A família que quiser se aprofundar em algum assunto específico pode e deve faz
 
 A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Seu papel é ajudar as pessoas a:
 
-- Lêr/ouvir as histórias da Bíblia;
+- Ler/ouvir as histórias da Bíblia;
 - Ajudarem-se mutuamente.
 
   Se alguém fizer alguma pergunta, devolva-a para o grupo: "E aí, o que vocês acham?".
   Se caso a dúvida não for esclarecida, diga algo como "Calma, se este texto não responde a pergunta, talvez o texto do próximo encontro responda".
   É importante que as pessoas tenham a confiança de que não precisam de ter todas as respostas, nem a mesmo as Escrituras respondem todas as nossas perguntas.
-  
+
 - Passar a Visão de Multiplicação
   Considere encaixar conversas do tipo:
   - *imagine se todas as pessoas aqui do nosso bairro entendesse esta verdade*;
@@ -149,8 +149,9 @@ Alguns cuidados precisam ser tomados no CD, e toda a família, principalmente o 
 - O protagonista é sempre JESUS CRISTO;
 - Evitar menção de informação fora da BÍBLIA, principalmente filosofias, pedagogias, psicologias, *colts*/mentores e ciências de todo tipo;
 - Nossa fonte de verdade é a Bíblia e nosso mestre é o Espírito Santo;
-- Não somos judeus e muito menos estamos debaixo da Lei de Moisés. O Evagelho a nós anunciado é o Evangelho aos gentios, o Evagelho da liberdade e da Graça de Deus. Portanto, leis e costumes (mesmo os da Igreja Local) estão fora do escopo do CD.
-  Se algum crente *de costume* trazer este assunto à tona, com muito jeito deixe claro para o grupo que nossos costumes são apenas para bom convívio uns para com os outros e que não tem validade espiritual por si mesmo. Gerando discussão ou desconforto os mesmos precisam ser ponderados e até mesmo reconsiderados. Todos que colocam alguma expectiva em feitos humanos estão debaixo de maldição. (1Tm 1;Gl 3).
+- Não somos judeus e muito menos estamos debaixo da Lei de Moisés. O Evagelho a nós anunciado é o Evangelho da graça de nosso Senhor com a fé e o amor que há em Cristo Jesus. Portanto, leis e costumes (mesmo os da Igreja Local) estão fora do escopo do CD.
+
+  Se algum crente *de costume* trazer este assunto à tona, com muito jeito deixe claro para o grupo que nossos costumes são apenas para bom convívio uns para com os outros e que não tem validade espiritual por si mesmo. Gerando discussão ou desconforto os mesmos precisam ser ponderados e até mesmo reconsiderados. Todos que colocam alguma expectiva em feitos humanos estão debaixo de maldição (1Tm 1;Gl 3).
 
 ##### 4.1. Facilitador: Ler ou Contar
 
@@ -175,13 +176,13 @@ As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associa�
 
 ###### 4.3.2 Aplicação Pessoal
 
-Pergunta: O que você acha que Deus quer que você faça?
+**Pergunta:** O que você acha que Deus quer que você faça?
 
 Deixe as pessoas falarem e pensarem.
 
 ###### 4.3.3 Desafio
 
-Pergunta: Com quem você pode compartilhar o estudo de hoje?
+**Pergunta:** Com quem você pode compartilhar o estudo de hoje?
 
 Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momento **Descobrindo o Texto** do culto doméstico, de uma maneira mais simples mas também eficaz.
 
@@ -235,11 +236,11 @@ Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momen
 <li>Korban - Gênesis 22:1-18</li>
 <li>Moisés - Êxodo 1:13; 3:7,10,19-20; 5:1-2; 11:4-5; 12:3,5,12-13,29-30</li>
 <li>Nascimento de Jesus - Lucas 1:26-38; 2:1-21</li>
+<li>Batismo de Jesus - Mateus 3:1-17</li>
     </ol>
 </td>
     <td>
-    <ol start="6">
-<li>Batismo de Jesus - Mateus 3:1-17</li>
+    <ol start="7">
 <li>Tentação de Jesus - Mateus 4:1-11</li>
 <li>Cura do paralítico - Marcos 2:1-12</li>
 <li>Filha de Jairo - Lucas 8:40-56</li>
@@ -249,4 +250,3 @@ Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momen
     </ol>
 </td>
 </tr></table>
-
