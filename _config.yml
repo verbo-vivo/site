@@ -2,3 +2,5 @@
 remote-theme: poole/lanyon
 title: Verbo Vivo
 slogan: A Palavra Viva, do Deus vivo
+
+theme: jekyll-theme-cayman
