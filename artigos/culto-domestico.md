@@ -10,6 +10,8 @@ O CD deve ser coordenado para liderança da casa. O maior responsável é a figu
 
 CD não é um ritual, mas um meio extraordinário de discipular a família diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
 
+Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho a realizar o CD Simplificado [^cds] após uma das refeições em família, mesmo que não seja todos os dias. Opte por usar o _ANEXO 1: Sets de Estudo Bíblico Cronológico_ (no final deste artigo). Jesus sempre usou o momento da Refeição como estratégico para discipular. Caso você não seja a autoridade na sua família, à medida que seus pais converterem, considere passar a responsabilidade do CD a eles. Não esqueça de ao fim de cada encontro desafiar seus ouvintes a entregar sua vida ao senhorio de Jesus Cristo.
+
 É importante observar alguns preceitos:
 
 ### Prioridade e Valor
@@ -187,7 +189,11 @@ Deixe as pessoas falarem e pensarem.
 
 ###### 4.3.3 Desafio
 
-**Pergunta:** Com quem você pode compartilhar o estudo de hoje?
+**Pergunta 1 (apenas se houver não-crentes):** Você gostaria de entregar sua vida ao senhorio de Jesus Cristo começando a obedecê-lo a partir de hoje?
+
+Havendo interesse, ore agredecendo a Jesus nominalmente por estas vidas, peça aos Espírito Santo que as conduza no conhecimento e experência de Jesus Cristo. Que as liberte de todo o vício e de todas as algemas do pecado.
+
+**Pergunta 2:** Com quem você pode compartilhar o estudo de hoje?
 
 Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momento **Descobrindo o Texto** do culto doméstico, de uma maneira mais simples mas também eficaz.
 
