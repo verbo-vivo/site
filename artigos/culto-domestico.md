@@ -22,7 +22,7 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 
 5. Autoridade e Exemplo. A AUTORIDADE maior da família, é o maior responsável pelo crescimento e amadurecimento da sua família no Evangelho de Jesus Cristo, NÃO É A IGREJA LOCAL e nem a célula. A resposta que seus filhos darão ao Evangelho no futuro depende de você. Portanto, desafie e ordene a sua casa a obedecer a tudo que Jesus Cristo ordenou. Conheça as ordenanças de Jesus, obedeça-as e ordene a sua família. Seja em tudo MODELO para eles, em olhos e ouvidos. Você é o servo de todos.
 
-[^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
+[^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração. Em casos de participação majoritariamente de descrentes, o hino pode ser omitido.
 
 ### 2. O Começo
 
@@ -62,13 +62,15 @@ Começe com um hino, ou seja, uma música que seja inteiramente Bíblica. Que TO
 
 Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais.
 
+O momento do Hino pode ser omitido casa haja participação majoritária de não-cristãos.
+
 ### 2. Abertura
 
-- Quais motivos você tem para agradecer a Deus essa semana?
+- (LOUVOR/AÇÃO DE GRÇAS) Quais motivos você tem para agradecer a Deus essa semana?
 
-- Quais dificuldades você teve essa semana?  Podemos fazer algo?
+- (PETIÇÃO) Quais dificuldades você teve essa semana?  Podemos fazer algo?
 
-- Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
+- (RESPONSABILÇ COM O PRÓXIMO) Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
 
 ### 3. Prestação de Contas
 1. Qual passagem estudamos na semana passada? O que você aprendeu?
@@ -82,6 +84,21 @@ Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos s�
 - Contação de Histórias: muito interessante para crianças e grupos de tradição oral, sem linguagem escrita.
 
 #### Descobrindo o Texto
+A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Seu papel é ajudar as pessoas a:
+
+- Lêr/ouvir as histórias da Bíblia;
+- Ajudarem-se mutuamente. 
+
+  Se alguém fizer alguma pergunta, devolva-a para o grupo: "E aí, o que vocês acham?".
+  Se caso a dúvida não for esclarecida, diga algo como "Calma, se este texto não responde a pergunta, talvez o texto do próximo encontro responda".
+  É importante que as pessoas tenham a confiança de que não precisam de ter todas as respostas, nem a mesmo as Escrituras respondem todas as nossas perguntas.
+  
+- Passar a Visão de Multiplicação
+  Considere encaixar conversas do tipo:
+  - *imagine se todas as pessoas aqui do nosso bairro entendesse esta verdade*;
+  - *imagine se as pessoas aqui do bairro temessem a Deus*;
+  - *imagine se as pessoas aqui do bairro fizessem as estas coisas que estamos falando aqui*.
+
 1. O que chamou a sua atenção nesse texto?
 2. O que aprendemos sobre Deus/Jesus?
 3. O que aprendemos sobre o homem?
