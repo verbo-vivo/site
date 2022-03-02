@@ -4,5 +4,4 @@ title: Verbo Vivo
 
 plugins:
   - "jekyll-github-metadata"
-  - "jekyll-default-layout"
   
