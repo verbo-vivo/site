@@ -2,7 +2,7 @@
 remote-theme: poole/lanyon
 title: Verbo Vivo
 
-plugins:
-  - jekyll-github-metadata
-  - jekyll-default-layout
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-github-metadata
+#  - jekyll-default-layout
+#  - jekyll-remote-theme
