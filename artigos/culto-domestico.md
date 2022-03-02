@@ -10,7 +10,7 @@ O CD deve ser coordenado para liderança da casa. O maior responsável é a figu
 
 CD não é um ritual, mas um meio extraordinário de discipular a família diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
 
-Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho a realizar o CD Simplificado [^cds] após uma das refeições em família, mesmo que não seja todos os dias. Opte por usar o _ANEXO 1: Sets de Estudo Bíblico Cronológico_ (no final deste artigo). À medidade que perceber aumento do interesse, começe a aplicar o CD na suas forma mais próxima o possível do ideal. Jesus sempre usou o momento da Refeição como estratégico para discipular. Caso você não seja a autoridade na sua família, à medida que seus pais converterem, considere passar a responsabilidade do CD a eles. Não esqueça de ao fim de cada encontro desafiar seus ouvintes a entregar sua vida ao senhorio de Jesus Cristo.
+Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho a realizar o CD Simplificado [^cds] após uma das refeições em família, mesmo que não seja todos os dias. Opte por usar o _ANEXO 1: Sets de Estudo Bíblico Cronológico_ (no final deste artigo). À medida que perceber aumento de interesse, começe a aplicar o CD na suas forma mais próxima possível do ideal. Jesus sempre usou o momento da Refeição como estratégico para discipular. Caso você não seja a autoridade na sua família, à medida que seus pais converterem, considere passar a responsabilidade do CD a eles. Não esqueça de ao fim de cada encontro desafiar seus ouvintes a entregar sua vida ao senhorio de Jesus Cristo.
 
 É importante observar alguns preceitos:
 
