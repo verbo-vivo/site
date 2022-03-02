@@ -1,5 +1,7 @@
 # Culto Doméstico
 
+Por Moisés Paes Sena. Disponível em https://verbo-vivo.github.io/site/artigos/culto-domestico.html
+
 Roteiro para um Culto Doméstico (CD), que envolve e prepara toda a família, inclusive as crianças, para anunciar Jesus Cristo e discipular as nações da terra.
 
 ## Introdução
