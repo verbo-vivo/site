@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # Culto Doméstico
 
 Roteiro para um Culto Doméstico (CD), que envolve e prepara toda a família, inclusive as crianças, para anunciar Jesus Cristo e discipular as nações da terra.
