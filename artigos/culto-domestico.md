@@ -24,6 +24,12 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 
 [^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
 
+### 2. O Começo
+
+- Considere começar o CD na sua família definindo o dia e horário, ainda que o horário varie ao longo da semana.
+- Começo com pelo menos UM dia, mas marque a data para acrescentar mais um dia, até seja um realidade diária.
+- Considere realizar o CD de forma simplificada[^cds] alguns dias da semana, é importante para aprendizado.
+
 ### 2. Texto Base do compartilhamento
 
 O CD do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do CD. Nestes "cultos" da Igreja Local, a pessoa responsável pelo CD no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
