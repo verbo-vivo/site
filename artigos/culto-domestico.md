@@ -151,13 +151,13 @@ As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associa�
 2. O que aprendemos sobre Deus, Jesus ou o Espírito Santo?
 3. O que aprendemos sobre nós, a humanidade,as pessoas?
 
-###### 4.3.1.2 Aplicação Pessoal
+###### 4.3.2 Aplicação Pessoal
 
 Pergunta: O que você acha que Deus quer que você faça?
 
 Deixe as pessoas falarem e pensarem.
 
-###### 4.3.1.3 Desafio
+###### 4.3.3 Desafio
 
 Pergunta: Com quem você pode compartilhar o estudo de hoje?
 
