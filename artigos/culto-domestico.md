@@ -10,7 +10,7 @@ O CD deve ser coordenado para liderança da casa. O maior responsável é a figu
 
 CD não é um ritual, mas um meio extraordinário de discipular a família diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
 
-Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho a realizar o CD Simplificado [^cds] após uma das refeições em família, mesmo que não seja todos os dias. Opte por usar o _ANEXO 1: Sets de Estudo Bíblico Cronológico_ (no final deste artigo). Jesus sempre usou o momento da Refeição como estratégico para discipular. Caso você não seja a autoridade na sua família, à medida que seus pais converterem, considere passar a responsabilidade do CD a eles. Não esqueça de ao fim de cada encontro desafiar seus ouvintes a entregar sua vida ao senhorio de Jesus Cristo.
+Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho a realizar o CD Simplificado [^cds] após uma das refeições em família, mesmo que não seja todos os dias. Opte por usar o _ANEXO 1: Sets de Estudo Bíblico Cronológico_ (no final deste artigo). À medidade que você perceber interesse, começar a aplicar o CD na suas forma mais próxima o possível do ideal. Jesus sempre usou o momento da Refeição como estratégico para discipular. Caso você não seja a autoridade na sua família, à medida que seus pais converterem, considere passar a responsabilidade do CD a eles. Não esqueça de ao fim de cada encontro desafiar seus ouvintes a entregar sua vida ao senhorio de Jesus Cristo.
 
 É importante observar alguns preceitos:
 
@@ -26,7 +26,7 @@ Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho
 
 5. Autoridade e Exemplo. A AUTORIDADE maior da família, é o maior responsável pelo crescimento e amadurecimento da sua família no Evangelho de Jesus Cristo, NÃO É A IGREJA LOCAL e nem a célula. A resposta que seus filhos darão ao Evangelho no futuro depende de você. Portanto, desafie e ordene a sua casa a obedecer a tudo que Jesus Cristo ordenou. Conheça as ordenanças de Jesus, obedeça-as e ordene a sua família. Seja em tudo MODELO para eles, em olhos e ouvidos. Você é o servo de todos.
 
-[^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração. Em casos de participação majoritariamente de descrentes, o hino pode ser omitido.
+[^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
 
 ### O Começo
 
