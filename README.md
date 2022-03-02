@@ -1,4 +1,6 @@
-## Seja Bem Vindo
+## Artigos
+- [Culto Doméstico](./artigos/culto-domestico)
 
-- [Artigos](./artigos)
+## Exposição Bíblica
+
 - [Exposição Bíblica](./exposicao-biblia)
