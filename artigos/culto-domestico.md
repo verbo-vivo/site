@@ -130,18 +130,18 @@ A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Se
   - *imagine se as pessoas aqui do bairro temessem a Deus*;
   - *imagine se as pessoas aqui do bairro fizessem as estas coisas que estamos falando aqui*.
 
-##### 1. Facilitador: Ler ou Contar
+##### 4.1. Facilitador: Ler ou Contar
 
 O facilitador lê ou conta o texto/história pequena mais de uma vez, com toda calma, paciência e pontuação. Imagine contar para uma criança.
 
-##### 2. Grupo: contar com suas palavras
+##### 4.2. Grupo: contar com suas palavras
 
 Cada pessoa do grupo, de maneira ordenada, repete o texto com suas próprias palavras, inclusive as crianças tem a liberdade de falar. O grupo vai completando ou trazendo novas observações.
 
 
-##### 3. Facilitador: faz algumas perguntas para dirigir a discussão
+##### 4.3. Facilitador: faz algumas perguntas para dirigir a discussão
 
-**Compreensão do texto ou história**
+###### 4.3.1. Compreensão do texto ou história
 
 As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associações com outros textos da Bíblia.
   
@@ -151,13 +151,13 @@ As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associa�
 2. O que aprendemos sobre Deus, Jesus ou o Espírito Santo?
 3. O que aprendemos sobre nós, a humanidade,as pessoas?
 
-**Aplicação Pessoal**
+###### 4.3.1.2 Aplicação Pessoal
 
 Pergunta: O que você acha que Deus quer que você faça?
 
 Deixe as pessoas falarem e pensarem.
 
-**Desafio**
+###### 4.3.1.3 Desafio
 
 Pergunta: Com quem você pode compartilhar o estudo de hoje?
 
