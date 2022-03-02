@@ -10,7 +10,7 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 
 É importante observar alguns preceitos:
 
-### 1. Prioridade e Valor
+### Prioridade e Valor
 
 1. O CD não um apêndice na rotina da família. Este tem a prioridade. A ele está reservado o horário NOBRE da família.
 
@@ -24,31 +24,47 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 
 [^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração. Em casos de participação majoritariamente de descrentes, o hino pode ser omitido.
 
-### 2. O Começo
+### O Começo
 
 - Considere começar o CD na sua família definindo o dia e horário, ainda que o horário varie ao longo da semana.
 - Começo com pelo menos UM dia, mas marque a data para acrescentar mais um dia, até seja um realidade diária.
 - Considere realizar o CD de forma simplificada[^cds] alguns dias da semana, é importante para aprendizado.
 
-### 2. Texto Base do compartilhamento
+### Texto Base do compartilhamento
 
 O CD do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do CD. Nestes "cultos" da Igreja Local, a pessoa responsável pelo CD no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
 
-### 3. Organização e Escala
+### Organização, Escala
 
-O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o CD. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO. 
+1. O LÍDER da família deve fazer a escala com antecedência para que a família tenha tempo para se organizar e preparar para o CD. Inclusive a pessoa que vai coordenar o compartilhamento do ESTUDO BÍBLICO. 
 
-Considere incluir crianças na escala e delegar mesmo que uma simples tarefa, como recitar um versículo decorado algumas vezes na semana ou mesmo cantar um hino, de acordo com a idade. Todos devem participar, mas em uma única vez. Seja inteligente e moderado.
+2. Considere incluir crianças na escala e delegar mesmo que uma simples tarefa, como recitar um versículo decorado algumas vezes na semana ou mesmo cantar um hino, de acordo com a idade. Todos devem participar, mas em uma única vez. Seja inteligente e moderado.
+
+### É Culto, não SPA
+
+As crianças, devem estar perto de adultos, preferencialmente pais, quietas e atentas, sem forçar. O pais precisam fazer isto acontecer. É culto, não SPA.
+
+No culto, tem criança de peito, de colo etc, e criança às vezes chora e se necessário alguém mais maduro pode ajudar, mas considere não deixar tumultuar.
+
+Este não é um momento de recreação, mas de adoração. Caso haja crianças, escolha outro momento para brincar, mas não use o argumento de recreação para ajuntar as crianças no CD. Evite brinquedos. **É para as crianças cultuarem** e adorarem ao Único digno eternamente de todo louvor, honra, glória e adoração.
+
+Todo culto requer ORDEM e RESPEITO.
 
 **SIMPLICIDADE** e dedicação é o segredo do culto doméstico.
 
-### 4. Duração
+### Convidados
+
+- Escolha um dia da semana para trazer convidados, pessoas próximas e conhecidas. Evite colocar estranhos, alcoolizados etc.
+- Jesus não morreu apenas por você e sua família, mas para que TODOS OS POVOS O ADOREM. Jesus é O REMÉDIO DOS POVOS. Portanto, não seja egoísta.
+- Coloque a família toda para orar pelos convidados durante a semana que antecede o CD. Apresentem a Deus suas necessidades e orem para que tenham um encontro pessoal com O Jesus Cristo ressurreto.
+
+### Duração
 
 O CD não deverá ultrapassar 1 hora, para não ficar enfadonho e desmotivar a família e os filhos pequenos. A vida familiar precisa ser um culto, e não apenas o CULTO DOMÉSTICO.
 
 Para grupos onde tempo não é um problema, o tempo do CD pode ser mais prolongado. MUITO CUIDADO para o mesmo não se tornar enfadonho.
 
-### 5. Oração e Jejum
+### Oração e Jejum
 
 A AUTORIDADE maior da família (principalmente os PAIS) deve orar continuamente e específicamente pelas demandas de cada membro. 
 
@@ -66,24 +82,39 @@ O momento do Hino pode ser omitido casa haja participação majoritária de não
 
 ### 2. Abertura
 
-- (LOUVOR/AÇÃO DE GRÇAS) Quais motivos você tem para agradecer a Deus essa semana?
+- (LOUVOR/ADORAÇÃO) Quais motivos você tem para **_agradecer_** a Deus essa semana? (pelo que Deus fez, ou pelo que Deus É)
 
-- (PETIÇÃO) Quais dificuldades você teve essa semana?  Podemos fazer algo?
+- (INTERSEÇÃO/SERVIÇO) Quais **_dificuldades você teve_** essa semana? 
+  
+  Tem alguma coisa que podemos fazer para ajudar esta pessoa na dificuldade que ela está tendo?
 
-- (RESPONSABILÇ COM O PRÓXIMO) Quais dificuldades vemos ao nosso redor? Podemos fazer algo?
+- (INTERSEÇÃO/SERVIÇO) Quais **_dificuldades vemos ao nosso redor_**? (nossos amigos, nossa famíga, comunidade, bairro, país, etc)?
+  
+  Podemos fazer algo para resolver isto?
+
+Considere deixar claro: *Você pode compartilhar conosco aqui, e isto é ótimo! mas você também pode falar estas coisas para Deus.*
+
+NOTA: Com estas três perguntas, ensinamos as pessoas a 1) louvar a Deus e ser agradecidos pelo que Ele faz e o que Ele é. 2) A clamar pelas nossas dificuldades e as dificuldades ao nosso redor e, 3) A servirem as pessoas do grupo e as pessoas ao redor.
 
 ### 3. Prestação de Contas
-1. Qual passagem estudamos na semana passada? O que você aprendeu?
-2. Você se comprometeu em fazer algumas coisas esta semana, como foi?
+
+Este momento não se aplica ao primeiro encontro.
+
+As perguntas a seguir ajudam a criar uma cultura de prestação de contas e responsabilidade com o Reino de Deus, isto é, APRENDER E COLOCAR EM PRÁTICA.
+
+1. Qual passagem estudamos no encontro passado? O que você aprendeu?
+2. Você se comprometeu em fazer algumas coisas no último encontro, como foi?
 3. Como foi quando compartilhou com outros?
 
 ### 4. Estudo Bíblico de Descobrimento
 
 #### Tipos
-- Semi-oral
+- Semi-oral: leitura e conversa;
 - Contação de Histórias: muito interessante para crianças e grupos de tradição oral, sem linguagem escrita.
 
 #### Descobrindo o Texto
+
+##### Algumas Observações
 A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Seu papel é ajudar as pessoas a:
 
 - Lêr/ouvir as histórias da Bíblia;
@@ -99,12 +130,38 @@ A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Se
   - *imagine se as pessoas aqui do bairro temessem a Deus*;
   - *imagine se as pessoas aqui do bairro fizessem as estas coisas que estamos falando aqui*.
 
-1. O que chamou a sua atenção nesse texto?
-2. O que aprendemos sobre Deus/Jesus?
-3. O que aprendemos sobre o homem?
-4. O que você acha que Deus quer que você faça?
-5. Com quem você pode compartilhar o estudo de hoje?
+##### 1. Facilitador: Ler ou Contar
 
+O facilitador lê ou conta o texto/história pequena mais de uma vez, com toda calma, paciência e pontuação. Imagine contar para uma criança.
+
+##### 2. Grupo: contar com suas palavras
+
+Cada pessoa do grupo, de maneira ordenada, repete o texto com suas próprias palavras, inclusive as crianças tem a liberdade de falar. O grupo vai completando ou trazendo novas observações.
+
+
+##### 3. Facilitador: faz algumas perguntas para dirigir a discussão
+
+**Compreensão do texto ou história**
+
+As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associações com outros textos da Bíblia.
+  
+1. O que chamou a sua atenção nesse texto?
+   Teve alguma dificuldade, alguma coisa que surpreendeu ou não compreendeu?
+
+2. O que aprendemos sobre Deus, Jesus ou o Espírito Santo?
+3. O que aprendemos sobre nós, a humanidade,as pessoas?
+
+**Aplicação Pessoal**
+
+Pergunta: O que você acha que Deus quer que você faça?
+
+Deixe as pessoas falarem e pensarem.
+
+**Desafio**
+
+Pergunta: Com quem você pode compartilhar o estudo de hoje?
+
+Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momento **Descobrindo o Texto** do culto doméstico, de uma maneira mais simples mas também eficaz.
 
 ## Sets de Estudo Bíblico Cronológico
 ### Contação de Histórias
