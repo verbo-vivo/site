@@ -1,4 +1,8 @@
 # theme: jekyll-theme-cayman
 remote-theme: poole/lanyon
 title: Verbo Vivo
-slogan: A Palavra Viva, do Deus vivo
+
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-default-layout"
+  
