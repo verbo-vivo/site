@@ -78,7 +78,9 @@ Começe com um hino, ou seja, uma música que seja inteiramente Bíblica. Que TO
 
 Hino não é uma apreciação musical, mas a Bíblia em forma de canto. Hinos são também chamados de Cantos Congregacionais.
 
-O momento do Hino pode ser omitido casa haja participação majoritária de não-cristãos.
+**A recitação de um Salmo deve ocupar o lugar de hino ou corinho periodicamente.**
+
+Salmos cantados, Hinários e livro de Corinhos, tais como: Harpa Cristã (Assembléias de Deus), Cantor Cristão (Batistas), Novo Cântico (Igreja Presbiteriana) etc; são ótimas opções para se cantar no CD.
 
 ### 2. Abertura
 
@@ -115,10 +117,19 @@ As perguntas a seguir ajudam a criar uma cultura de prestação de contas e resp
 #### Descobrindo o Texto
 
 ##### Algumas Observações
+
+o OBJETIVO deste tipo de estudo bíblico é provocar nas pessoas o interesse pelo estudos das ESCRITURAS sem qualquer outro material externo. Ter o Espírito Santo como principal mentor para interpretação e aplicação dos textos, mesmo que difíceis.
+
+Este modelo de estudo possibilita que qualquer pessoa, em qualquer lugar, seja capaz de estudar a Bíblia com seriedade e devoção tendo a Bíblia completa, parcial, ou apenas alguma história decorada, provando que a História é de Deus e não nossa, o protagonista é Jesus Cristo e não nós, e que o Espírito Santo nos ensina e revela todas as coisas necessárias para o conhecimento de Cristo a prática da perfeita justiça.
+
+O texto bíblico lido ou a história bíblica contada ocupa o centro das atenções. A Bíblia fala com as pesssoas. Não é pregação, aula ou exposição. Não tem mensagem recomendada, isto é, focada em uma pessoa. Todos humildemente se colocam debaixo do texto ou história para aprender.
+
+A família que quiser se aprofundar em algum assunto específico pode e deve fazê-lo em dia próprio, vez por outra, mas não sempre. Pode inclusive, se for o caso, convidar algum líder da Igreja Local para orientar e explicar à família. Tenha o cuidado com estudos bíblicos mais profundos, pois nem sempre o grupo todo é edificado.
+
 A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Seu papel é ajudar as pessoas a:
 
 - Lêr/ouvir as histórias da Bíblia;
-- Ajudarem-se mutuamente. 
+- Ajudarem-se mutuamente.
 
   Se alguém fizer alguma pergunta, devolva-a para o grupo: "E aí, o que vocês acham?".
   Se caso a dúvida não for esclarecida, diga algo como "Calma, se este texto não responde a pergunta, talvez o texto do próximo encontro responda".
@@ -129,6 +140,17 @@ A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Se
   - *imagine se todas as pessoas aqui do nosso bairro entendesse esta verdade*;
   - *imagine se as pessoas aqui do bairro temessem a Deus*;
   - *imagine se as pessoas aqui do bairro fizessem as estas coisas que estamos falando aqui*.
+
+##### Alguns Cuidados
+
+Alguns cuidados precisam ser tomados no CD, e toda a família, principalmente o PAI, a MÃE e o COORDENADOR devem garantir estes cuidados:
+
+- Não apontar ou falar mal das pessoas e suas práticas;
+- O protagonista é sempre JESUS CRISTO;
+- Evitar menção de informação fora da BÍBLIA, principalmente filosofias, pedagogias, psicologias, *colts*/mentores e ciências de todo tipo;
+- Nossa fonte de verdade é a Bíblia e nosso mestre é o Espírito Santo;
+- Não somos judeus e muito menos estamos debaixo da Lei de Moisés. O Evagelho a nós anunciado é o Evangelho aos gentios, o Evagelho da liberdade e da Graça de Deus. Portanto, leis e costumes (mesmo os da Igreja Local) estão fora do escopo do CD.
+  Se algum crente *de costume* trazer este assunto à tona, com muito jeito deixe claro para o grupo que nossos costumes são apenas para bom convívio uns para com os outros e que não tem validade espiritual por si mesmo. Gerando discussão ou desconforto os mesmos precisam ser ponderados e até mesmo reconsiderados. Todos que colocam alguma expectiva em feitos humanos estão debaixo de maldição. (1Tm 1;Gl 3).
 
 ##### 4.1. Facilitador: Ler ou Contar
 
