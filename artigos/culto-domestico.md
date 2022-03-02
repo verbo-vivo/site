@@ -87,11 +87,11 @@ Salmos cantados, Hinários e livro de Corinhos, tais como: Harpa Cristã (Assemb
 - (LOUVOR/ADORAÇÃO) Quais motivos você tem para **_agradecer_** a Deus essa semana? (pelo que Deus fez, ou pelo que Deus É)
 
 - (INTERSEÇÃO/SERVIÇO) Quais **_dificuldades você teve_** essa semana? 
-  
+
   Tem alguma coisa que podemos fazer para ajudar esta pessoa na dificuldade que ela está tendo?
 
 - (INTERSEÇÃO/SERVIÇO) Quais **_dificuldades vemos ao nosso redor_**? (nossos amigos, nossa famíga, comunidade, bairro, país, etc)?
-  
+
   Podemos fazer algo para resolver isto?
 
 Considere deixar claro: *Você pode compartilhar conosco aqui, e isto é ótimo! Mas você também pode falar estas coisas para Deus.*
@@ -136,7 +136,7 @@ A pessoa que conduz não é o professor, teólogo ou pastor, mas FACILITADOR. Se
   É importante que as pessoas tenham a confiança de que não precisam de ter todas as respostas, nem a mesmo as Escrituras respondem todas as nossas perguntas.
 
 - Passar a Visão de Multiplicação
-  Considere encaixar conversas do tipo:
+  Considere encaixar frases do tipo:
   - *imagine se todas as pessoas aqui do nosso bairro entendesse esta verdade*;
   - *imagine se as pessoas aqui do bairro temessem a Deus*;
   - *imagine se as pessoas aqui do bairro fizessem as estas coisas que estamos falando aqui*.
@@ -147,8 +147,9 @@ Alguns cuidados precisam ser tomados no CD, e toda a família, principalmente o 
 
 - Não apontar ou falar mal das pessoas e suas práticas;
 - O protagonista é sempre JESUS CRISTO;
+- Nossa fonte de verdade é **unicamente a Bíblia**. A Bíblia é nossa regra de fé e prática e a Ela nos submetemos.
+- Nosso mestre é o Espírito Santo;
 - Evitar menção de informação fora da BÍBLIA, principalmente filosofias, pedagogias, psicologias, *colts*/mentores e ciências de todo tipo;
-- Nossa fonte de verdade é a Bíblia e nosso mestre é o Espírito Santo;
 - Não somos judeus e muito menos estamos debaixo da Lei de Moisés. O Evagelho a nós anunciado é o Evangelho da graça de nosso Senhor com a fé e o amor que há em Cristo Jesus. Portanto, leis e costumes (mesmo os da Igreja Local) estão fora do escopo do CD.
 
   Se algum crente *de costume* trazer este assunto à tona, com muito jeito deixe claro para o grupo que nossos costumes são apenas para bom convívio uns para com os outros e que não tem validade espiritual por si mesmo. Gerando discussão ou desconforto os mesmos precisam ser ponderados e até mesmo reconsiderados. Todos que colocam alguma expectiva em feitos humanos estão debaixo de maldição (1Tm 1;Gl 3).
@@ -166,8 +167,10 @@ Cada pessoa do grupo, de maneira ordenada, repete o texto com suas próprias pal
 
 ###### 4.3.1. Compreensão do texto ou história
 
-As perguntas a seguir ajudam as pessoas a compreenderem o texto. Evitem associações com outros textos da Bíblia.
-  
+Os cristão da nossa cultura têm o costume e *passear* pela Bíblia. *Andam* tanto pela Bíblia que nunca param ouvir Deus falar com eles através de um *simples* texto ou história. Deus escondeu os mistérios do Seu Reino nas histórias das páginas das Escrituras e somente aqueles que se dispuserem a ouvir e meditar e orar e *cavar e cavar e cavar* encontrarão este tão precioso tesouro, a saber a revelação pessoal da Perfeita e Imaculada plenitude de Deus revelada na pessoa de Bendita de Jesus Cristo por meio do Espírito Santo. Portanto, **associações com outros textos da Bíblia devem ser evitados ao máximo**. Deixe o Espírito Santo falar através da Bíblia.
+
+As perguntas a seguir ajudam as pessoas a compreenderem o texto.
+
 1. O que chamou a sua atenção nesse texto?
    Teve alguma dificuldade, alguma coisa que surpreendeu ou não compreendeu?
 
@@ -250,3 +253,4 @@ Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momen
     </ol>
 </td>
 </tr></table>
+
