@@ -108,7 +108,7 @@ As perguntas a seguir ajudam a criar uma cultura de prestação de contas e resp
 
 ### 4. Estudo Bíblico de Descobrimento
 
-#### Tipos
+#### Formatos
 - Semi-oral: leitura e conversa;
 - Contação de Histórias: muito interessante para crianças e grupos de tradição oral, sem linguagem escrita.
 
@@ -163,33 +163,10 @@ Pergunta: Com quem você pode compartilhar o estudo de hoje?
 
 Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momento **Descobrindo o Texto** do culto doméstico, de uma maneira mais simples mas também eficaz.
 
-## Sets de Estudo Bíblico Cronológico
-### Contação de Histórias
+## ANEXOS
+### ANEXO 1: Sets de Estudo Bíblico Cronológico
 
-<table><tr>
-<td>
-    <ol>
-<li>Criação e Queda - Gênesis 2:4, 7-9, 15-25; Genesis 3:1-24</li>
-<li>Noé - Gênesis 6:5-14, 17-22; 7:1-7, 17-24; 8:15-22; 9:8-16</li>
-<li>Korban - Gênesis 22:1-18</li>
-<li>Moisés - Êxodo 1:13; 3:7,10,19-20; 5:1-2; 11:4-5; 12:3,5,12-13,29-30</li>
-<li>Nascimento de Jesus - Lucas 1:26-38; 2:1-21</li>
-    </ol>
-</td>
-    <td>
-    <ol start="6">
-<li>Batismo de Jesus - Mateus 3:1-17</li>
-<li>Tentação de Jesus - Mateus 4:1-11</li>
-<li>Cura do paralítico - Marcos 2:1-12</li>
-<li>Filha de Jairo - Lucas 8:40-56</li>
-<li>Crucificação - Mateus 27:1-2, 15-23; Lucas 23:26-43; João 19:28-30; Mateus  27:57-61</li>
-<li>Ressurreição - Lucas 24:1-12,36-51; Atos 1:10-11</li>
-        <li>Nicodemos - João 3:1-21</li>
-    </ol>
-</td>
-</tr></table>
-
-### Semi-Oral
+#### Para o Formato Semi-Oral
 
 <table><tr>
 <td><ol>
@@ -224,5 +201,30 @@ Deixe pensarem e se possível anotar os nomes. Oriente o grupo a repetir o momen
 <li>Jesus aparece aos discípulos e sobe ao céu - Lucas 24: 36-53</li>
 <li>Entre no Reino de Deus - João 3: 1-21</li>
 </ol></td>
+</tr></table>
+
+#### Para o Formato Contação de Histórias
+
+<table><tr>
+<td>
+    <ol>
+<li>Criação e Queda - Gênesis 2:4, 7-9, 15-25; Genesis 3:1-24</li>
+<li>Noé - Gênesis 6:5-14, 17-22; 7:1-7, 17-24; 8:15-22; 9:8-16</li>
+<li>Korban - Gênesis 22:1-18</li>
+<li>Moisés - Êxodo 1:13; 3:7,10,19-20; 5:1-2; 11:4-5; 12:3,5,12-13,29-30</li>
+<li>Nascimento de Jesus - Lucas 1:26-38; 2:1-21</li>
+    </ol>
+</td>
+    <td>
+    <ol start="6">
+<li>Batismo de Jesus - Mateus 3:1-17</li>
+<li>Tentação de Jesus - Mateus 4:1-11</li>
+<li>Cura do paralítico - Marcos 2:1-12</li>
+<li>Filha de Jairo - Lucas 8:40-56</li>
+<li>Crucificação - Mateus 27:1-2, 15-23; Lucas 23:26-43; João 19:28-30; Mateus  27:57-61</li>
+<li>Ressurreição - Lucas 24:1-12,36-51; Atos 1:10-11</li>
+        <li>Nicodemos - João 3:1-21</li>
+    </ol>
+</td>
 </tr></table>
 
