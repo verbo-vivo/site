@@ -1,5 +1,5 @@
 ## Artigos
-- [Culto Doméstico](./artigos/culto-domestico)
+- [Culto Doméstico](./artigos/culto-domestico.md)
 
 ## Exposição Bíblica
 
