@@ -20,7 +20,7 @@ CD não é um ritual, mas um meio extraordinário de discipular a família diari
 
 4. Se algum membro da família tiver fora de casa, deverá, no horário do CD tirar um tempo especial para oferecer a Deus o seu culto (Daniel fazia isto). Havendo possibilidade (isto é importante), convidadar outras pessoas para participar. Ainda que na forma SIMPLIFICADA [^cds] (ou apenas em espírito), deve ter mente onde quer que esteja lá o Senhor o estará esperando. 
 
-5. Autoridade e Exemplo. A AUTORIDADE maior da família, é o maior responsável pelo crescimento e amadurecimento da sua família no Evangelho de Jesus Cristo, NÃO É A IGREJA LOCAL e nem a célula. A resposta que seus filhos darão ao Evangelho no futuro depende de você. Portanto, desafie e ordene a sua casa a obedecer a tudo que Jesus Cristo ordenou. Portanto, conheça as ordenanças de Jesus, obedeça-as e ordene a sua família. Seja em tudo MODELO para eles, em olhos e ouvidos. Você é o servo de todos.
+5. Autoridade e Exemplo. A AUTORIDADE maior da família, é o maior responsável pelo crescimento e amadurecimento da sua família no Evangelho de Jesus Cristo, NÃO É A IGREJA LOCAL e nem a célula. A resposta que seus filhos darão ao Evangelho no futuro depende de você. Portanto, desafie e ordene a sua casa a obedecer a tudo que Jesus Cristo ordenou. Conheça as ordenanças de Jesus, obedeça-as e ordene a sua família. Seja em tudo MODELO para eles, em olhos e ouvidos. Você é o servo de todos.
 
 [^cds]: O CD Simplificado deve contemplar: um hino, leitura de um texto bíblico (com reflexão) e oração.
 
