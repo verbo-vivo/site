@@ -1,5 +1,4 @@
-# theme: lanyon
-remote-theme: poole/lanyon
+theme: primer
 title: Verbo Vivo
 
 #plugins:
