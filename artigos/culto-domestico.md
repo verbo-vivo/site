@@ -6,7 +6,7 @@ Roteiro para um Culto Doméstico (CD), que envolve e prepara toda a família, in
 
 ## Introdução
 
-O CD deve ser coordenado para liderança da casa. O maior responsável é a figura paterna da casa (PAI) (veja Gn 17), a seguir, a figura materna (MAE), seguido dos filhos em ordem de maior para menor idade. Todos precisam aprender, estes ensinarão seus filhos. Esta é uma ordem de AUTORIDADE.
+O CD deve ser coordenado para liderança da casa. O maior responsável é a figura paterna da casa (PAI, veja Gn 18:17-19), a seguir, a figura materna (MAE, veja 2Tm 1:5;3:14-17), seguido dos filhos em ordem de maior para menor idade. Todos precisam aprender, estes ensinarão seus filhos. Esta é uma ordem de AUTORIDADE.
 
 CD não é um ritual, mas um meio extraordinário de discipular a família diariamente. Isto é OBEDECER a TUDO o que Jesus ordenou (Mt 28).
 
@@ -37,6 +37,16 @@ Caso você seja o primeiro da sua família a entregar-se a Cristo, te a conselho
 ### Texto Base do Estudo Bíblico
 
 O CD do dia posterior ao CULTO PRINCIPAL (culto Solene, Celebração etc) e ESTUDO BÍBLICO (Treinamento de Líderes, Culto de Doutrina etc) da Igreja Local deve ter como temática do Estudo Bíblico o TEXTO BÍBLICO de maior importância destas ministrações (apenas este, se mais de um texto for usado). Estes devem ser ministrados pela maior autoridade da família presente no dia do CD. Nestes "cultos" da Igreja Local, a pessoa responsável pelo CD no dia seguinte, deverá ter papel e caneta na mão para fazer anotações e se preparar de modo especial. Nestes cultos da Igreja Local é transmitida a "Doutrina dos Apóstolos", também chamada de "Sã Doutrina", portanto, requer maior zelo e reverência e, somente a figura de autoridade deverá ministrar à família.
+
+#### Livros da Bíblia para serem estudados no CD
+
+Embora _Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça,
+para que o homem de Deus seja apto e plenamente preparado para toda boa obra._ (2Tm 3:16,17) e todos os livros tem lugar para edificação dos santos, os livros de maior relevância para pessoas que começaram a caminhar com Cristo, são:
+
+- Gênesis
+- Evangelhos
+- Todo o Novo Testamento
+- Salmos
 
 ### Organização, Escala
 
