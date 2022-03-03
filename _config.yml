@@ -1,7 +1,4 @@
-remote_theme: pages-themes/primer@v0.2.0
 title: Verbo Vivo
-plugins:
-- jekyll-remote-theme
 
 #plugins:
 #  - jekyll-github-metadata
