@@ -5,7 +5,7 @@ Viver é conviver com Deus por meio de Jesus Cristo, a verdadeira Vida. Ele é o
 Devocional é uma ferramenta poderosa para nos ajudar a desenvolver o hábito de estar com Deus na melhor parte do dia, para honrá-lo de um maneira especial. Pois o verdadeiro filho de Deus vive cada segundo de vida para HONRAR E ADORAR SEU PAI, fazendo-o conhecido por todos mesmo quando executa as tarefas mais desprezadas da vida humana.
 
 > — Mestre, qual é o grande mandamento na Lei?
-Jesus respondeu: — "Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento."
+Jesus respondeu: — "_Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento._"
 Este é o grande e primeiro mandamento. (Mateus 22:36-38)
 
 ## 1. Horário
