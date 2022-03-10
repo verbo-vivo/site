@@ -1,12 +1,16 @@
 # Sugestão de Como Organizar o Devocional
 
+> [...] busquem em primeiro lugar o Reino de Deus e a sua justiça, e todas estas coisas lhes serão acrescentadas. (Mateus 6:33)
+
 Viver é conviver com Deus por meio de Jesus Cristo, a verdadeira Vida. Ele é o único digno de todo o nosso coração, de toda a nossa vida e toda a nossa força. O cristianismo não um parte da vida de alguém. É a vida toda. Do acordar ao adormecer e enquanto dormindo. Muito pensam que podem amar a Deus separando um tempo para Ele, mas isto é um grande engano. Ele exige o que é dEle por direito da natureza: tudo e toda a nossa vida e não parte dela. Tudo é de Deus e o é UNICAMENTE PARA O LOUVOR DA SUA GLÓRIA.
 
 Devocional é uma ferramenta poderosa para nos ajudar a desenvolver o hábito de estar com Deus na melhor parte do dia, para honrá-lo de um maneira especial. Pois o verdadeiro filho de Deus vive cada segundo de vida para HONRAR E ADORAR SEU PAI, fazendo-o conhecido por todos mesmo quando executa as tarefas mais desprezadas da vida humana.
 
 > — Mestre, qual é o grande mandamento na Lei?
-Jesus respondeu: — "_Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento._"
-Este é o grande e primeiro mandamento. (Mateus 22:36-38)
+> Jesus respondeu: <br /> 
+> — _Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento._ Este é o grande e primeiro mandamento.
+> 
+> (Mateus 22:36-38)
 
 ## 1. Horário
 Escolha um horário em que você esteja bem, não muito cansado, não muito com sono. Lembre-se Jesus precisa ser sua prioridade.
