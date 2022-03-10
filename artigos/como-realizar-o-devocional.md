@@ -28,7 +28,7 @@ Se possível cante, ouça louvores ou recite um salmo. Quanto a louvores e músi
 ## 4. Oração
 
 1. Ore com confiança que Deus está perto e te ouve. Ore sempre através de Jesus, usando expressões tais como *"Pai, no Nome de Jesus Cristo eu te ..."*. Ore confessando seus pecados. 
-2. Ore agradençendo a Deus pelos Seus feitos na sua vida, na vida de seus familiares, na vida dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e na vida do próximo. Ore apresentando suas demandas (incluindo a proteção de Deus), as de seus familiares, dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e do próximo. Esforçe por citar (anote se for preciso) os nomes destas pessoas a Deus.
+2. Ore agradeçendo a Deus pelos Seus feitos na sua vida, na vida de seus familiares, na vida dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e na vida do próximo. Ore apresentando suas demandas (incluindo a proteção de Deus), as de seus familiares, dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e do próximo. Esforçe por citar (anote se for preciso) os nomes destas pessoas a Deus.
 3. Ore para que o Espírito Santo de ajude a compreender o texto bíblico que será lido.
 
 ## 5. Estudo de um texto bíblico
