@@ -21,9 +21,13 @@ Escolha um horário em que você esteja bem, não muito cansado, não muito com 
 
 Escolha o melhor lugar dentre as suas opções para louvar, lêr a Bíblia e orar. (citação acima: Jesus foi para o deserto.)
 
-## 3. Hino
+## 3. Louvor
 
-Se possível cante, ouça louvores ou recite um salmo. Quanto a louvores e músicas, escolha aquelas que falam da pessoa de Jesus ou dos seus feitos, mas evite as que falam sobre as pessoas (sentimentos, angustias etc).
+LOUVAR NÃO é sinônimo de ouvir hinos ou cantá-los. LOUVAR é contar para Deus sua alegria de tê-lo como Pai. Faz parte do louvor contar para o PAI a nossa alegeria de ver e ouvir a respeito dos Seus feitos maravilhoso e dizer as coisas que temos aprendido sobre Ele e com Ele. Em outras palavras, Louvar é manisfestar nossa admiração para com Deus. É extremamente pessoal.
+
+É uma boa ideia fazer de um hino nossas palavras. Portanto, tenha suas próprias palavras de louvor ou cante um hino, ouça hinos, ou ainda, recite um salmo. Um boa dica é você sempre alternar entre estas opções.
+
+Quanto a hinos, escolha apenas os LOUVAM ao Pai, isto é: aqueles que falam da pessoa de Jesus ou dos seus feitos. Mas evite as que falam sobre as pessoas (sentimentos, angustias etc), pois estes, louvam as pessoas e não a Deus nosso PAI.
 
 ## 4. Oração
 
