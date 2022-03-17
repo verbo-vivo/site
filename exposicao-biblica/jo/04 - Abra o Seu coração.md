@@ -25,9 +25,13 @@ Havia uma inimizade religiosa histórica entre os judeus e os samaritanos, o que
 
 ## 3. A humanidade de Jesus
 
-> Jesus, pois, cansado do caminho, assentou-se assim junto da fonte (v. 6)
+> Jesus, pois, cansado do caminho (v. 6)
+> 
+> dê-me um pouco de água (v. 7)
 
-Embora o escritor do Evangelho, João, escreve com um propósito claro: *[...] para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome.* (Jo 20:31) faz questão de mostrar a humanidade de Jesus. Jesus estava cansado.
+Embora o escritor do Evangelho, João, escreve com um propósito claro: *[...] para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome.* (Jo 20:31) faz questão de mostrar a humanidade de Jesus. Jesus estava cansado e com sede.
 
 ## 4. Um mensageiro inesperado
+
+
 
