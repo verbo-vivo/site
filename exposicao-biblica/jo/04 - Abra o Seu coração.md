@@ -1,6 +1,20 @@
-# Abra o Seu coração
+# Abra o Seu Coração
 
 Texto Base: João 4:1-30
+
+## Introdução
+
+O Espírito Santo, através do Ap. João, vai descortinando a pessoa de Jesus Cristo por meio de diálogos que seguem uma ordem gradual, não cronológica. Os diálogos que expõe a identidade divino-humana de Jesus são:
+
+1. O testemunho de João Batista
+2. O testemunho de André e Pedro
+3. Felipe e Natanael
+4. Nicodemos
+5. A mulher Samaritana
+
+O Ap. João abre o registro do Evangelho de Jesus Cristo apresentando Jesus como o Logos, ou Palavra, que revela o Pai, porque também é divino com o Pai. Ele fez o universo (1.3). Ele satisfaz as necessidades dos israelitas no deserto e agora provê água espiritual aos sedentos (4.13,14).
+
+O Ap. destaca atos e palavras de Jesus, e seus ensinos estão embutidos nas conversas e interações com pessoas e grupos.
 
 Para compreender este texto, algumas questões precisam ser observadas. Vejamos a seguir.
 
@@ -112,13 +126,17 @@ Ela foi buscar água do poço, mas encontrou a Àgua da Vida. Foi sozinha, sem e
 
 Ela propositalmente deixa o cântaro no poço, para que Jesus pudesse saciar a própria sede, e saber que ela havia guardado no coração a lição sobre a natureza da religião verdadeira.
 
+A revelação pessoal de Jesus como o Messias, o Salvador e Redentor da humanidade, o cordeiro de Deus que tira o pecado do mundo, só acontece por meio do Espírito Santo. E esta é a revelação que muda a vida de uma pessoa. Pode parecer simples, mas não é. Jesus desenvolveu toda esta conversa com a mulher, trabalhou os vários aspectos da sua vida pessoal e espiritual para que ela estivesse pronta para este momento. Esta revelação de Jesus encerrou o diálogo. O diálogo já não era mais necessário. Ela creu e a Fonte da Água da Vida brotou de dentro dela.
+
+> Deus, porém, revelou isso (Jesus Cristo e os segredos eternos) a nós por meio do Espírito. Porque o Espírito sonda todas as coisas, até mesmo as profundezas de Deus. (1 Co 2:10)
+
 ## 6. Aplicação
 
 1. Jesus alcança pessoas de maneira pessoal. Você já teve um encontro pessoal com Jesus? 
 
 2. Jesus alcança pessoas estratégicas. Já compartilhou essa esperança com aqueles que estão perto de você?
 
-3. Aqueles que resitem e se justificam não desfrutam do dom de Deus. Pois a cura e o propósito de Deus  vem para os humildes, aqueles que estão sob autoridade. Como está sua submissão às autoridades que Deus estabeleceu sobre sua vida?
+3. Aqueles que resistem não desfrutam do dom de Deus. Pois a cura e o propósito de Deus vem para os humildes, aqueles que estão sob autoridade. Como está sua submissão às autoridades que Deus estabeleceu sobre sua vida (seus pais, seu marido, o pastor, discipulador, chefes/patrão etc)?
 
 4. Os moldes da adoração são estabelecidos por Deus, e não pelos homens.  Você adora a Deus da maneira dele ou à sua maneira?
 
