@@ -18,14 +18,14 @@ O Ap. destaca atos e palavras de Jesus, e seus ensinos estão embutidos nas conv
 
 Para compreender este texto, algumas questões precisam ser observadas. Vejamos a seguir.
 
-## 1. A retirada de Jesus
+## A retirada de Jesus
 
 > Quando Jesus soube que os fariseus tinham ouvido dizer que ele fazia e batizava mais discípulos do que João
 > [...] deixou a Judeia, retirando-se outra vez para a Galileia. (v. 1-3)
 
 João Batista era odiado por muitos fariseus porque seu modelo de ensino os confrontava diretamente e atraía muitas pessoas, de várias classes sociais, incluindo as mulheres, fazendo com que perdessem seguidores. Nesse contexto, surge Jesus também fazendo discípulos e batizando um número ainda mais expressivo de pessoas. Ciente do tempo certo para cada etapa de seu ministério, a fim de evitar conflitos com os fariseus, Jesus deixa a Judeia e retorna à Galiléia.
 
-## 2. Samaria
+## Samaria
 
 > E era-lhe necessário passar por Samaria. (v. 4)
 
@@ -37,14 +37,14 @@ Havia uma inimizade religiosa histórica entre os judeus e os samaritanos, o que
 
 > Porque os seus discípulos tinham ido à cidade comprar comida. (v. 8)
 
-## 3. A humanidade de Jesus
+## A humanidade de Jesus
 
 > Jesus, pois, cansado do caminho (v. 6)
 > dê-me um pouco de água (v. 7)
 
 Embora o escritor do Evangelho, João, escreve com um propósito claro: *[...] para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome.* (Jo 20:31) faz questão de mostrar a humanidade de Jesus. Jesus estava cansado e com sede.
 
-## 4. Uma fresta, janela
+## Uma fresta, janela
 
 > dê-me um pouco de água (v. 7)
 > o senhor não tem balde e o poço é profundo
@@ -68,11 +68,11 @@ Convencida da sua incapacidade de receber o Presente que vem de Deus e que somen
 
 > Senhor, quero que me dê essa água (v. 15)
 
-## 5. Uma questão de Autoridade
+## Uma questão de Autoridade
 
 A conversa sobre a água foi a estratégia que Jesus usou para acessar a raíz do problema desta mulher. Jesus quer curá-la para que ela seja instrumento de cura na vida de outros. Vejamos como Jesus vai aos poucos lidando com as questões e conflitos da mulher.
 
-### 5.1. Revelação
+### Revelação
 
 > Jesus disse: — Vá, chame o seu marido e volte aqui. (v. 16)
 > Ao que a mulher respondeu: — Não tenho marido. (v. 17)
@@ -85,7 +85,7 @@ Deus estabeleceu desde a criação: A mulher está submissa ao pai, e quando cas
 
 Note, Ela não tem alguém que seja autoridade sobre ela: pai ou marido. Ela é a figura da mulher empoderada, auto suficiente, que faz o que quer com o corpo, com a vida. É rebeldia em forma de liberdade. É o tipo de cristão que passa por vários líderes espirituais mas não se submete a ninguém. Quem vive assim, vive como esta mulher. Sua vida é um mar de ansiedade, depressão, doenças de vários tipos, à beira do colapso.
 
-### 5.2. Resistência
+### Resistência
 
 > Agora eu sei que o senhor é um profeta! (v. 19)
 
@@ -95,7 +95,7 @@ Ela percebe a autoridade de Jesus pelo poder das suas palavras. Jesus expôs a s
 
 Embora tenha percebido a autoridade de Jesus ela resiste, tenta justificar. Os insubmissos sempre justificam sua submissão. Querem esconder sua arrogância.
 
-### 5.3. Confronto
+### Confronto
 
 > Jesus respondeu: — Mulher, acredite no que digo (v. 21)
 
@@ -107,13 +107,13 @@ O presente que Deus oferece por meio de Jesus só pode ser alcançado pelos verd
 
 Os judeus adoravam à maneira como Deus os havia instruído, mas os samaritanos não. Agora Deus muda a forma da adoração. Jesus inaugura uma nova maneira de adorar a Deus: *espírito e em verdade*. Deus não aceita mais adoração aos moldes dados por intermédio de Moisés. Agora não é questão de lugar certo, mas de um coração reto. Reto não por esforços humanos, mas pelos feitos de Jesus. O coração reto é verdadeiramente humilde em relação a Jesus.
 
-### 5.4. Uma chama de Esperança
+### Uma chama de Esperança
 
 > Eu sei que virá o Messias, chamado Cristo. Quando ele vier, nos anunciará todas as coisas. (v. 25)
 
 Ao confrontar a mulher, as palavras de Jesus aquecem o seu coração e uma a chama da esperança começou a arder:
 
-### 5.5. Rendição
+### Rendição
 
 > Eu sou o Messias, eu que estou falando com você. (v. 26)
 
@@ -130,7 +130,7 @@ A revelação pessoal de Jesus como o Messias, o Salvador e Redentor da humanida
 
 > Deus, porém, revelou isso (Jesus Cristo e os segredos eternos) a nós por meio do Espírito. Porque o Espírito sonda todas as coisas, até mesmo as profundezas de Deus. (1 Co 2:10)
 
-## 6. Aplicação
+## Aplicação
 
 1. Jesus alcança pessoas de maneira pessoal. Você já teve um encontro pessoal com Jesus? 
 
