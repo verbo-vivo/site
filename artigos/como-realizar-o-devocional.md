@@ -1,12 +1,16 @@
 # Sugestão de Como Organizar o Devocional
 
+> [...] busquem em primeiro lugar o Reino de Deus e a sua justiça, e todas estas coisas lhes serão acrescentadas. (Mateus 6:33)
+
 Viver é conviver com Deus por meio de Jesus Cristo, a verdadeira Vida. Ele é o único digno de todo o nosso coração, de toda a nossa vida e toda a nossa força. O cristianismo não um parte da vida de alguém. É a vida toda. Do acordar ao adormecer e enquanto dormindo. Muito pensam que podem amar a Deus separando um tempo para Ele, mas isto é um grande engano. Ele exige o que é dEle por direito da natureza: tudo e toda a nossa vida e não parte dela. Tudo é de Deus e o é UNICAMENTE PARA O LOUVOR DA SUA GLÓRIA.
 
 Devocional é uma ferramenta poderosa para nos ajudar a desenvolver o hábito de estar com Deus na melhor parte do dia, para honrá-lo de um maneira especial. Pois o verdadeiro filho de Deus vive cada segundo de vida para HONRAR E ADORAR SEU PAI, fazendo-o conhecido por todos mesmo quando executa as tarefas mais desprezadas da vida humana.
 
 > — Mestre, qual é o grande mandamento na Lei?
-Jesus respondeu: — "_Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento._"
-Este é o grande e primeiro mandamento. (Mateus 22:36-38)
+> Jesus respondeu: <br /> 
+> — _Ame o Senhor, seu Deus, de todo o seu coração, de toda a sua alma e de todo o seu entendimento._ Este é o grande e primeiro mandamento.
+> 
+> (Mateus 22:36-38)
 
 ## 1. Horário
 Escolha um horário em que você esteja bem, não muito cansado, não muito com sono. Lembre-se Jesus precisa ser sua prioridade.
@@ -17,14 +21,18 @@ Escolha um horário em que você esteja bem, não muito cansado, não muito com 
 
 Escolha o melhor lugar dentre as suas opções para louvar, lêr a Bíblia e orar. (citação acima: Jesus foi para o deserto.)
 
-## 3. Hino
+## 3. Louvor
 
-Se possível cante, ouça louvores ou recite um salmo. Quanto a louvores e músicas, escolha aquelas que falam da pessoa de Jesus ou dos seus feitos, mas evite as que falam sobre as pessoas (sentimentos, angustias etc).
+LOUVAR NÃO é sinônimo de ouvir hinos ou cantá-los. LOUVAR é contar para Deus sua alegria de tê-lo como Pai. Faz parte do louvor contar para o PAI a nossa alegeria de ver e ouvir a respeito dos Seus feitos maravilhoso e dizer as coisas que temos aprendido sobre Ele e com Ele. Em outras palavras, Louvar é manisfestar nossa admiração para com Deus. É extremamente pessoal.
+
+É uma boa ideia fazer de um hino nossas palavras. Portanto, tenha suas próprias palavras de louvor ou cante um hino, ouça hinos, ou ainda, recite um salmo. Um boa dica é você sempre alternar entre estas opções.
+
+Quanto a hinos, escolha apenas os LOUVAM ao Pai, isto é: aqueles que falam da pessoa de Jesus ou dos seus feitos. Mas evite as que falam sobre as pessoas (sentimentos, angustias etc), pois estes, louvam as pessoas e não a Deus nosso PAI.
 
 ## 4. Oração
 
 1. Ore com confiança que Deus está perto e te ouve. Ore sempre através de Jesus, usando expressões tais como *"Pai, no Nome de Jesus Cristo eu te ..."*. Ore confessando seus pecados. 
-2. Ore agradençendo a Deus pelos Seus feitos na sua vida, na vida de seus familiares, na vida dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e na vida do próximo. Ore apresentando suas demandas (incluindo a proteção de Deus), as de seus familiares, dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e do próximo. Esforçe por citar (anote se for preciso) os nomes destas pessoas a Deus.
+2. Ore agradeçendo a Deus pelos Seus feitos na sua vida, na vida de seus familiares, na vida dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e na vida do próximo. Ore apresentando suas demandas (incluindo a proteção de Deus), as de seus familiares, dos irmãos da célula, dos seus líderes espirituais, dos seus pastores, e do próximo. Esforçe por citar (anote se for preciso) os nomes destas pessoas a Deus.
 3. Ore para que o Espírito Santo de ajude a compreender o texto bíblico que será lido.
 
 ## 5. Estudo de um texto bíblico

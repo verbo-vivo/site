@@ -4,4 +4,4 @@
 
 ## Exposição Bíblica
 
-- [Exposição Bíblica](./exposicao-biblia)
+- [Exposição Bíblica](./exposicao-biblica)
