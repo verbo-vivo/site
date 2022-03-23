@@ -1,43 +1,47 @@
 <style>
-html,
-body {
+html, body {
     background-color: transparent !important;
 }
-
-#write > h1:first-child,
-h1 {
+#write>h1:first-child, h1 {
 	margin-top: 0
 }
-
 @media (min-width: 800px) {
 	#write {
 		column-count: 2;
 	}
 }
-
 h2,
 h3 {
 	margin-top: 1em !important;
 }
-
 body {
 	counter-reset: h2counter;
 }
-
 h1 {
-	counter-reset: h2counter;
 	font-size: 2em;
 }
 
-h2:before {
-	content: counter(h2counter) ".\0000a0\0000a0";
-	counter-increment: h2counter;
-	counter-reset: h3counter;
-}
 
-h3:before {
-	content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
-	counter-increment: h3counter;
+body{counter-reset: section}
+h2{counter-reset: sub-section}
+h3{counter-reset: composite}
+h4{counter-reset: detail}
+
+h2:before{
+    counter-increment: section;
+    content: counter(section) " ";
+}
+h3:before{
+    counter-increment: sub-section;
+    content: counter(section) "." counter(sub-section) " ";
+}
+h4:before{
+    counter-increment: composite;
+    content: counter(section) "." counter(sub-section) "." counter(composite) " ";
+}
+h5:before{
+    counter-increment: detail;
+    content: counter(section) "." counter(sub-section) "." counter(composite) "." counter(detail) " ";
 }
 </style>
 
