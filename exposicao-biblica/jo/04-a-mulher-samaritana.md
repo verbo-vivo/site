@@ -52,7 +52,9 @@ Embora o escritor do Evangelho, João, escreve com um propósito claro: *[...] p
 A mulher tem o que Jesus não tem. Jesus tem o que ela não tem.
 Jesus tem sede, mas a mulher tem a vasilha. A mulher é a terra seca, mas somente Jesus tem a água viva.
 
-Com este diálogo, Jesus está atraindo a atenção desta mulher tão comum, com uma vida cheia de traumas e sofrimentos, sem perspectivas, sem esperança.
+Com este diálogo, Jesus está atraindo a atenção desta mulher tão comum, com uma vida cheia de traumas e sofrimentos, sem perspectivas, sem esperança. Jesus sabe como toca/abre nosso coração. Ele é um Deus pessoal. 
+
+A decisão de abrir o coração é primeiro do Espírito Santo. Deus já conhecia a mulher. Ele trabalha em nós, prepara nosso coração para que possamos responder ao seu amor.
 
 Ainda que com cautela, a mente desta mulher foi sacudida pelas primeiras palavras de Jesus e ela já se viu em terreno desconfortável. Uma fresta foi aberta.
 
@@ -70,7 +72,7 @@ Convencida da sua incapacidade de receber o Presente que vem de Deus e que somen
 
 ## Uma questão de Autoridade
 
-A conversa sobre a água foi a estratégia que Jesus usou para acessar a raíz do problema desta mulher. Jesus quer curá-la para que ela seja instrumento de cura na vida de outros. Vejamos como Jesus vai aos poucos lidando com as questões e conflitos da mulher.
+A conversa sobre a água foi a estratégia que Jesus usou para acessar a raíz do problema desta mulher. Jesus quer curá-la para que ela seja instrumento de cura na vida de outros. A autoridade é da pessoa de Jesus, é Ele quen confronta a mulher. Vejamos como Jesus vai aos poucos lidando com as questões e conflitos da mulher.
 
 ### Revelação
 
@@ -111,7 +113,7 @@ Os judeus adoravam à maneira como Deus os havia instruído, mas os samaritanos 
 
 > Eu sei que virá o Messias, chamado Cristo. Quando ele vier, nos anunciará todas as coisas. (v. 25)
 
-Ao confrontar a mulher, as palavras de Jesus aquecem o seu coração e uma a chama da esperança começou a arder:
+Deus nos proporciona corresponder ao seu amor. Ao confrontar a mulher, as palavras de Jesus aquecem o seu coração e uma a chama da esperança começou a arder:
 
 ### Rendição
 
@@ -134,13 +136,11 @@ A revelação pessoal de Jesus como o Messias, o Salvador e Redentor da humanida
 
 1. Jesus alcança pessoas de maneira pessoal. Você já teve um encontro pessoal com Jesus? 
 
-2. Jesus alcança pessoas estratégicas. Já compartilhou essa esperança com aqueles que estão perto de você?
+VOcê só pode abrir o coração se Deus abrir primeiro o seu coração. É sua a responsabilidade de responder ao amor de Deus. Porque Ele me amou, posso responder/reagir ao seu amor.
 
-3. Aqueles que resistem não desfrutam do dom de Deus. Pois a cura e o propósito de Deus vem para os humildes, aqueles que estão sob autoridade. Como está sua submissão às autoridades que Deus estabeleceu sobre sua vida (seus pais, seu marido, o pastor, discipulador, chefes/patrão etc)?
+2. Jesus confronta, mas oferece cura, esperança e restauração. Você tem desfrutado isso?
 
-4. Os moldes da adoração são estabelecidos por Deus, e não pelos homens.  Você adora a Deus da maneira dele ou à sua maneira?
-
-5. Jesus confronta, mas oferece cura, esperança e restauração. Você tem desfrutado isso?
+Como você vai responder, na sua vida, ao trabalhar de Deus? Só o amor de Deus pode confrontar e restaurar.
 
    
 
