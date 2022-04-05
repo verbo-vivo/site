@@ -78,6 +78,9 @@ Os santos precisam saber qual o seu papel na Missão de Deus, isto é: de fazer 
 
 - Amamos os irmãos da fé (e não o mundo) como Cristo os amou (Jo 13.34) - isto é também socorrer, honrar e discipular.
 - Anunciamos a Jesus Cristo até os confins da terra e discipulamos os convertidos para que estes também estejam engajados na Missão de Deus.
-- Quaquer ação do santo fora da vontade do Espírito Santo será um impecilho para que Deus receba TODA HONRA, TODA GLÓRIA e TODO LOUVOR devido ao seu Nome para sempre.
+- Quaquer ação do santo fora da vontade do Espírito Santo será um empecilho para que Deus receba TODA HONRA, TODA GLÓRIA e TODO LOUVOR devido ao seu Nome para sempre.
+- Ser cheio do Espírito Santo é um mandamento para todo cristão. Enquanto financiador na Missão de Deus, o cristão deve valorizar o seu trabalho. Portanto, não pode ter  medo de colocar preço no serviço que presta. É necessário crescer na profissão. O cristão não trabalha para si, mas para Deus, não tem o direito de subvalorizar o serviço que presta ou contentar-se em ganhar pouco ou estacionar na profissão.
+- O cristão é mordomo do Deus altíssimo e tem a responsabilidade de fazer com que todos os recursos que Deus o confiou sejam bem empregados na Missão do seu Deus. Ele deve retirar os recursos, da maneira certa, dos ímpios (e daqueles que gerem mal) e os colocar à serviço de Deus.
+- O cristão deve ser generoso, sempre pronto para abençoar e socorrer aqueles que o Espírito Santo o conduzir. Mas não ser movido pelas emoções. Os recursos que administra não são seus, é de Deus, e deve ser dispensado conforme o desejo de Deus, para o Louvor da Sua Glória.
 
 Por fim, concluímos que a obra missionária só pode cumprir a expectativa de Deus quando os santos estão desempenhando corretamente o seu papel na Missão de Deus. Todos os santos precisam ser cuidados, pastoreados, supridos nas suas necessidades e discipulados para serem conjuntamente instrumentos de Deus para a cura das nações. Se alguns falham, não podem comprometer a obra rendentora de Jesus Cristo, mas os que falham perdem o seu privilégio de participar da forma como Deus espera nesta obra (falamos de galardões).
