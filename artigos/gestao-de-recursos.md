@@ -56,7 +56,7 @@ Concluímos com base neste texto que:
 1. O alvo da administração dos bens de Deus são dois: **A obra missionária** e o **socorro aos irmãos da fé**.
 2. O alvo não é o eriquecimento de alguns, mas todos têm a responsabilidade de investir na obra missionária e no socorro aos irmãos na medida proporcional ao que Deus os confiou.
 
-## Antigo vs Novo Testamentos
+## Antigo versus Novo Testamentos
 
 O Ensino e leis estabelecidas por Deus do Antigo Testamento tem uma diferença muita clara em relação ao Novo. Esta diferença se baseia no propósito deles. 
 
@@ -68,7 +68,9 @@ No segundo momento, o momento da LEI, os olhos da humanidade deveriam se voltar 
 
 Com a chegada de Jesus Cristo, mudamos de fase. Os olhos da humanidade até então estiveram voltados para um povo, agora, no meio deste povo surge Aquele que assume o protagonismo da história e à Ele, se voltam os olhos da humanidade. Este é a cura das nações. A BOA NOVA precisa alcançar os confins da terra. Os recursos de Deus que antes eram distribuídos para Israel agora são dispersados aos confis da terra para que as famílias da terra sejam curadas. A realidade agora não é de acúmulo de bens, mas de distribuição orientada pelo Espírito Santo com o propósito claro de que Cristo receba adoração dos confins da terra e não apenas de um grupo seleto.
 
-Tanto no Antigo quanto no Novo Testamentos o cuidado com os irmãos da fé em necessidade tem lugar de destaque, principalmente os órfãos e as viúvas. No AT os israelitas enriqueciam enquanto os povos da terra empobreciam. No NT alguns santos vão aos confins da terra (ALI e ALÉM) anunciar o Evangelho e discipular, enquanto os demais, anunciam e discipulam AQUI e ao mesmo tempo saqueiam os ímpios para sustentar aqueles que vão ALI e ALÉM. Tanto os vão quanto os que ficam estão igualmente empenhados na Missão de Deus, embora atuando em papéis estratégicos de acordo com o governo livre do Espírito Santo. Contudo, todos precisam ser plenamente guiados pelo Espírito Santo quanto a ONDE e COMO empregar os recursos que Deus os tem confiado para SUSTENTAR a Missão e socorrer os santos em suas necessidades.
+Tanto no Antigo quanto no Novo Testamentos o cuidado com os irmãos da fé em necessidade tem lugar de destaque, principalmente os órfãos e as viúvas. No AT os israelitas enriqueciam enquanto os povos da terra empobreciam. No NT alguns santos vão aos confins da terra (ALI e ALÉM) anunciar o Evangelho e discipular, enquanto os demais, anunciam e discipulam AQUI e ao mesmo tempo saqueiam os ímpios para sustentar aqueles que vão ALI e ALÉM. Tanto os vão quanto os que ficam estão igualmente empenhados na Missão de Deus, embora atuando em papéis estratégicos de acordo com o governo livre do Espírito Santo. Contudo, todos precisam ser plenamente guiados pelo Espírito Santo quanto a ONDE e COMO empregar os recursos que Deus os tem confiado para SUSTENTAR a Missão e socorrer os santos em suas necessidades. 
+
+Aquele cuja participação na Missão de Deus é ir ALI e ALÉM deve fazer isto com toda a sua vida, confiando que no tempo certo Deus trará todo o recursos necessário para o desempenho da sua tarefa. Aquele cuja participação é levantar recursos, deve igualmente, fazer isto com toda a sua vida, desenvolvendo os meios para gerir cada vez mais uma quantidade maior e enviar uma parte generosa (que agrada a Deus) para os que foram para os confins da terra. 
 
 ## Conclusão
 
@@ -76,5 +78,6 @@ Os santos precisam saber qual o seu papel na Missão de Deus, isto é: de fazer 
 
 - Amamos os irmãos da fé (e não o mundo) como Cristo os amou (Jo 13.34) - isto é também socorrer, honrar e discipular.
 - Anunciamos a Jesus Cristo até os confins da terra e discipulamos os convertidos para que estes também estejam engajados na Missão de Deus.
+- Quaquer ação do santo fora da vontade do Espírito Santo será um impecilho para que Deus receba TODA HONRA, TODA GLÓRIA e TODO LOUVOR devido ao seu Nome para sempre.
 
 Por fim, concluímos que a obra missionária só pode cumprir a expectativa de Deus quando os santos estão desempenhando corretamente o seu papel na Missão de Deus. Todos os santos precisam ser cuidados, pastoreados, supridos nas suas necessidades e discipulados para serem conjuntamente instrumentos de Deus para a cura das nações. Se alguns falham, não podem comprometer a obra rendentora de Jesus Cristo, mas os que falham perdem o seu privilégio de participar da forma como Deus espera nesta obra (falamos de galardões).
