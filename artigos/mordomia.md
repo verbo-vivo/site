@@ -88,9 +88,9 @@ Os santos precisam saber qual o seu papel na Missão de Deus, isto é: de fazer 
 - O cristão deve ser generoso, sempre pronto para abençoar e socorrer aqueles que o Espírito Santo o conduzir. Mas não pode ser movido pelas emoções. Os recursos que administra não são seus, mas de Deus, e devem ser dispensados conforme o desejo de Deus, para o Louvor da Sua Glória.
 - Muitos cristãos vivem como os escravos de Salomão. Quando deveriam administrar os recursos de Deus aqui na terra vivem como escravos. Por causa disto, o nome de Deus é difamado e não glorificado através da vida deles. Esta é a solução para eles:
   1. Se posicionarem diante de Deus como intercessores em oração, jejum e súplica:
-    - Para que os perdidos a sua volta se voltem para Deus de todo o coração. Deve nomear os pecadores com quem convive e apresentá-los a Deus nominalmente junto com as suas causas.
-    - Para que Deus supra as necessidades dos santos, principalmente os que se dedicam na obra de Deus (os pastores, missionários, líderes etc). Deve presentá-los a Deus nominalmente junto com as suas causas e demandas.
-    - Para que o Espírito Santo os ajude a assumir a posição de mordomos de Deus.
+     - Para que os perdidos a sua volta se voltem para Deus de todo o coração. Deve nomear os pecadores com quem convive e apresentá-los a Deus nominalmente junto com as suas causas.
+     - Para que Deus supra as necessidades dos santos, principalmente os que se dedicam na obra de Deus (os pastores, missionários, líderes etc). Deve presentá-los a Deus nominalmente junto com as suas causas e demandas.
+     - Para que o Espírito Santo os ajude a assumir a posição de mordomos de Deus.
   2. Se encherem do Espírito Santo e da Palavra de Deus para conhecerem a Deus da meneira que Ele mesmo quer ser conhecido e compreenderem a expectativa de Deus a seu respeito.
   3. Desafiarem a si mesmos a investir generosamente no reino de Deus à medida dos recursos que estão sob sua mordomia. A começar na vida das pessoas que se dedicam na obra de Deus que estão perto dele. (o pastor, líderes, missionários etc).
 
