@@ -56,7 +56,7 @@ Concluímos com base neste texto que:
 1. O alvo da administração dos bens de Deus são dois: **A obra missionária** e o **socorro aos irmãos da fé**.
 2. O alvo não é o eriquecimento de alguns, mas todos têm a responsabilidade de investir na obra missionária e no socorro aos irmãos na medida proporcional ao que Deus os confiou.
 
-## Antigo versus Novo Testamentos
+## Antigo Testamento versus Novo Testamento
 
 O Ensino e leis estabelecidas por Deus do Antigo Testamento tem uma diferença muita clara em relação ao Novo. Esta diferença se baseia no propósito deles. 
 
