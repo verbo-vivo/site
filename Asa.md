@@ -1,6 +1,6 @@
 ---
 created: 2022-04-10T09:45:59-03:00
-modified: 2022-04-10T09:58:30-03:00
+modified: 2022-04-10T10:08:59-03:00
 ---
 
 # Asa
@@ -17,3 +17,7 @@ modified: 2022-04-10T09:58:30-03:00
 - A palavra de Deus animou asa e ele faz um conserto nacional com Deus
 -  depôs a rainha mãe
 -  Asa consertou a espiritualidade da nação
+-  a autoridade de asa começa a ser sufocada por Baasa
+-  asa não recorre a Deus mas toma decisões por si mesmo
+-  pega os objetos de Deus e os entrega a um rei ímpio
+-  Asa é confrontado pelo profeta
