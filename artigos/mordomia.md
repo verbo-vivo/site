@@ -74,18 +74,54 @@ Tanto no Antigo quanto no Novo Testamentos o cuidado com os irmãos da fé em ne
 
 No passado o saquear era trazer os despojos das guerras, retirando do povo vencido tudo aquilo que Deus orientava para trazer, nada mais e nada menos. Hoje este saquear é negociar com sabedoria de Deus, dirigido e orientado pelo Espírito Santo, claro de forma honesta, mas competente e evidentemente sem mentiras e artimanhas.
 
-Aquele cuja participação na Missão de Deus é ir ALI e ALÉM deve fazer isto com toda a sua vida, confiando que no tempo certo Deus trará todo o recursos necessário para o desempenho da sua tarefa. Aquele cuja participação é levantar recursos, deve igualmente, fazer isto com toda a sua vida, desenvolvendo os meios para gerir cada vez mais uma quantidade maior e enviar uma parte generosa (que agrada a Deus) para os que foram para os confins da terra.
+Aquele cuja participação na Missão de Deus é ir ALI e ALÉM deve fazer isto com toda a sua vida, confiando que no tempo certo Deus trará todos o recursos necessário para o desempenho da sua tarefa. Deve ainda administrar com esmero todos os recursos disponíveis para esta obra da graça (1 Pe.4.10,11), lembrando que os recursos na maioria são lãs das ovelhas e elas com suas próprias vidas estão envolvidas com estes recursos.
 
-Muitos cristãos por não compreenderem corretamente as fases da revelação de Deus caem na armadilha do inimigo das nossas almas. Para certas coisas aplicam a visão do Novo Testamento mas para outras aplicam a visão do Antigo Testamento. Para certas coisas aplicam a lei da Graça e em outras a Lei dada através de Moisés. São libertinos para certos assuntos e legalistas em outros. Uma das áres que mais são confundidos é na financeira (ou mordomia). Até prega-se a Graça de Deus por meio da fé em Jesus, mas a prosperidade financeira é pregada como resultado de obediência às leis do Antigo Testamento. 
+Aquele cujo dom é a prosperidade de Deus (Ec.5.19; Jr.29.11; Jo.10.10; 2 Co.9.8) sua participação é levantar recursos, deve igualmente, fazer isto com toda a sua vida, desenvolvendo os meios para gerir cada vez mais uma quantidade maior e enviar uma parte generosa (que agrada a Deus) para os que foram para os confins da terra (2Co.8.1-5,7, 24; 2 Co.9.6-13; Mt.25.14-30).
+
+Na parábola dos Talentos (Mt.25.14-30) vimos o cuidado de Deus com os recursos que Ele nos distribui (vs.14,15), e que um dia iremos prestar conta a Ele da administração destes bens (vs. 19). Aqueles que retém os recursos, enterrando-os para si mesmos (vs.18), ou para gastar somente em seus deleites, correm o risco de perderem tudo quando Deus requerer a prestação de contas nesta vida e/ou na vindoura (Lc.12.16-21).
+
+Muitos cristãos por não compreenderem corretamente as fases da revelação de Deus caem na armadilha do inimigo das nossas almas. Para certas coisas aplicam a visão do Novo Testamento mas para outras aplicam a visão do Antigo Testamento. Para certas coisas aplicam a lei da Graça e em outras a Lei dada através de Moisés. São libertinos para certos assuntos e legalistas em outros. Uma das áreas que mais são confundidos é na financeira (ou mordomia). Até prega-se a Graça de Deus por meio da fé em Jesus, mas a prosperidade financeira é pregada como resultado de obediência às leis do Antigo Testamento. 
 
 Existe uma recompensa pelo fato de investirmos na obra de Deus, seja com a compreensão correta ou não. Entretanto a compreensão ou atuação incorreta é um fator limitante para que Deus receba toda a Glória e Louvor que merece e deveria receber. Cada pessoa é uma canal para Deus ser Glorificado e Adorado em certa medida, portanto, cabe a cada pessoa ser o canal pelo qual Deus receberá o máximo possível de Glória e Louvor na medida que Deus concedeu por Sua graça. Só podemos a dar Deus aquilo que primeiramente Ele mesmo nos capacitou para fazer, embora, às vezes, mesmo capacitados, impedimos Deus de receber aquilo que lhe pertence por direito eterno.
+
+No princípio de nossa fé por sermos meninos na fé e ainda não compreendermos corretamente a mordomia , contribuímos em obediência a palavra de Deus ou às instruções pastorais, mesmo que as vezes de forma equivocadas ou manipuladas, e Deus nos atende. Com o passar do tempo, crescemos na fé e agora contribuímos mesmo estando em provações financeiras por fé, e posteriormente Deus também nos abençoará. Mas o que Deus espera mesmo é  a nossa maturidade e que contribuamos com alegria e amor a Deus, a sua palavra e principalmente à sua obra (2 Co.8.7,8,24; 2 Co.9.7).
+
+## Ensinamento e visão financeira para o Reino de Deus
+
+Texto Bíblico base: Lc.15.11-32.
+
+Jesus em sua infinita sabedoria utilizava-se dos costumes judaicos para negócios, vida financeira e agricultura para nos ensinar através das parábolas as verdades eternas, no entanto estas histórias são também uma preciosíssima pérola para aprendermos com Jesus sobre como o PAI faz investimentos e semeaduras, como espera que gerimos estes recursos que ele nos dá e como prestaremos contas deles.
+
+> E, acercando-se dele os discípulos, disseram-lhe: Por que lhes falas por parábolas? Ele, respondendo, disse-lhes: Porque a vós é dado conhecer os mistérios do reino dos céus, mas a eles não lhes é dado. (Mt 13.10-11)
+
+A palavra _pródigo_ significa gastador, aquele que gasta mais do que o necessário, um desperdiçador de recursos e de bens, o contrário de um mordomo fiel.
+
+Esta parábola fala de dois filhos sendo um mais novo, o pródigo, que desperdiça seus bens com os deleites desta vida e o mais velho que fica na casa do PAI, mas não entende o significado da mordomia.
+
+Por um tempo os dois filhos contribuíram para a “_casa do PAI_”, trabalhando nas terras dele, que também eram suas por herança. O mais novo entendeu que o que era de seu PAI era seu também, mas de forma totalmente equivocada quis sua herança para gastar em seus próprios deleites, deixando de contribuir para a “_casa do PAI_”. Saiu, levou toda sua herança e a gastou, não investindo mais na “_casa do PAI_”. O resultado foi que perdeu tudo e no tempo das dificuldades ficou na miséria. Uma semente plantada no Reino, em uma terra fértil, se multiplica (Mt.13.23), mas se não for plantada, só consumida, acaba. Agiu como um ímpio e colheu como tal.
+
+O filho mais velho permaneceu contribuindo para a “_casa do PAI_”, isto é, para sua manutenção e crescimento, o entanto não vivia como filho, não desfrutou como filho (v. 31; Rm 8.14-17) e herdeiro, mas como um escravo (vs.29), um adepto da lei de Moisés.
+
+Entretanto o PAI   disse ao filho mais velho “_...tudo que possuo é teu... (vs.31)_”. Observamos que este filho mais velho perdeu anos de sua vida de contribuição vivendo de forma equivocada e não desfrutando de seus benefícios como filho do PAI.
+
+> E, se nós somos filhos, somos logo herdeiros também, verdadeiramente herdeiros de Deus, e co-herdeiros de Cristo (Rm 8.17)
+
+O contrário destes dois filhos nesta parábola, temos o “Filho Jesus”, que deu sua vida para a obra do PAI, CONTRIBUIU DE FORMA CORRETA, com amor, dando sua própria vida a favor de muitos.
+
+> conhecemos o amor nisto: Que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos. 17 Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como reside nele o amor de Deus? 18 meus filhinhos, não amemos de palavra, nem de língua, mas em obra e em verdade. 19 E nisto conhecemos que somos da verdade, e diante dele estaremos seguros em nossos corações; (1 Jo 3:16)
+
+O dar significa, como já mencionamos, dar sendo guiados pelo Espírito de Deus, e não sendo guiados pela carne, pela compreensão carnal (Gl.5.16-18; Rm. 8.13,14).
+
+Devemos lançar as boas sementes   em terras férteis, como no exemplo que Jesus usou como comparações para as parábolas: do Semeador, e do Trigo e o Joio (Mt.13.8, 24). 
+
+Boas sementes financeiras são as sementes semeadas (dadas e dirigidas) por Deus, através do Espírito Santo, claro adquiridas de forma honesta. Terras férteis são também igrejas, missionários e pastores aprovados e dirigidos pelo Espírito Santo, aqueles de coração puro que recebem e pregam a palavra de Deus com ousadia e firmeza de fé, tem raízes, não se escandalizam ou ficam ofendidos atoa, não se envaidecem com as coisas deste mundo, nem tropeçam nos enganos das riquezas e dão fruto (Mc.4.1-20).
 
 ## Conclusão
 
 Os santos precisam saber qual o seu papel na Missão de Deus, isto é: de fazer Cristo Glorificado por todos os povos da terra. Cristo é glorificado quando:
 
-- Amamos os irmãos da fé (e não o mundo) como Cristo os amou (Jo 13.34) - isto é também socorrer, honrar e discipular.
-- Anunciamos a Jesus Cristo até os confins da terra e discipulamos os convertidos para que estes também estejam engajados na Missão de Deus.
+- Amamos os irmãos da fé (e não o mundo) como Cristo os amou e nos mandou amar (Jo 13.34) - isto é também socorrer, honrar e discipular (1 Jo.3.16-19).
+- Anunciamos a Jesus Cristo até os confins da terra, sendo esta nossa principal missão de amor e doação aos perdidos e _discipulamos_ os convertidos para que estes também estejam engajados na Missão de Deus (Mc.16.15,16; Mt.28.19,20).
 - Quaquer ação do santo fora da vontade do Espírito Santo será um empecilho para que Deus receba TODA HONRA, TODA GLÓRIA e TODO LOUVOR devido ao seu Nome para sempre.
 - Ser cheio do Espírito Santo é um mandamento para todo cristão. Enquanto financiador na Missão de Deus, o cristão deve valorizar o seu trabalho. Portanto, não pode ter  medo de colocar preço no serviço que presta. É necessário crescer na profissão. O cristão não trabalha para si, mas para Deus, não tem o direito de subvalorizar o serviço que presta ou contentar-se em ganhar pouco ou estacionar na profissão.
 - O cristão é mordomo do Deus altíssimo e tem a responsabilidade de fazer com que todos os recursos que Deus o confiou sejam bem empregados na Missão do seu Deus. Ele deve retirar os recursos, da maneira certa, dos ímpios (e daqueles que gerem mal) e os colocar à serviço de Deus.
@@ -96,6 +132,7 @@ Os santos precisam saber qual o seu papel na Missão de Deus, isto é: de fazer 
      - Para que Deus supra as necessidades dos santos, principalmente os que se dedicam na obra de Deus (os pastores, missionários, líderes etc). Deve apresentá-los a Deus nominalmente junto com as suas causas e demandas.
      - Para que o Espírito Santo os ajude a assumir a posição de mordomos de Deus.
   2. Se encherem do Espírito Santo e da Palavra de Deus para conhecerem a Deus da meneira que Ele mesmo quer ser conhecido e compreenderem a expectativa de Deus a seu respeito.
-  3. Desafiarem a si mesmos a investir generosamente no reino de Deus à medida dos recursos que estão sob sua mordomia. A começar na vida das pessoas que se dedicam na obra de Deus que estão perto dele. (o pastor, líderes, missionários etc).
+  3. Desafiarem a si mesmos a investir generosamente no reino de Deus à medida dos recursos que estão sob sua mordomia. A começar na vida das pessoas que se dedicam na obra de Deus que estão perto dele. (o pastor, líderes, missionários etc). Quanto mais próximo, maior a prioridade.
+      > E o que é instruído na palavra reparta de todos os seus bens com aquele que o instrui. (Gl 6.6)
 
 Por fim, concluímos que a obra missionária só pode cumprir a expectativa de Deus quando os santos estão desempenhando corretamente o seu papel na Missão de Deus. Todos os santos precisam ser cuidados, pastoreados, supridos nas suas necessidades e discipulados para serem conjuntamente instrumentos de Deus para a cura das nações. Se alguns falham, não podem comprometer a obra rendentora de Jesus Cristo, mas os que falham perdem o seu privilégio de participar da forma como Deus espera nesta obra (falamos de galardões).
