@@ -1,6 +1,6 @@
 ---
 created: 2022-04-17T19:49:07-03:00
-modified: 2022-04-17T20:07:04-03:00
+modified: 2022-04-17T20:07:58-03:00
 ---
 
 # Corpo, alma e espírito
@@ -13,4 +13,4 @@ Morrerás e morrerás: quebra da comunhão para com Deus e inutilidade do ser pa
 
 Assoprou em suas narinas e ele ser tornou alma vivente:
 - o boneco de barro foi transformado em um ser de plena comunhão com Deus e de Deus com o ser. Esta comunhão se define pelo fato que o Espírito de Deus penetrou o boneco de barro e nele ficou. Deus estava envolvendo o ser completamente, dentro e fora. A mesma situação aconte em Até 2.
-- o boneco de barro foi transformado em um ser que vive só te a terra. Tem inteligência, toma decisões, tem sentimentos etc.
+- o boneco de barro foi transformado em um ser que vive sobre a terra e interage com ela e com outros seres. Tem inteligência, toma decisões, tem sentimentos etc.
