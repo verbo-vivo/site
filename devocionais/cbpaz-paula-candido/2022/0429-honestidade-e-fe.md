@@ -1,6 +1,6 @@
 # HONESTIDADE E FÉ
 
-Devocional CBPAZ Paula Cândido - MG em 29/04/2022 - Por. Moisés Paes Sena
+Devocional CBPAZ Paula Cândido - MG em 29/04/2022 - Por Moisés Paes Sena
 
 > Estando Jesus em Jerusalém, durante a Festa da Páscoa, muitos creram no seu nome quando viram os sinais que ele fazia. Mas o próprio Jesus não confiava neles, porque conhecia a todos. E não precisava que alguém lhe desse testemunho a respeito das pessoas, porque ele mesmo sabia o que era a natureza humana. (Jo 2.23-25)
 
