@@ -10,4 +10,6 @@
       4. [O Guia Fiel](sl/23/04-o-guia-fiel.md)
    2. 1 Timóteo:
       1. [Cap 1 - Introdução](1tm/1/01-introducao.html)
+   3. Atos
+      1. [Cap 15 - A Casa de Deus tem estrada e porta, mas não tem porteiro](at/15/20220515_a-casa-de-deus-tem-estrada-e-porta-mas-nao-tem-porteira.md)  
 
