@@ -14,4 +14,5 @@
 
 - 29/04/2022: [Honestidade e Fé](./devocionais/cbpaz-paula-candido/2022/0429-honestidade-e-fe.md)
 - 20/05/2022: [Pastores Segundo o Coração de Deus](./devocionais/cbpaz-paula-candido/2022/0505-pastores-segundo-o-coracao-de-deus.md)
+- 27/05/2022: [Cai ou não Cai?](./devocionais/cbpaz-paula-candido/2022/20220527-cai-ou-nao-cai.md)
 
