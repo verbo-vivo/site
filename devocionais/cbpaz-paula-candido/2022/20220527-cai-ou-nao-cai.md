@@ -1,4 +1,4 @@
-# Cai ou não cai?
+# CAI OU NÃO CAI?
 
 Devocional 27/05/2022 - Moisés P. Sena - CBPaz de Paula Cândido-MG
 
@@ -23,7 +23,7 @@ Se você ainda não é discípulo de Jesus, aproveite este dia que o Senhor Teu 
 
 Se você já é discípulo de Jesus, peça ao Espírito Santo que te mostre quais áreas da sua vida ou projetos não estão sendo edificados para que Deus receba o máximo de Honra, Glória e Louvor que deveria receber através de você: relacionamentos, emprego, sentimentos, sonhos, enfim... Tome hoje uma decisão: leve-os todos aos pés de Jesus. Ele pode derrubar tudo ou parte, mas certamente fará o que for necessário.
 
-Quando chegar no grande e Temível Dia do Senhor, tudo o tiver sido construído sobre a areia será completamente destruído.
+Quando chegar no grande e Temível Dia do Senhor, tudo que foi construído sobre a areia será completamente destruído.
 
 > Os ímpios são derrubados e desaparecem, mas a casa dos justos permanecerá. (Provérbios 12:7)
 
