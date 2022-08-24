@@ -14,18 +14,11 @@ O nosso Deus é tão grande e tão cheio de AMOR e diversidade que apenas um hom
 
 A família do nosso Deus está crescendo, e fazemos parte dela. Somos irmãos uns dos outros, e cuidamos uns dos outros e da natureza para que Deus seja conhecido e adorado!
 
-A pedra, a água, as plantas, os animais... São coisas criadas por Deus. Existem, mas não vivem. Viver é uma ação especial de Deus, um relacionamento do nosso Deus com uma pessoa. A nossa vida é o Espírito Santo em nós, pois o Espírito Santo nos revela Jesus Cristo e Jesus Cristo nos revela a Deus, nosso Pai. Muitas pessoas não conhecem a Deus, não o têm como Pai e nem o próximo como irmão. Estas pessoas não vivem, apenas existem. Um dia fomos assim, mas agora Deus, por meio de Jesus Cristo tem nos chamado para a vida, para conhecer a Ele e fazê-lo conhecido, temos o privilégio de ser um meio de trazer a verdadeira vida para as pessoas que estão perto de nós.
+A pedra, a água, as plantas, os animais... São coisas criadas por Deus. Existem, mas não vivem. Viver é uma ação especial de Deus, um relacionamento do nosso Deus com uma pessoa. A nossa vida é o Espírito Santo em nós, pois o Espírito Santo nos revela Jesus Cristo e Jesus Cristo nos revela a Deus, nosso Pai. Muitas pessoas não conhecem a Deus, não o têm como Pai e nem o próximo como irmão. Estas pessoas não vivem, apenas existem. Um dia fomos assim, mas agora Deus, por meio de Jesus Cristo tem nos chamado para a vida, para conhecer a Ele e fazê-lo conhecido, temos o privilégio de ser um meio de trazer a verdadeira vida para as pessoas que estão perto de nós. A VIDA NÃO É UMA REALIDADE DO FUTURO, MAS DO PRESENTE.
 
 ## Meditação
 
-1. Como é o nosso Deus?
-2. O que é o Édem?
-3. Como foi criado o homem?
-4. Quem é o Espírito Santo?
-5. Como foi criada a mulher?
-6. Para que Deus criou a humanidade?
-7. Como o nosso Deus é conhecido pelo universo que Ele mes/mo criou?
-8. O que é a vida?
+**(1)** Como é o nosso Deus? **(2)** O que é o Édem? **(3)** Como foi criado o homem? **(4)** Quem é o Espírito Santo? **(5)** Como foi criada a mulher? **(6)** Para que Deus criou a humanidade? **(7)** Como o nosso Deus é conhecido pelo universo que Ele mes/mo criou? **(8)** O que é a vida?
 
 ---
 
