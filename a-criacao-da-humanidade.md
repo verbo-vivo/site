@@ -8,11 +8,13 @@ Este nosso Deus, que é uma família, até o momento da criação da humanidade 
 
 Primeiro, o nosso Deus preparou um lugar muito lindo e especial para colocar a primeira família, um jardim chamado de Édem. Depois, o nosso Deus pegou a terra, molhou com água, fez um barro, e a partir do barro Ele foi fazendo um boneco, como se fosse de brinquedo, porém ele fez com todos os detalhes: olhos, cabelos, nariz, coração e modelou todos os órgãos. Algo realmente incrível!!! Acontece que este boneco era apenas um boneco de barro. Não interagia com a criação nem nada. Observe como o nosso Deus interage com o barro: É como se estivesse brincando por horas e horas até terminar o seu brinquedo. O nosso Deus criou todas as outras coisas apenas dando uma ordem, mas para a criação da humanidade, o nosso Deus ficou como que brincando. O nosso Deus criou a humanidade para se relacionar com ela, afinal, Ele mesmo é uma família e criou a humanidade para ser parte da  sua família, e não para ser mais uma de suas coisas criadas.
 
-Assim como o gatinho não se assenta à mesa e come e conversa com as pessoas, as coisas criadas pelo nosso Deus também não se relacionam com Ele como uma família. O barro também não. Mas o nosso Deus pega o barro e assopra nas suas narinas (nariz) a sua respiração e a respiração de Deus faz com que o boneco de barro se transforme imediatamente em uma pessoa, capaz de conversar com Deus e se relacionar com Ele. Veja que incrível!!! A respiração de Deus é o que a Bíblia chama de Espírito de Deus, ou simplesmente Espírito Santo. O Espírito Santo transforma algo morto, sem vida, sem ação, sem inteligência em algo absolutamente novo: uma pessoa que age, se movimenta, inteligente, que sabe conversar e interagir com a natureza. Deus cria algo que é uma expressão de Si mesmo. Desta forma, percebemos que o Espírito Santo não é um vento como o que sentimos no nosso rosto. Ele é o próprio Deus em ação, em movimento, comunicando a vida, as características e a natureza do nosso Deus.
+Assim como o gatinho não se assenta à mesa e come e conversa com as pessoas, as coisas criadas pelo nosso Deus também não se relacionam com Ele como uma família. O barro também não. Mas o nosso Deus pega o barro e assopra nas suas narinas (nariz) a sua respiração e a respiração de Deus faz com que o boneco de barro se transforme imediatamente em uma pessoa, capaz de conversar com Deus e se relacionar com Ele. Veja que incrível!!! A respiração de Deus é o que a Bíblia chama de Espírito de Deus, ou simplesmente Espírito Santo. O Espírito Santo transforma algo morto, sem vida, sem ação, sem inteligência em algo absolutamente novo: uma pessoa que age, se movimenta, inteligente, que sabe conversar e interagir com a natureza. Deus cria algo que é uma expressão de Si mesmo. Desta forma, percebemos que o Espírito Santo não é um vento como o que sentimos no nosso rosto. Ele é o próprio Deus em ação, em movimento, comunicando a vida, as características e a natureza do nosso Deus. 
 
 O nosso Deus é tão grande e tão cheio de AMOR e diversidade que apenas um homem não é capaz de fazê-lo conhecido tal como Ele é. É por isto que de dentro deste homem Deus tira uma de suas costelas, e na mão invisível de Deus Ele faz alguém muito especial: A mulher. De maneira que juntos, uma família vísivel, homem e mulher, com a benção de Deus encherão a terra de filhos para o próprio Deus. Deus agora será conhecido através de todas as pessoas: como elas se relacionam com o próprio Deus, com o próximo e com a natureza. Como o universo (os seres espirituais, os animais, a natureza e até mesmo as pessoas) não podia ver a Deus pois Deus é invisível, agora o universo pode ver e conhecer a Deus olhando para as pessoas.
 
 A família do nosso Deus está crescendo, e fazemos parte dela. Somos irmãos uns dos outros, e cuidamos uns dos outros e da natureza para que Deus seja conhecido e adorado!
+
+A pedra, a água, as plantas, os animais... São coisas criadas por Deus. Existem, mas não vivem. Viver é uma ação especial de Deus, um relacionamento do nosso Deus com uma pessoa. A nossa vida é o Espírito Santo em nós, pois o Espírito Santo nos revela Jesus Cristo e Jesus Cristo nos revela a Deus, nosso Pai. Muitas pessoas não conhecem a Deus, não o têm como Pai e nem o próximo como irmão. Estas pessoas não vivem, apenas existem. Um dia fomos assim, mas agora Deus, por meio de Jesus Cristo tem nos chamado para a vida, para conhecer a Ele e fazê-lo conhecido, temos o privilégio de ser um meio de trazer a verdadeira vida para as pessoas que estão perto de nós.
 
 ## Meditação
 
@@ -23,8 +25,8 @@ A família do nosso Deus está crescendo, e fazemos parte dela. Somos irmãos un
 5. Como foi criada a mulher?
 6. Para que Deus criou a humanidade?
 7. Como o nosso Deus é conhecido pelo universo que Ele mes/mo criou?
+8. O que é a vida?
 
 ---
 
 *Por Moisés P. Sena - Comunidade Batista da Paz - 24/08/2022 - Paula Cândido-MG*
-
