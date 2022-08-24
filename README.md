@@ -16,4 +16,5 @@
 - 20/05/2022: [Pastores Segundo o Coração de Deus](./devocionais/cbpaz-paula-candido/2022/0505-pastores-segundo-o-coracao-de-deus.md)
 - 27/05/2022: [Cai ou não Cai?](./devocionais/cbpaz-paula-candido/2022/20220527-cai-ou-nao-cai.md)
 - 03/06/2022: [Absolvida](./devocionais/cbpaz-paula-candido/2022/0603-absolvida.md)
+- 24/08/2022: [A Criação da Humanidade](./a-criacao-da-humanidade.md)
 
