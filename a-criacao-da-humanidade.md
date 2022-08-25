@@ -1,6 +1,6 @@
 # A Criação da Humanidade
 
-**Texto Blíblico:** Gênesis 1:26-31; 2:4, 7-9, 15-25.
+**Texto Bíblico:** Gênesis 1:26-31; 2:4, 7-9, 15-25.
 
 O nosso Deus não é uma criatura, pelo contrário, Ele é O criador e sustentador de tudo e de todos. Tudo foi criado e é sustentado por Ele. Ele também não é como uma pessoa, pelo contrário, **Deus é uma família**, a família do AMOR. Observe a fala do nosso Deus em Gênesis 1:26 (*E Deus disse: — **Façamos** o ser humano à **nossa** imagem, conforme a **nossa** semelhança*.). Portanto, pense no nosso Deus como uma família reunida cheia de perfeito AMOR para ser compartilhado.
 
