@@ -1,6 +1,6 @@
 ---
 created: 2022-11-02T00:27:09-03:00
-modified: 2022-11-02T08:58:02-03:00
+modified: 2022-11-02T09:03:04-03:00
 ---
 
 # Familia
@@ -13,4 +13,4 @@ Jesus ensinou: venha a nós o teu reino e seja feita a tua vontade, assim na ter
 
 Salmo 23 tem duas fases da vida de uma pessoa. A primeira é o cordeiro e Deus é o pastor que conduz o rebanho a um lugar. A segunda é um filho assentado à mesa, sendo devido e honrado por Deus o Pai. A primeira fala da nossa vida aqui na terra como ovelhas de Jesus, precisamos ser guiados e cuidados por Ele, pois a ovelha é um animal de pouca inteligência e visão, a sua vida depende completamente do cuidado do pastor. A segunda fala da grande ceia na eternidade, onde o próprio Cristo nos serve e nos honra com galardões, e os seus filhos reinam com ele, agora os filhos são autoridades sobre o universo de Deus, reinando junto com ele. Não mais como ovelha, mas filhos revestidos de autoridade. A autoridade que uma ovelha recebe sobre as outras, tal qual a ovelha guia, é uma autoridade temporal, em que a ovelha precisa estar o mais perto do pastor, para que seja capaz de guiar outras que estão um pouco mais distantes e que ouvem pouco a voz e os sinais sonoros que vem do pastor (seus passos e batidas do cajado no chão), na segunda fase os filhos estão assentados à mesa, sempre perto. Na eternidade os filhos estão continuamente pertos de Cristo, a autoridade que recebem é permanente. A grande pergunta que o salmo nos desperta é: quando a ovelha deixa de ser ovelha para assumir a posição de filho? É quando ela morre. Em outras palavras: o pastor leva a ovelha para ser servida no prato aos seus inimigos, pq na morte da ovelha e transformada num filho. (Negar a sua mesmo e seguir para a cruz, a honra dos mártires etc)
 
-Finanças e tempo para Deus e para a família: 'minimalismo', destralhamento. Um contraste entre a mente miserável e mente do tralhamento. A provisão de Deus faz mais sentido quando vivemos uma vida digna, porém simples, destralhada.
+Finanças e tempo para Deus e para a família: 'minimalismo', destralhamento. Um contraste entre a mente miserável e mente do tralhamento. A provisão de Deus faz mais sentido quando vivemos uma vida digna, porém simples, destralhada. Ensino ministrado sem discipulado, isto é mostrada na prática diária de cada pessoa ou família, não quebra as fortalezas da mente. A primeira coisa que Jesus fez com seus discípulos é tira-los da vida deles e colocá-los numa vida mais simples, junto com ele, que não tem 'onde repousar a cabeça', e viver de ofertas (mulheres que financiavam o ministério de Jesus) e também alimentar sob convites.
