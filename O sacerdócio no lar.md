@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:32:38-03:00
+modified: 2023-05-07T18:36:10-03:00
 ---
 
 # O sacerdócio no lar
@@ -77,6 +77,10 @@ Jó era muitíssimo rico e tinha 10 filhos, o diabo tirou tudo que ele tinha, ma
 
 TODO FILHO É ESPIRITUAL, destes, alguns são biológicos.
 
+O mundo diz que os filhos são criados para o mundo. Mas Deus Diz: 
+
+> Os 43.1: Mas agora, assim diz o SENHOR que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.
+
 ## recompensa
 
 Recompensa é pagamento. Aquele que recebe um filho de Deus para cuidar é ao próprio Jesus que recebe.
@@ -84,5 +88,7 @@ Recompensa é pagamento. Aquele que recebe um filho de Deus para cuidar é ao pr
 Esta recompensa não é dinheiro, mas está recebendo uma visitaçao extraordinária e especial de Deus: curas, sabedoria, maturidade e muitas outras bençãos acompanham aqueles que abrem o coração para receber um filho de Deus.
 
 Os filhos são meios redentivos, somos desafiados a andar mais perto de Deus para nos apropriamos dos recursos que Deus enviou para suprir as necessidades dos seus filhos sob nossa responsabilidade.
+
+Os filhos ensinam muitas coisas sobre Deus, que necessitamos, mas que só serão reveladas quando cuidados dos filhos de Deus para o louvor da sua Glória.
 
 Mt 18.5
