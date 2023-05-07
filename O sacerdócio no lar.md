@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:09:17-03:00
+modified: 2023-05-07T19:12:00-03:00
 ---
 
 # O sacerdócio no lar
@@ -132,6 +132,9 @@ Tempo, paciência, maturidade.
 ## não ficará envergonhado, no tribunal
 
 Prestação de contas a Deus.
+
+Dos filhos confiados a nós
+De como cuidamos deles
 
 # APLICAÇÃO
 
