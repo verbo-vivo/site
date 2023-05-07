@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T17:58:52-03:00
+modified: 2023-05-07T18:02:48-03:00
 ---
 
 # O sacerdócio no lar
@@ -56,7 +56,7 @@ Gl 4.1
 
 Se vc entende que os recursos necessários para a provisão da sua família vem dos seus esforços, você não passa de um menino. Vc ainda é escravo. Sua família está em ruínas. A sua edificação está desmoronando. Submeta-s de coração, como filho, à autoridade espiritual que Deus colocou sobre voce para que a sua família seja curada.
 
-CONSUMISMO
+CONSUMISMO, invejamos a vida dos ímpios (Israel pediu um rei)
 
 Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
 Gn 2.10-13 - antes de ciar o homem Deus deixou as riquezas à sua disposição.
