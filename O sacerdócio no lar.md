@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:58:22-03:00
+modified: 2023-05-07T18:59:15-03:00
 ---
 
 # O sacerdócio no lar
@@ -112,6 +112,8 @@ Preparação
 Secacem da madeira.
 
 Supervisão.
+
+### aos filhos
 
 Tempo, paciência, maturidade.
 
