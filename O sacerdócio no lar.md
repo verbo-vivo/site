@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T14:57:13-03:00
+modified: 2023-05-07T15:04:54-03:00
 ---
 
 # O sacerdócio no lar
@@ -37,4 +37,9 @@ Um lar edificado por Deus, para o louvor da SUA glória não começa com Deus e 
 
 Na hora certa Deus levará ao homem a mulher que ele PRECISA, para juntos continuarem este projeto que é do próprio Deus. Não é escolhe a mulher de acordo com seus sonhos ou objetos, a vontade de Deus. Deus não une corpos, mas propósitos. IDÔNEA.
 
+Família é vocação, nem todos foram chamados para formar uma família terrena. O que importa é cada um viva para o seu chamado, ou mesmo cada fase da vocação. O solteiro que viva para o Senhor com a mesma intensidade que o casado. (Mt 19.12).
+
 ## proteçao
+É papel do homem proteger a sua família das muitas investidas de satanás não contra as pessoas da família, mas muito mais do que isto, contra as interferências que atrasam ou atrapalham o chamado de Deus para a família como um todo ou mesmo por cada pessoa.
+
+Mas note, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra.
