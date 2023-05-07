@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:13:08-03:00
+modified: 2023-05-07T19:17:15-03:00
 ---
 
 # O sacerdócio no lar
@@ -141,6 +141,6 @@ Prestação de contas a Deus.
 # APLICAÇÃO
 
 - Aos pais: sacerdócio
-- Aos filhos
-- As moças
+- Aos filhos, receba o pai q Deu
+- As moças, receba o pai que Deus te deu, viva para o Senhor e espere nele a pessoa certa
 - a Igreja: discipulado, que forma sacerdotes.
