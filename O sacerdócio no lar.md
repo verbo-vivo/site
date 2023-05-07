@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T15:50:03-03:00
+modified: 2023-05-07T15:51:03-03:00
 ---
 
 # O sacerdócio no lar
@@ -63,4 +63,4 @@ O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o ho
 
 Gn 3.17
 
-##
+## A herança de Deus
