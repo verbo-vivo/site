@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:47:27-03:00
+modified: 2023-05-07T18:50:57-03:00
 ---
 
 # O sacerdócio no lar
@@ -94,3 +94,19 @@ Os filhos são meios redentivos, somos desafiados a andar mais perto de Deus par
 Os filhos ensinam muitas coisas sobre Deus, que necessitamos, mas que só serão reveladas quando cuidados dos filhos de Deus para o louvor da sua Glória.
 
 Mt 18.5
+
+## guerreiro
+
+Segue para cumprir um proposito, um objetivo, que não termina nela, mas alcançado pelos filhos.
+
+Ele tem objetivo aos seus olhos.
+
+## flechas na mão
+
+## flechas na aljava
+
+## da sua mocidade
+
+Vigor. Tem visão e sabedoria.
+
+##
