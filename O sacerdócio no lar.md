@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:28:32-03:00
+modified: 2023-05-07T18:32:38-03:00
 ---
 
 # O sacerdócio no lar
@@ -80,5 +80,9 @@ TODO FILHO É ESPIRITUAL, destes, alguns são biológicos.
 ## recompensa
 
 Recompensa é pagamento. Aquele que recebe um filho de Deus para cuidar é ao próprio Jesus que recebe.
+
+Esta recompensa não é dinheiro, mas está recebendo uma visitaçao extraordinária e especial de Deus: curas, sabedoria, maturidade e muitas outras bençãos acompanham aqueles que abrem o coração para receber um filho de Deus.
+
+Os filhos são meios redentivos, somos desafiados a andar mais perto de Deus para nos apropriamos dos recursos que Deus enviou para suprir as necessidades dos seus filhos sob nossa responsabilidade.
 
 Mt 18.5
