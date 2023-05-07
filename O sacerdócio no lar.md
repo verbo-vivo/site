@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T15:45:22-03:00
+modified: 2023-05-07T15:50:03-03:00
 ---
 
 # O sacerdócio no lar
@@ -47,6 +47,7 @@ Meninas, moças, solteiras, vivam para o Senhor, sem flertar com o mundo. Dediqu
 Mas note, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra.
 
 ## trocar trabalho por provisão/recurso
+
 Quais os recursos que a sua família precisa?
 
 Gl 4.1
@@ -55,3 +56,11 @@ Se vc entende que os recursos necessários para a provisão da sua família vem 
 
 Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
 Gn 2.10-13 - antes de ciar o homem Deus deixou as riquezas à sua disposição.
+
+AOS SEUS AMADOS ELE O DÁ ENQUANTO DORMEM.
+
+O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o homem e o colocou no jardim para trabalhar. O trabalho continuará na eternidade. A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor:
+
+Gn 3.17
+
+##
