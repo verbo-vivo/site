@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:04:25-03:00
+modified: 2023-05-07T19:06:08-03:00
 ---
 
 # O sacerdócio no lar
@@ -129,5 +129,6 @@ Supervisão.
 
 Tempo, paciência, maturidade.
 
-## 
-##
+## não ficará envergonhado, no tribunal
+
+Prestação de contas a Deus.
