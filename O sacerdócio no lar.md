@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:27:37-03:00
+modified: 2023-05-07T18:28:32-03:00
 ---
 
 # O sacerdócio no lar
@@ -74,6 +74,8 @@ Gn 3.17
 A herança de Deus para nós são os filhos, pois são a única coisa que vem de Deus para nós e permanece para sempre. As coisas desta vida são temporárias, passageiras, mas os filhos permanecem.
 
 Jó era muitíssimo rico e tinha 10 filhos, o diabo tirou tudo que ele tinha, mas Deus levou seus filhos. Depois do desafio de fé que Jó passou, o Senhor restaurou tudo em dobro, lhe deu mais dez filhos, não mais 20, pq os outros não foram perdidos, estavam com Deus. Vieram de Deus e para Deus voltaram.
+
+TODO FILHO É ESPIRITUAL, destes, alguns são biológicos.
 
 ## recompensa
 
