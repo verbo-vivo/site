@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T15:04:54-03:00
+modified: 2023-05-07T15:45:22-03:00
 ---
 
 # O sacerdócio no lar
@@ -39,7 +39,19 @@ Na hora certa Deus levará ao homem a mulher que ele PRECISA, para juntos contin
 
 Família é vocação, nem todos foram chamados para formar uma família terrena. O que importa é cada um viva para o seu chamado, ou mesmo cada fase da vocação. O solteiro que viva para o Senhor com a mesma intensidade que o casado. (Mt 19.12).
 
+Meninas, moças, solteiras, vivam para o Senhor, sem flertar com o mundo. Dediquem-se totalmente ao senhor. Se Deus chamou vc para glorifica-lo por meio de uma família, Na hora certa Deus ele te levará ao homem certo, onde o senhor vai unir os chamados. Não tente ajudar a Deus, Deus não precisa de ajuda.
+
 ## proteçao
 É papel do homem proteger a sua família das muitas investidas de satanás não contra as pessoas da família, mas muito mais do que isto, contra as interferências que atrasam ou atrapalham o chamado de Deus para a família como um todo ou mesmo por cada pessoa.
 
 Mas note, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra.
+
+## trocar trabalho por provisão/recurso
+Quais os recursos que a sua família precisa?
+
+Gl 4.1
+
+Se vc entende que os recursos necessários para a provisão da sua família vem dos seus esforços, você não passa de um menino. Vc ainda é escravo. Sua família está em ruínas. A sua edificação está desmoronando. Submeta-s de coração, como filho, à autoridade espiritual que Deus colocou sobre voce para que a sua família seja curada.
+
+Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
+Gn 2.10-13 - antes de ciar o homem Deus deixou as riquezas à sua disposição.
