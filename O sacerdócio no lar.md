@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:00:30-03:00
+modified: 2023-05-07T19:04:25-03:00
 ---
 
 # O sacerdócio no lar
@@ -95,12 +95,6 @@ Os filhos ensinam muitas coisas sobre Deus, que necessitamos, mas que só serão
 
 Mt 18.5
 
-## guerreiro
-
-Segue para cumprir um proposito, um objetivo, que não termina nela, mas alcançado pelos filhos.
-
-Ele tem objetivo aos seus olhos.
-
 ## flechas na mão
 
 Preparação, ensino, repetição das verdades.
@@ -108,6 +102,22 @@ Preparação, ensino, repetição das verdades.
 Pv 22.6
 
 1Rs 1.6-7
+
+## guerreiro
+
+Segue para cumprir um proposito, um objetivo, que não termina nela, mas alcançado pelos filhos.
+
+Ele tem objetivo aos seus olhos.
+
+## da sua mocidade
+
+Vigor. Tem visão e sabedoria.
+
+# Feliz
+
+Satisfação
+
+Verá o fruto do seu trabalho e ficará satisfeito 
 
 ## flechas na aljava
 
@@ -119,8 +129,5 @@ Supervisão.
 
 Tempo, paciência, maturidade.
 
-## da sua mocidade
-
-Vigor. Tem visão e sabedoria.
-
+## 
 ##
