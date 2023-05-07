@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:12:00-03:00
+modified: 2023-05-07T19:13:08-03:00
 ---
 
 # O sacerdócio no lar
@@ -12,6 +12,7 @@ O texto trata do sacerdócio, o papel masculino no lar.
 Mulheres, aprendam escutando o que Deus está falando aos homens hoje. Aprenderam para ensinar os filhos que o senhor lhes confiar a serem homens. A MAE DE LEMUEL.
 
 ## Edificação
+
 processos construtivos. 
 
 Deus CHAMA as pessoas para participarem do seu projeto eterno, a formação da SUA família. Para isto ele criou a família terrena, que é o ambiente a partir do qual Ele aumenta o número dos seus filhos. (Ml 2.15).
@@ -44,6 +45,7 @@ Família é vocação, nem todos foram chamados para formar uma família terrena
 Meninas, moças, solteiras, vivam para o Senhor, sem flertar com o mundo. Dediquem-se totalmente ao senhor. Se Deus chamou vc para glorifica-lo por meio de uma família, Na hora certa Deus ele te levará ao homem certo, onde o senhor vai unir os chamados. Não tente ajudar a Deus, Deus não precisa de ajuda.
 
 ## proteçao
+
 É papel do homem proteger a sua família das muitas investidas de satanás não contra as pessoas da família, mas muito mais do que isto, contra as interferências que atrasam ou atrapalham o chamado de Deus para a família como um todo ou mesmo por cada pessoa.
 
 Mas note, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra.
@@ -133,8 +135,8 @@ Tempo, paciência, maturidade.
 
 Prestação de contas a Deus.
 
-Dos filhos confiados a nós
-De como cuidamos deles
+- Dos filhos confiados a nós
+- De como cuidamos deles
 
 # APLICAÇÃO
 
