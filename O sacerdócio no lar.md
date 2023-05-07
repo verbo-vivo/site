@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T15:51:03-03:00
+modified: 2023-05-07T16:05:30-03:00
 ---
 
 # O sacerdócio no lar
@@ -8,6 +8,7 @@ modified: 2023-05-07T15:51:03-03:00
 Sl 127
 
 O texto trata do sacerdócio, o papel masculino no lar.
+Mulheres, aprendam escutando o que Deus está falando aos homens hoje. Aprenderam para ensinar os filhos que o senhor lhes confiar a serem homens.
 
 ## Edificação
 processos construtivos. 
