@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T16:06:06-03:00
+modified: 2023-05-07T16:17:35-03:00
 ---
 
 # O sacerdócio no lar
@@ -61,7 +61,9 @@ Gn 2.10-13 - antes de ciar o homem Deus deixou as riquezas à sua disposição.
 
 AOS SEUS AMADOS ELE O DÁ ENQUANTO DORMEM.
 
-O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o homem e o colocou no jardim para trabalhar. O trabalho continuará na eternidade. A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor:
+O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o homem e o colocou no jardim para trabalhar. Note que antes de Deus criar a mulher, Deus deu trabalho ao homem, NOMEAR OS ANIMAIS. O trabalho continuará na eternidade. 
+
+A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor:
 
 Gn 3.17
 
