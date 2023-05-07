@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:50:57-03:00
+modified: 2023-05-07T18:58:22-03:00
 ---
 
 # O sacerdócio no lar
@@ -103,7 +103,17 @@ Ele tem objetivo aos seus olhos.
 
 ## flechas na mão
 
+Preparação
+
+1Rs 1.6-7
+
 ## flechas na aljava
+
+Secacem da madeira.
+
+Supervisão.
+
+Tempo, paciência, maturidade.
 
 ## da sua mocidade
 
