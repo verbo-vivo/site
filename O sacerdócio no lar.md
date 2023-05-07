@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T18:36:10-03:00
+modified: 2023-05-07T18:47:27-03:00
 ---
 
 # O sacerdócio no lar
@@ -80,6 +80,8 @@ TODO FILHO É ESPIRITUAL, destes, alguns são biológicos.
 O mundo diz que os filhos são criados para o mundo. Mas Deus Diz: 
 
 > Os 43.1: Mas agora, assim diz o SENHOR que te criou, ó Jacó, e que te formou, ó Israel: Não temas, porque eu te remi; chamei-te pelo teu nome, tu és meu.
+
+Chamar pelo nome, é vocação, trabalho a ser realizado: Abrao/Abraão.
 
 ## recompensa
 
