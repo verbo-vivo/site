@@ -103,19 +103,22 @@ Um HOMEM aos moldes de Deus sabe o sentido do trabalho e tem disposição para t
 O fato é que andando por fé e não por vista, a família será suprida nas necessidades, mais do que isto, ele sempre terá abençoar, mesmo em tempos de provação (deserto):
 
 > Fui moço e agora sou velho, porém jamais vi o justo desamparado, nem a sua descendência a mendigar o pão.
-É sempre compassivo e empresta, e a sua descendência será uma bênção. (Salmos 37:25,26)
+É sempre compassivo e empresta, e a sua descendência será uma bênção. (_Sl 37:25,26_)
 
 > Durante quarenta anos eu os conduzi pelo deserto e, nesse tempo, não envelheceram as roupas que vocês usavam, nem se gastaram as sandálias que vocês calçavam.
-Vocês não comeram pão, nem beberam vinho ou bebida forte, para que soubessem que eu sou o Senhor, seu Deus. (Deuteronômio 29:5,6)
+Vocês não comeram pão, nem beberam vinho ou bebida forte, para que soubessem que eu sou o Senhor, seu Deus. (_Dt 29:5,6_)
+
+Observe a vida de Jó, Deus o restaurou e o obençoou em dobro depois que Ele fez o que Deus o havia mandado (_Jó 42:10_): interceder por seus amigos. Isto é sacerdócio. A benção não chegou a ele pelo trabalho executado por suas mãos, mas pela obediência à ordem do Senhor.
 
 Um HOMEM aos moldes de Deus não confia na força do seu braço e nem anda de acordo as percepções e especulações humanas (científicas, sociais, da psicologia, do governo, do presente ou do futuro etc), ele é guidado por Deus.
 
-
 ## A herança de Deus
 
-A herança de Deus para nós são os filhos, pois são a única coisa que vem de Deus para nós e permanece para sempre. As coisas desta vida são temporárias, passageiras, mas os filhos permanecem.
+> Herança do Senhor são os filhos;
 
-Jó era muitíssimo rico e tinha 10 filhos, o diabo tirou tudo que ele tinha, mas Deus levou seus filhos. Depois do desafio de fé que Jó passou, o Senhor restaurou tudo em dobro, lhe deu mais dez filhos, não mais 20, pq os outros não foram perdidos, estavam com Deus. Vieram de Deus e para Deus voltaram.
+A herança de Deus são os filhos, pois são a única coisa que vem de Deus à nós (não PARA nós) e permanecem para sempre. As coisas desta vida são temporárias, passageiras, mas os filhos do Senhor permanecem (_Jo 8:35_; _Sl 125:1_ - os que confiam são filhos _Jo 1:2_).
+
+Jó era muitíssimo rico e tinha 10 filhos, com a permissção de Deis, o diabo tirou tudo que ele tinha, mas Deus levou seus filhos. Depois do desafio de fé que Jó passou, o Senhor restaurou tudo em dobro, lhe deu mais dez filhos, não mais 20. As coisas e bens foram perdidos, mas seus 10 filhos estavam com Deus. Vieram de Deus e para Deus voltaram. O quando o Senhor chamar os filhos que nos foram confiados quando ainda estivermos vivos, precisamos ter clareza para dizer _O Senhor me deu até agora o privilégio de cuidar deste seu precioso filho, à Ele honra, glória e louvor eternamente._ Esta foi fé que sustentou Jó na sua travessia ao tão enfurecido deserto. Mas ele sabia: _Eis que meu redentor vive e na hora certa Ele se manifestará acima terra_. O crente não perde filho, porque nunca teve, ele tem o privilégio de cuidar do filho de Deus, um irmão, herdeiro de Deus e co-herdeiro com Cristo.
 
 TODO FILHO É ESPIRITUAL, destes, alguns são biológicos.
 
