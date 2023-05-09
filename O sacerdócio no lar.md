@@ -5,13 +5,21 @@ modified: 2023-05-07T19:17:15-03:00
 
 # O sacerdócio no lar
 
-Sl 127
+> Se o Senhor não edificar a casa, em vão trabalham os que a edificam. Se o Senhor não guardar a cidade, em vão vigia a sentinela.
+Será inútil levantar de madrugada, dormir tarde, comer o pão que conseguiram com tanto esforço; aos seus amados ele o dá enquanto dormem.
+Herança do Senhor são os filhos; o fruto do ventre, seu galardão.
+Como flechas na mão do guerreiro, assim são os filhos da sua mocidade.
+Feliz o homem que enche deles a sua aljava; não será envergonhado, quando enfrentar os seus inimigos no tribunal.
+>
+> Salmos 127:1-5
 
 O texto trata do sacerdócio, o papel masculino no lar.
 
 Mulheres, aprendam escutando o que Deus está falando aos homens hoje. Aprenderam para ensinar os filhos que o senhor lhes confiar a serem homens. A MAE DE LEMUEL.
 
 ## Edificação
+
+> Se o Senhor não edificar a casa, em vão trabalham os que a edificam (Salmos 127:1)
 
 processos construtivos. 
 
@@ -26,6 +34,8 @@ Um homem, de acordo as escrituras ele aprende com um pai estás virtudes:
 - seja homem: seja maduro, não criança
 - obediente a Deus: conheçedor da vontade de Deus e seus propósitos, pondo os pés apenas onde Deus mandar.
 
+Família não é edificação de meninos, ou crianças, mas de HOMEM. É necessário maturidade espiritual, emocional e física. Não é uma questão de idade, mas maturidade.
+
 Apartir destes princípios podemos compreender os processos construtivos do lar com mais clareza, de acordo com o salmo de nosso estudo:
 
 - Namoro
@@ -36,40 +46,65 @@ Apartir destes princípios podemos compreender os processos construtivos do lar 
 - ministério eclesiástico
 - projetos pessoais e da família etc
 
-Um lar edificado por Deus, para o louvor da SUA glória não começa com Deus e uma mulher, nem mesmo com o homem e sua mulher, mas com Deus e o homem. Na hora certa, Deus traz a mulher ao homem.
+Observa com clareza os princípio declarados por Deus em Gn 2:
 
-Na hora certa Deus levará ao homem a mulher que ele PRECISA, para juntos continuarem este projeto que é do próprio Deus. Não é escolhe a mulher de acordo com seus sonhos ou objetos, a vontade de Deus. Deus não une corpos, mas propósitos. IDÔNEA.
+- Um lar edificado por Deus, para o louvor da SUA glória não começa com Deus e uma mulher, nem mesmo com o homem e sua mulher, mas com Deus e o homem. Na hora certa, Deus traz a mulher ao homem.
 
-Família é vocação, nem todos foram chamados para formar uma família terrena. O que importa é cada um viva para o seu chamado, ou mesmo cada fase da vocação. O solteiro que viva para o Senhor com a mesma intensidade que o casado. (Mt 19.12).
+- Na hora certa Deus levará ao homem a mulher que ele PRECISA, para juntos continuarem este projeto que é do próprio Deus. Não é o homem escolhe a mulher de acordo com seus sonhos ou objetivos, mas de acordo com a vontade de Deus. Deus não une meramente corpos, mas propósitos (Ml: 2.15 - ESPÍRITO quer dizer unidade completa). IDÔNEA, quer dizer ativa e pró-ativa na missão, NÃO PASSIVA como pregam os MACHISTAS.
 
-Meninas, moças, solteiras, vivam para o Senhor, sem flertar com o mundo. Dediquem-se totalmente ao senhor. Se Deus chamou vc para glorifica-lo por meio de uma família, Na hora certa Deus ele te levará ao homem certo, onde o senhor vai unir os chamados. Não tente ajudar a Deus, Deus não precisa de ajuda.
+Família é vocação, nem todos foram chamados para formar uma família terrena. O que importa é que cada um viva para o seu chamado, ou mesmo cada fase da vocação. O solteiro que viva para o Senhor com a mesma intensidade que o casado. (Mt 19.12).
 
-## proteçao
+SOLTEIROS, vivam para o Senhor, sem flertar com o mundo. Dediquem-se totalmente ao senhor. Se Deus chamou vc para glorificá-lo por meio de uma família, Na hora certa Deus Ele à você HOMEM a moça certa e, à você MOÇA ao homem certo, onde o Senhor vai unir os vocacionados de acordo com Seu proposito maior. Não tente ajudar a Deus, Deus não precisa de ajuda, Ele é o SENHOR sobenado.
+
+## Proteção
+
+> Se o Senhor não guardar a cidade, em vão vigia a sentinela.
 
 É papel do homem proteger a sua família das muitas investidas de satanás não contra as pessoas da família, mas muito mais do que isto, contra as interferências que atrasam ou atrapalham o chamado de Deus para a família como um todo ou mesmo por cada pessoa.
 
-Mas note, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra.
+Mas note, a figura de Deus aqui é o ATALAIA, os verdadeiros olhos que identicam os invasores são os olhos de fogo do Senhor, e não os do homem. Portanto, para cumprir o seu papel, precisa permanecer com os ouvidos no céu e os olhos na terra. Este HOMEM se move pelo que Deus está dizendo e fazendo, por fé, não pelo que escuta ou vê humanamente.
+
+Muitos, distraídos do seu papel sacerdotal na família tem deixado o mundo entrar em seu lar através das muitas formas de influência: internet, redes sociais, televisão, escola etc. Doenças de vários tipos e problemas psicológicos tem penetrado e destruído a família por este mesmo motivo.
+
+Como sacerdote, assuma a autoridade espiritual da sua família e reine para a Glória de Deus. Conheças os princípios de autoridade espiritual (que não é escopo de nosso estudo) para cumprir o seu papel.
+
+Note em Tt 1:5-6 e 1Tm 3:2, que para o exercício do ministério eclesiástico se requer que tal HOMEM seja primeiro sacerdote do seu lar.
 
 ## trocar trabalho por provisão/recurso
 
+> Será inútil levantar de madrugada, dormir tarde, comer o pão que conseguiram com tanto esforço (v. 2)
+
 Quais os recursos que a sua família precisa?
 
-Gl 4.1
+> Digo, porém, o seguinte: durante o tempo em que o herdeiro é menor de idade, em nada difere de um escravo, mesmo sendo senhor de tudo.
+Mas está sob tutores e curadores até o tempo predeterminado pelo pai. (Gálatas 4:1,2)
 
-Se vc entende que os recursos necessários para a provisão da sua família vem dos seus esforços, você não passa de um menino. Vc ainda é escravo. Sua família está em ruínas. A sua edificação está desmoronando. Submeta-s de coração, como filho, à autoridade espiritual que Deus colocou sobre voce para que a sua família seja curada.
+Se você entende que os recursos necessários para a provisão da sua família vem dos seus esforços, você não passa de um menino. Vc ainda é escravo. Sua família está em ruínas. A sua edificação está desmoronando. Se este é o seu caso, há um preço a ser pago: hoje mesmo, disponha em seu coraçao voltar-se de joelhos e jejuns, tal como Esdras, Neemiras e Daniel, a buscar a face do Senhor e Sua sabedoria com o objetivo do seu amadurecimento e cura da sua famíla. Enquanto isto, submeta-se de coração, como filho, à autoridade espiritual que Deus colocou sobre você. Certamente o Senhor, no tempo certo, vai conduzir você na jornada de amadurecimento e cura da sua família.
 
-CONSUMISMO, invejamos a vida dos ímpios (Israel pediu um rei)
+CONSUMISMO. Muitas vezes as famílias estão em ruínas financeira por má administração, principalmente porque a vida dos ímpios tem sido invejada. Compras desnecessárias, busca por aprovação social, mania de ter por status ou porque alguém têm. Note o que Jesus disse aos seus discípulos em Mt 6:19-34. Se precisa de alguma coisa, peça primeiramente ao Senhor. Os recursos que Deus têm colocado nas suas mãos são integralmente Dele e não apenas 10%. Administre com sabedoria os recursos que Deus tem te confiado.
 
 Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
-Gn 2.10-13 - antes de ciar o homem Deus deixou as riquezas à sua disposição.
+Gn 2.9-17 - antes de ciar o homem Deus deixou provisão (árvores frutíferas e verduras) e, as riquezas à sua disposição.
 
-AOS SEUS AMADOS ELE O DÁ ENQUANTO DORMEM.
+## Deus cuida dos seus
+
+> aos seus amados Ele dá enquanto dormen.
 
 O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o homem e o colocou no jardim para trabalhar. Note que antes de Deus criar a mulher, Deus deu trabalho ao homem, NOMEAR OS ANIMAIS. O trabalho continuará na eternidade. 
 
-A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor:
+A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor `em fadigas você obterá dela o sustento durante os dias de sua vida. (Gênesis 3:17)`.
 
-Gn 3.17
+Um HOMEM aos moldes de Deus sabe o sentido do trabalho e tem disposição para trabalhar, não porque alguns valorizam ou desvalorizam, mas porque Deus tem um trabalho a ser realizado que fará com Seu nome será ainda mais glorificado. É importante ressaltar, que pra tudo tem um tempo determinado por Deus (Ec 3.1) e o homem não pode se acomodar com o trabalho que tem hoje, Deus pode ter mudado a agenda e Ele precisa acompanhar a agenda de Deus. O tempo de Deus o promover no trabalho secular pode ter chegado e ele não pode estar distraído. Como disse anteriormente, é necessário que homem ande com Deus para seguir os seus propósitos e não perder tempo, inclusive se o Senhor o retirar do trabalho secular, seja por um período ou definitivo.
+
+O fato é que andando por fé e não por vista, a família será suprida nas necessidades, mais do que isto, ele sempre terá abençoar, mesmo em tempos de provação (deserto):
+
+> Fui moço e agora sou velho, porém jamais vi o justo desamparado, nem a sua descendência a mendigar o pão.
+É sempre compassivo e empresta, e a sua descendência será uma bênção. (Salmos 37:25,26)
+
+> Durante quarenta anos eu os conduzi pelo deserto e, nesse tempo, não envelheceram as roupas que vocês usavam, nem se gastaram as sandálias que vocês calçavam.
+Vocês não comeram pão, nem beberam vinho ou bebida forte, para que soubessem que eu sou o Senhor, seu Deus. (Deuteronômio 29:5,6)
+
+Um HOMEM aos moldes de Deus não confia na força do seu braço e nem anda de acordo as percepções e especulações humanas (científicas, sociais, da psicologia, do governo, do presente ou do futuro etc), ele é guidado por Deus.
 
 ## A herança de Deus
 
