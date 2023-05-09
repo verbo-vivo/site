@@ -90,6 +90,10 @@ Gn 2.9-17 - antes de ciar o homem Deus deixou provisão (árvores frutíferas e 
 
 > aos seus amados Ele dá enquanto dormen.
 
+*SEUS AMADOS*: não é uma verdade para todos, mas apenas para os filhos amados de Deus.
+
+*ELE DÁ ENQUANTO DORMEM*: **dormir** aqui não é sinônimo de folga ou preguiça, mas _confiança_. O contraste que o salmista faz entre EXECUÇÃO de tarefa e PAUSA da tarefa é para deixar claro que Deus cuida e abençoa os seus amados independente de estarem ou não EXECUTANDO tarefas. Não tem a ver com o muito trabalhar, pelo contrário, é por fazerem apenas o que Deus os manda fazer, nem mais e nem memos, e confiar na SUA PATERNIDADE.
+
 O trabalho é o meio de glorificarmos a Deus fora da nossa casa. Deus criou o homem e o colocou no jardim para trabalhar. Note que antes de Deus criar a mulher, Deus deu trabalho ao homem, NOMEAR OS ANIMAIS. O trabalho continuará na eternidade. 
 
 A provisão penosa com o suor do rosto é o salário de quem abandonou a Deus como Pai, como provedor `em fadigas você obterá dela o sustento durante os dias de sua vida. (Gênesis 3:17)`.
@@ -105,6 +109,7 @@ O fato é que andando por fé e não por vista, a família será suprida nas nec
 Vocês não comeram pão, nem beberam vinho ou bebida forte, para que soubessem que eu sou o Senhor, seu Deus. (Deuteronômio 29:5,6)
 
 Um HOMEM aos moldes de Deus não confia na força do seu braço e nem anda de acordo as percepções e especulações humanas (científicas, sociais, da psicologia, do governo, do presente ou do futuro etc), ele é guidado por Deus.
+
 
 ## A herança de Deus
 
