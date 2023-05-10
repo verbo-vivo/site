@@ -31,9 +31,18 @@ terrena, que é o ambiente a partir do qual Ele aumenta o número dos seus filho
 
 Portanto, a formação da família terrena começa com Deus e com um homem, não um menino, ou um moleque. (Gn 2.7)
 Não basta ser macho no sentido biológico, ter um pênis. É preciso ser homem. Deus faz o macho, mas homem é feito pelo 
-seu pai. (1Rs 2.1-4).
+seu pai.
 
-Um homem, de acordo as escrituras ele aprende com um pai estás virtudes:
+### Menino VS Homem
+
+> Quando se aproximava o dia da morte de Davi, ele deu ordens a Salomão, seu filho, dizendo:
+— Eu vou pelo caminho de todos os mortais. Portanto, tenha coragem e seja homem!
+Guarde os preceitos do Senhor , seu Deus, andando nos seus caminhos, guardando os seus estatutos, os seus mandamentos, os seus juízos e os seus testemunhos, como está escrito na Lei de Moisés. Assim, você será bem-sucedido em tudo o que fizer e por onde quer que você for,
+e o Senhor confirmará a promessa que me fez, dizendo: "Se os seus filhos guardarem o seu caminho, andando diante de mim fielmente, de todo o seu coração e de toda a sua alma, nunca lhe faltará sucessor ao trono de Israel."
+>
+> (1 Reis 2:1-4)
+
+Um homem, de acordo as Escrituras aprende com o pai estas virtudes:
 
 - seja forte: força, corajem, firmeza, estabilidade
 - seja homem: seja maduro, não criança
@@ -42,39 +51,70 @@ Um homem, de acordo as escrituras ele aprende com um pai estás virtudes:
 Família não é edificação de meninos, ou crianças, mas de HOMEM. É necessário maturidade espiritual, emocional e física. 
 Não é uma questão de idade, mas maturidade.
 
-Apartir destes princípios podemos compreender os processos construtivos do lar com mais clareza, de acordo com o salmo 
-de nosso estudo:
-
-- Namoro
-- noivado
-- Casamento
-- filhos
-- trabalho
-- ministério eclesiástico
-- projetos pessoais e da família etc
-
-Observa com clareza os princípio declarados por Deus em Gn 2:
+Vamos observar os princípio declarados por Deus em Gn 2:
 
 - Um lar edificado por Deus, para o louvor da SUA glória não começa com Deus e uma mulher, nem mesmo com o homem e sua 
-- mulher, mas com Deus e o homem. Na hora certa, Deus traz a mulher ao homem.
-
+mulher, mas com Deus e o homem. Na hora certa, Deus traz a mulher ao homem.
 - Na hora certa Deus levará ao homem a mulher que ele PRECISA, para juntos continuarem este projeto que é do próprio 
 - Deus. Não é o homem escolhe a mulher de acordo com seus sonhos ou objetivos, mas de acordo com a vontade de Deus. 
 - Deus não une meramente corpos, mas propósitos (Ml: 2.15 - ESPÍRITO quer dizer unidade completa). IDÔNEA, quer dizer 
 - ativa e pró-ativa na missão, NÃO PASSIVA como pregam os MACHISTAS.
 
-Família é vocação, nem todos foram chamados para formar uma família terrena. O que importa é que cada um viva para o 
-seu chamado, ou mesmo cada fase da vocação. O solteiro que viva para o Senhor com a mesma intensidade que o casado. 
-(Mt 19.12).
+### Vocação
+
+
+> Não fez o Senhor somente um, mesmo que lhe sobrasse o espírito? E por que somente um? Porque buscava uma **descendência**
+> **piedosa** (Ml 2:15)
+
+Aqui, **_descendência piedosa_** é no hebraico _eloin_, a descendência do própria Deus, a multiplicação da sua família.
+
+> Os teus olhos viram a minha substância ainda informe, e no teu livro foram escritos todos os meus dias, cada um
+deles escrito e determinado, quando nem um deles ainda existia. Que preciosos para mim, ó Deus, são os teus
+pensamentos! E como é grande a soma deles! (Sl 139:16,17)
+
+A ordem dada por Jesus para se fazer discípulos foi também dada a solteiros. Portanto, quando Deus une um homem e uma
+mulher o faz com o propósito de trazer a este mundo filhos Seus gerados desde a eternidade para cumprir um propósito.
+Se não há disposição para gerar filhos, NÃO SE CASE.
+
+> Os discípulos de Jesus disseram: — Se essa é a situação do homem em relação à sua mulher, não convém casar.
+Jesus, porém, lhes respondeu: — Nem todos são aptos para aceitar este ensinamento, mas apenas aqueles a quem 
+isso é dado.
+Porque há eunucos de nascença; há outros a quem os homens fizeram tais; e há outros que se fizeram eunucos, 
+por causa do Reino dos Céus. Quem é apto para aceitar isto, que aceite. 
+>
+> (Mt 19:10-12)
+
+> Gostaria que todos os homens fossem como eu. No entanto, **cada um tem de Deus o seu próprio dom**; 
+> um, na verdade, de um modo; outro, de outro. (1Co 7:7)
+
+Embora o Ap. Paulo tem sua opnião, ele deixa claro que FAMÍLIA É VOCAÇÃO, nem todos foram chamados para isto. 
+Alguns não querem e outros o projeto de família foi abortado por circunstâncias irreversíveis desta vida. 
+O que importa é que cada um viva para o seu chamado, O QUE DEUS ESPERA AQUI E AGORA.
+
+> E aos solteiros e às viúvas, digo que lhes seria bom se permanecessem no estado em que também eu vivo.
+Mas, se não conseguem se dominar, que se casem; porque é melhor casar do que arder em desejos. (1 Co 7:8,9)
+
+* *digo que lhes seria bom*: é a opnição do Ap. 
+* _se não conseguem se dominar, que se casem_: no verso 7 ele acabou de dizer que casamento é dom, é um chamado,
+  uma vocação. Ele está enfatizando que os que têm ardente desejo de formar família é porque foram chamados para tal.
+  A solução para o pecado é viver no Espírito (Gl 5.16), mas a solução para a chamado do chamado de Deus, da vocação 
+  é preparar-se entregar-se a ela.
+* _porque é melhor casar do que arder em desejos:_ o Ap. não está falando do desejo de fazer sexo, ter o outro para 
+  satisfazer seus próprios desejos é EGOÍSMO, é pecado. Ele está falando do chamado para formar uma família.
 
 SOLTEIROS, vivam para o Senhor, sem flertar com o mundo. Dediquem-se totalmente ao senhor. Se Deus chamou vc para 
 glorificá-lo por meio de uma família, Na hora certa Deus Ele à você HOMEM a moça certa e, à você MOÇA ao homem certo, 
 onde o Senhor vai unir os vocacionados de acordo com Seu proposito maior. Não tente ajudar a Deus, Deus não precisa 
 de ajuda, Ele é o SENHOR sobenado.
 
-<mark>Nem toda família edificada pelos homens foram edificadas por Deus. Destas,
-algumas apesar de reconhecidas e aplaudidas pelos homens, nem sequer seguem os princípios elementares estabelecidos 
-por Deus: jugo desigual, parentesco próximo, homoafetivas, e casamento com não humanos.</mark>
+Nem toda família edificada pelos homens foi edificada por Deus. O simples fato de um homem e uma mulher se casarem
+de acordo com os preceitos da sociedade em que vivem não torna este um casamento edificado por Deus.
+Citemos algumas situações, mas sem discorrer sobre elas:
+
+- jugo desigual, ou seja um filho de Deus e um ainda não filho de Deus (2Co 6:14-15)
+- parentesco próximo
+- homoafetivas
+- relacionamento com não humanos
 
 ## Proteção
 
@@ -98,31 +138,84 @@ de autoridade espiritual (que não é escopo de nosso estudo) para cumprir o seu
 Note em Tt 1:5-6 e 1Tm 3:2, que para o exercício do ministério eclesiástico se requer que tal HOMEM seja primeiro 
 sacerdote do seu lar.
 
-## trocar trabalho por provisão/recurso
+## Filho VS escravo
 
 > Será inútil levantar de madrugada, dormir tarde, comer o pão que conseguiram com tanto esforço (v. 2)
 
-Quais os recursos que a sua família precisa?
+Este versículo mede a maturidade do homem. De fato ele é HOMEM ou ainda um menino?
+
+Vamos olhar diretamente para Jesus e observar como foi a transição da sua fase de menino para homem:
+
+> [...] O **menino** crescia e se fortalecia, enchendo-se de sabedoria; e a graça de Deus estava sobre ele.
+>
+> [...] quando atingiu os **doze anos**, foram a Jerusalém, segundo o costume da festa.
+>
+> [...] o **menino Jesus** ficou em Jerusalém
+> 
+> [...] andaram um dia inteiro e, então, começaram a procurá-lo
+> 
+> [...] Três dias depois, o acharam no templo
+>
+> [...] Por que me procuravam? Não sabeis que me convém tratar dos negócios de meu Pai?
+>
+> [...] E voltou com eles para Nazaré e era submisso a eles. 
+> 
+> [...] E Jesus crescia em sabedoria, estatura e graça, diante de Deus e dos homens.
+>
+> (Lc 2:39-52)
+
+* _O menino crescia [..]_ e _Jesus crescia [...]_: note a diferença, o relato começa falando do **menino Jesus**, 
+  mas termina com simplesmente **Jesus**. Este é o relato da mudança de fase de Jesus: ele deixa de ser menino para ser 
+  homem. 
+* _doze anos_: é por volta dos doze anos que o menino tem a sua primeira ejaculação e a menina tem a 
+  sua primeira menstruação. Este é o sinal bilógico que ambos estão biologicamente maduros.
+  O _menino_ agora tem uma semente para dar, e a _menina_ pode dar a vida para gerar outra vida. Eles deixam de ser meros
+  receptores, para serem doadores. Agora o menino é biologicamente homem e a menina mulher. Eles tem a GRANDE
+  responsabilidade de administrar aquilo que são por natureza: coparticipantes do dom da vida.
+
+  É examente aos doze anos a mudança de fase de Jesus.
+* _quatro dias:_ os pais do menino Jesus o perderam e o encontraram quatro dias depois. A transição de menino para homem,
+  de Jesus, durou quatro dias. Quase um _piscar de olhos_.
+* _Por que me procuravam_: Jesus se vê homem e responsável. Para ele não fazia mais sentido a preocupação dos seus pais,
+  nem mesmo a intensa supervisão deles como quando era menino.
+* _Não sabeis que me convém tratar dos negócios de meu Pai?_ Quatro dias atrás Jesus era dependente dos seus pais, 
+  agora ele é um empresário, um empreendedor. Jesus não tem postura de menino que ouve e segue o que mandam, mas 
+  ele tem doutrina, ensino, tem opnião. E não apenas isto, mas os doutores receberam como co-igual. A sua maturidade
+  foi reconhecida pelos homens mais sábios.
+
+
+**Jesus tem consciência da sua identidade** (filho) **e do seu propósito** (cuidar dos negócios do Pai). 
+Ele é trabalhador, mas não empregado, é administrador. 
+
+Deus **CRIA** empregados (os anjos, os ímpios, etc), mas **GERA** filhos.
+Deus trabalha sem precisar e seus filhos também trabalham. O trabalho é para comunicar as virtudes do Pai, não para
+se ter algum benefício.
+
+O Evangelho não diz respeito a fazer certo para se ter benefícios no futuro. Quem fez isto foi Satanás (Ez 28:12-17). 
+Era MODELO (*sinete*) de perfeição, de fazer tudo certo. Ele era a régua que media se os outros estavam fazendo 
+certo ou errado. Ele faz isto até hoje. O problema dele não foi fazer errado, mas foi querer benefícios (_comércio_) 
+por ter feito o certo. Satanás é escravo, sempre foi. Nunca foi filho. 
 
 > Digo, porém, o seguinte: durante o tempo em que o herdeiro é menor de idade, em nada difere de um escravo, mesmo 
-> sendo senhor de tudo.
-Mas está sob tutores e curadores até o tempo predeterminado pelo pai. (Gálatas 4:1,2)
+> sendo senhor de tudo. Mas está sob tutores e curadores até o tempo predeterminado pelo pai. (Gálatas 4:1,2)
+
+O filho, embora sendo Senhor de tudo, é herdeiro, mas enquanto menino, pensa e age como um escravo.
 
 Se você entende que os recursos necessários para a provisão da sua família vem dos seus esforços, você não passa de 
-um menino. Vc ainda é escravo. Sua família está em ruínas. A sua edificação está desmoronando. Se este é o seu caso, 
+um menino. Ainda pensa como escravo. Sua família está em ruínas. A sua edificação está desmoronando. Se este é o seu caso, 
 há um preço a ser pago: hoje mesmo, disponha em seu coraçao voltar-se de joelhos e jejuns, tal como Esdras, Neemiras 
 e Daniel, a buscar a face do Senhor e Sua sabedoria com o objetivo do seu amadurecimento e cura da sua famíla. 
 Enquanto isto, submeta-se de coração, como filho, à autoridade espiritual que Deus colocou sobre você. Certamente o 
 Senhor, no tempo certo, vai conduzir você na jornada de amadurecimento e cura da sua família.
 
 CONSUMISMO. Muitas vezes as famílias estão em ruínas financeira por má administração, principalmente porque a vida 
-dos ímpios tem sido invejada. Compras desnecessárias, busca por aprovação social, mania de ter por status ou porque 
+dos ímpios tem sido invejada. Compras desnecessárias, busca por aprovação social, mania de adquirir por status ou porque 
 alguém têm. Note o que Jesus disse aos seus discípulos em Mt 6:19-34. Se precisa de alguma coisa, peça primeiramente
 ao Senhor. Os recursos que Deus têm colocado nas suas mãos são integralmente Dele e não apenas 10%. Administre com 
 sabedoria os recursos que Deus tem te confiado.
 
-Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
-Gn 2.9-17 - antes de ciar o homem Deus deixou provisão (árvores frutíferas e verduras) e, as riquezas à sua disposição.
+* Gn 1.28 - primeiro Deus os abençoou e depois disse a eles o que era pra ser feito.
+* Gn 2.9-17 - antes de ciar o homem Deus deixou provisão (árvores frutíferas e verduras) e, as riquezas à sua disposição.
 
 ## Deus cuida dos seus
 
@@ -185,7 +278,7 @@ eternamente._ Esta foi fé que sustentou Jó na sua travessia ao tão enfurecido
 redentor vive e na hora certa Ele se manifestará acima terra_. O crente não perde filho, porque nunca teve, ele tem 
 o privilégio de cuidar do filho de Deus, um irmão, herdeiro de Deus e co-herdeiro com Cristo.
 
-### Filhos Biológicos versus Espirituais
+### Filhos Biológicos VS Espirituais
 
 Existe uma discusão sobre a ordem dada por Deus à Adão e Eva, e Noé:
 
@@ -221,12 +314,7 @@ _verá a sua posteridade_ (v. 10).
 
 Deus ainda falando, à famílias caídas, 400 anos antes de Jesus, através do profeta Malaquias, o Senhor traz em ênfase
 o padrão de família que Ele criou antes da queda, como sendo o modelo de família que deveria ser: Uma família que gera 
-filhos mais que biológicos, mas espiritual:
-
-> Não fez o Senhor somente um, mesmo que lhe sobrasse o espírito? E por que somente um? Porque buscava uma **descendência** 
-> **piedosa** (Ml 2:15)
-
-Aqui, **_descendência piedosa_** é no hebraico _eloin_, a descendência do própria Deus, a multiplicação da sua família.
+filhos mais que biológicos, mas espiritual.
 
 Deus ainda não encerrou a expansão da sua família por meio geração de filhos biológicos. Todo filho de Deus é também um
 filho biológico. Jesus veio gerar filhos espirituais.
@@ -246,7 +334,6 @@ BIOLÓGICO É UM FILHO ESPIRITUAL. Judas Iscariotes era filho da perdição:
 
 - Judas Iscariotes: Jo 17:12;
 - _O filho da perdição_: 2Ts 2:3-4.
-
 
 O mundo diz que os filhos são criados para o mundo. Mas Deus Diz:
 
@@ -274,7 +361,38 @@ ensinando-os a guardar todas as coisas que tenho ordenado a vocês. E eis que es
 
 ### Família e Ministério Eclesiástico
 
-<mark>...</mark>
+> — Quem ama o seu pai ou a sua mãe mais do que a mim não é digno de mim; quem ama o seu filho ou a sua filha mais 
+do que a mim não é digno de mim; e quem não toma a sua cruz e vem após mim não é digno de mim.
+Quem acha a sua vida a perderá;e quem perde a vida por minha causa, esse a achará.
+> 
+> (Mt 10:37-39)
+
+Viver para a glória de Deus é um grande desafio para todos, solteiros e casados. O Novo Testamento declara esta verdade
+em grande abundância. Viver para Cristo há muitas bençãos, mas é grande o desafio.
+
+> Se alguém vier a mim, e não aborrecer a seu pai, e mãe, e mulher, e filhos, e irmãos, e irmãs, 
+> e ainda também a sua própria vida, não pode ser meu discípulo. (Lc 14:26)
+
+Alguns sugerem que de acordo esta afirmação, Jesus está dizendo que para servi-lo é necessário abrir mão de gerar
+filhos biológicos. Mas não é este o ensino de Jesus. Observe o capítulo inteiro e verás que tudo, absolutamente
+tudo precisa estar à disposição de Jesus para cumprir o propósito para qual foram gerados por Deus. Mais uma vez
+retornamos à afirmação de Jesus. Estamos nesta vida para cuidar dos negócios do Pai e não dos nossos ou de outrem.
+Considerar este pensamento equivocado, invalidaremos toda a Sagrada Escritura e toda a revelação divina.
+
+Aos casados, que tem dupla vocação: família e ministério eclesiástico (Ef 11-14), foram chamados e capacitados por Deus
+para administrar as duas coisas juntas. Muitos homens na Bíblia falharam na dupla vocação. Moisés e Davi 
+foram muito bons de serviço, entretanto maus esposo e pai.
+
+> [...] constituísse presbíteros, conforme prescrevi a você: alguém que seja irrepreensível, marido de uma só mulher, 
+que tenha filhos crentes que não são acusados de devassidão, nem são insubordinados. Porque é indispensável 
+que o bispo, por ser encarregado das coisas de Deus, seja irrepreensível [...]. (Tt 1:5-7)
+
+* _por ser encarregado das coisas de Deus_, esta verdade se aplica a todos que são encarregados das coisas do Pai, 
+  à semelhança de Jesus (_cuidar dos negócios do meu Pai_). Não é apenas para os _ministérios_ citados no texto e 
+  o _diaconato_. Mas para toda possição de liderança espiritual. Esta palavra não é para os meninos na fé, mas para
+  os adultos.
+* Aquele que cuida das questões espirituais, é requisito que, se casado, cumpra simultâneamente as duas vocações.
+
 
 ### Métodos Contraceptivos
 
@@ -286,65 +404,146 @@ assim vista por Ele:
 
 _Trapo da imundícia_ é pedaço de pano cheio de carne podre produzida pela lepra.
 
-Perceba portanto, que para agradar a Deus é necessário primeiro ser por Deus orientado, e não apenas tomar decisões 
-ou fazer coisas em nome de Deus, orientados pelo pensamento humano (em qualquer das suas formas).
+Perceba portanto, que para agradar a Deus é necessário primeiro ser pelo Espírito Santo orientado, e não apenas tomar
+decisões ou fazer coisas em nome de Deus, orientados pelo pensamento humano (em qualquer das suas formas).
 
-## recompensa
+## Recompensa
 
-Recompensa é pagamento. Aquele que recebe um filho de Deus para cuidar é ao próprio Jesus que recebe.
+> o fruto do ventre, seu galardão.
 
-Esta recompensa não é dinheiro, mas está recebendo uma visitaçao extraordinária e especial de Deus: curas, sabedoria, maturidade e muitas outras bençãos acompanham aqueles que abrem o coração para receber um filho de Deus.
+Todo aquele que cumpre seu propósito será por Deus recompensado.
 
-Os filhos são meios redentivos, somos desafiados a andar mais perto de Deus para nos apropriamos dos recursos que Deus enviou para suprir as necessidades dos seus filhos sob nossa responsabilidade.
+> E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos ou campos, por causa do meu nome, receberá 
+muitas vezes mais e herdará a vida eterna. (Mt 19:29)
 
-Os filhos ensinam muitas coisas sobre Deus, que necessitamos, mas que só serão reveladas quando cuidados dos filhos de Deus para o louvor da sua Glória.
+## Flechas na mão do guerreiro (arqueiro)
 
-Mt 18.5
+> como flechas na mão do guerreiro [...]
 
-## flechas na mão
+Na antiguidade, os flecheiros faziam suas próprias flechas e arcos. Vários são os tipos de arcos e flechas.
+Cada um construído para um objetivo específico. Há arcos e flechas específicos para tiro montado em cavalos,
+para combate de pequeno ou longo alcançe etc. Muitas são as variações. O importante a se ter mente é que cada
+flecha é unica.
 
-Preparação, ensino, repetição das verdades.
+O arqueiro (um guerreiro) tira a madeira, e à medida em que vai trabalhando ela, ele vai descobrindo para qual situação
+o material que está em suas mãos mais se adequa. Quando está claro isto, a partir de certo ponto do trabalho,
+ele vai trabalhar e entalhar especificamente para que tal flecha seja precisa em alcançar o fim proposto a ela.
 
-Pv 22.6
+O arqueiro tem uma missão a ser cumprida. Para isto ele precisa de flechas. O homem e a mulher que foram vocacionados
+para edificar uma família receberão de Deus os filhos para cumprir a vocação. A vocação não termina com o fato de apenas
+gerarem no ventre. Mas em que os filhos de Deus alcançem o propósito que Deus estabeleceu para eles desde a eternidade.
 
-1Rs 1.6-7
+As flechas na mão, quer dizer preparação pelos pais.
 
-## guerreiro
+> [...] e no teu livro foram escritos todos os meus dias, cada um deles escrito e determinado, 
+> quando nem um deles ainda existia [...]
 
-Segue para cumprir um proposito, um objetivo, que não termina nela, mas alcançado pelos filhos.
+Desde a eternidade o Senhor tem os seus propósitos para seus filhos. 
 
-Ele tem objetivo aos seus olhos.
+É papel do Pai conhecer os propósidos eternos de Deus para cada um dos filhos do Senhor que lhe foram confiados. 
 
-## da sua mocidade
+A visão do propósito é confiada ao Pai.
 
-Vigor. Tem visão e sabedoria.
+> Ela dará à luz um filho e você porá nele o nome de Jesus, **porque** ele salvará o seu povo dos pecados deles. 
+(Mt 1:21)
+
+O anjo disse a José qual era o propósito/vocação do menino. Também, os patriarcas tinham a visão da vocação dos seus 
+filhos. Mas não somente isto, a partir daí, é José quem será informado dos passos que Jesus deverá seguir. 
+As revelações e visões são claras à José, mas não à Maria. A família inteira é envolvida e movida por meio da 
+direção dada por Deus, para que Jesus cumprisse a vocação. O mesmo aconteceu com João Batista, Moisés e tantos outros.
+
+A Bíblia define um esqueleto para que os pais criem os filhos de Deus a eles confiados para que cumpram a sua
+vocação: Dt 6:4-7; Pv 22:6; 2Tm 3:14-17; 1Rs 1:6-7.
+
+Muitos pais entretando, tem ensinado mil coisas a seus filhos, menos aquelas que Deus epera que sejam ensinadas.
+Gastam fortunas, se endividam e ainda blasfemam dizendo que não podem gerar os filhos de Deus pois custa muito caro.
+
+O pai precisa dedicar-se a oração e jejuns para compreender a vocação de Deus para seus filhos e obter sabedoria
+para prepará-los para a cumprirem.
+
+A flecha na mão também fala de avaliação, testes, experimentos, para saber se ela está pronta e, caso não esteja,
+identificar os problemas e as soluções. Tanto o pai quanto a mãe tem a responsabilidade de ensinar, mas ao pai 
+uma dedicação maior para desafiar, medir e corrigir as convicções que são ensinadas aos filhos de Deus à eles confiados.
+
+A expectativa de Deus é que tão logo quanto junto com a maturidade biológica os filhos tenham convicção da sua identidade
+(filhos de Deus e responsáveis por comunicar as virtudes de Deus ao mundo). Eles não são escravos, que vivem
+para ter benefícios temporais nesta vida, mas que agora, são gestores, dispenseiros da Graça de Deus aos homens.
+
+Não vivem para sugar, para ter suas carências emocionais e carnais supridas. Pelo contrário, sabem das 
+responsabilidades que o Pai lhes confiou e estão prontos para doarem-se conforme a vontade de Deus o Pai.
+
+## da mocidade
+
+> assim são os filhos da sua mocidade.
+
+Mocidade fala de vigor (Gn 49:3). Tem visão, sabedoria (Jl 2:28). Vive em novidade todos os dias na caminhada com o 
+Espírito Santo. Isaque estava velho e cego, mesmo sendo muito mais jovem em idade que seu pai Abraão. Não fosse a 
+misericórdia de Deus, Isaque teria colocado as bençãos de Deus na mão de seu filho ímpio, baseado apenas no seu 
+apreço por Esaú. Jacó, no fim de sua vida tinha profecia em sua boca (Gn 49:1-27).
+
+Mocidade também manista a expectativa de Deus para a próxima geração: que os filhos, ainda novos em idade, estejam
+prontos para viverem para a Glória de Deus o Pai. José preparou Jesus corretamente.
+
+É muito comum na nossa geração, velhos em idade, mas ainda crianças em maturidade.
+
+O Espírito Santo nos desafia como pais, a nos dedicamos urgentemente à vocação que nos fora confiada e preparar 
+urgentemente os filhos que o Senhor nos confiou. Não esperar mais nem um segundo sequer.
 
 # Feliz
 
-Satisfação
+> Feliz o homem 
 
-Verá o fruto do seu trabalho e ficará satisfeito
+Satisfação.
 
-## flechas na aljava
+> Ele verá o fruto do trabalho de sua alma e ficará satisfeito. (Is 53:11)
 
-Secacem da madeira.
+Vocação cumprida. Carreira cumprida. Fé permanente.
 
-Supervisão.
+> Combati o bom combate, acabei a carreira, guardei a fé.
+Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele dia; e não 
+> somente a mim, mas também a todos os que amarem a sua vinda. (2Tm 4:7,8)
 
-### aos filhos
+Não basta o pai lançar os filhos, é preciso certeza que completou o trabalho que Deus lhe confiou.
 
-Tempo, paciência, maturidade.
+Não se trata de ter feito tudo certo. Não somos escravos. Somos filhos. Ainda que muitos pais tenham falhado,
+devem ter a certeza que de nada, absolutamente nada, poderá separá-los do Amor que está em Cristo Jesus nosso Senhor!!
 
-## não ficará envergonhado, no tribunal
+Embora Davi tenha sido um mau exemplo de paternidade a ser seguida durante a maior parte de sua vida,
+Deus ainda lhe o privilégio de fazer diferente preparando Salomão.
 
-Prestação de contas a Deus.
+Deus ainda dá oportunidade de fazermos diferente. Às vezes com filhos gerados da nossa semente, mas sempre com os 
+espirituais. Porque todo filho biológico de um filho de Deus é também espiritual.
 
-- Dos filhos confiados a nós
-- De como cuidamos deles
+## Flechas na aljava
 
-# APLICAÇÃO
+> que enche deles a sua aljava
 
-- Aos pais: sacerdócio
-- Aos filhos, receba o pai q Deu
-- As moças, receba o pai que Deus te deu, viva para o Senhor e espere nele a pessoa certa
-- a Igreja: discipulado, que forma sacerdotes.
+Aljava é uma espécie de bolsa em que o arqueiro guarda as suas flechas, já prontas, mas esperando a hora de serem
+lançadas. Em termos de armas de fogo, diria-se: a bala está no gatilho esperando a sua hora.
+
+A aljava nos remete ao teste final que os filhos de Deus precisam passar: **A paciência**.
+
+Jesus se considerava homem feito, e sua maturidade foi reconhecidos pelos anciãos da sua época. Mas manteve-se 
+na supervisão dos pais por cerca de 18 anos. 
+
+Se considerássemos apenas o aspecto humano, Jesus estava pronto para casar, ter sua família etc. Mas aos olhos do Pai
+ainda não estava pronto para cumprir a sua missão.
+
+> E assim, depois de esperar com paciência, Abraão obteve a promessa. (Hb 6:15)
+
+Em nossa gerão os filhos não sabem esperar. Eles querem tudo a qualquer custo para ontem. Querem casar a qualquer custo.
+Não se importam com as fases necessárias para a maturidade, para se cumprir a vondade do Pai. 
+
+Não é esta a expectativa de Deus para seus filhos. E cabe ao pai desafiá-los na paciência para viverem para o 
+Senhor e alcançar as promessas que Deus tem separado especialmente para eles.
+
+
+## Tribunal
+
+> não será envergonhado, quando enfrentar os seus inimigos no tribunal.
+
+Certamente chegará o dia em que prestaremos contas dos filhos que o Senhor nos confiou. E lá, estará o Diabo
+para bater seu carimbo de perfeição e dizer a todos que não passamos pelo crivo de sua avalição. Mas também estará
+Jesus Cristo, nosso advogado para interceder por nós, os arrependidos, e dizer ao Pai que a conta foi paga, 
+não somos escravos, mas filhos, herdeiros de Deus e co-herdeiros com Ele. 
+Para a vergonha de Satanás e para a Glória de Deus.
