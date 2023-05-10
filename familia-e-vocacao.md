@@ -472,7 +472,7 @@ para ter benefícios temporais nesta vida, mas que agora, são gestores, dispens
 Não vivem para sugar, para ter suas carências emocionais e carnais supridas. Pelo contrário, sabem das 
 responsabilidades que o Pai lhes confiou e estão prontos para doarem-se conforme a vontade de Deus o Pai.
 
-## da mocidade
+## Mocidade
 
 > assim são os filhos da sua mocidade.
 
