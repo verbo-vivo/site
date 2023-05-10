@@ -1,6 +1,6 @@
 ---
 created: 2023-05-07T14:19:18-03:00
-modified: 2023-05-07T19:17:15-03:00
+modified: 2023-05-10T19:02:02-03:00
 ---
 
 # Família e Vocação
@@ -334,6 +334,8 @@ BIOLÓGICO É UM FILHO ESPIRITUAL. Judas Iscariotes era filho da perdição:
 
 - Judas Iscariotes: Jo 17:12;
 - _O filho da perdição_: 2Ts 2:3-4.
+
+A Bíblia também nos fala dos irmãos de Isaque, a saber Ismael e seus outros irmão, e também Esaú. Esaú, o próprio Deus disse: amei Jacó, mas rejeitei Esaú. Quanto a Ismael, o próprio Abraão ensinou sobre o seu Deus, no momento de grande apuro, Ismael soube a quem clamar. Embora os pais, muitas vezes não tem clareza quanto ao destino final dos filhos, porque estes, tomarão sua própria decisão em relação a Cristo, uma coisa é certa: a promessa não é para perdição de filhos, mas para restauração e salvação da família como um todo. (Ml 3
 
 O mundo diz que os filhos são criados para o mundo. Mas Deus Diz:
 
