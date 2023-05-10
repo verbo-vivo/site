@@ -3,7 +3,7 @@ created: 2023-05-07T14:19:18-03:00
 modified: 2023-05-07T19:17:15-03:00
 ---
 
-# O sacerdócio no lar
+# Família e Vocação
 
 > Se o Senhor não edificar a casa, em vão trabalham os que a edificam. Se o Senhor não guardar a cidade, em vão vigia 
 a sentinela.
