@@ -1,6 +1,6 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T18:26:48-03:00
+modified: 2023-07-09T18:28:23-03:00
 ---
 
 # Filho Pródigo
@@ -17,7 +17,7 @@ modified: 2023-07-09T18:26:48-03:00
 
     Fala de compromisso com a família/igreja. (Cl 3.5-11)
 
-    Hábitos VESUS obediência da Lei
+    Hábitos VESUS obediência da Lei, a mentalidade judaica, baseada no esforço e não na Graça 
 
 - anel da família: autoridade delegada para executar a vontade (Gn 41.42)
 
