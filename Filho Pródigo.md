@@ -1,6 +1,6 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T18:23:02-03:00
+modified: 2023-07-09T18:26:48-03:00
 ---
 
 # Filho Pródigo
@@ -13,7 +13,11 @@ modified: 2023-07-09T18:23:02-03:00
 
 - os Servos/igreja, não no sentido de escravos, mas no sentido de executores da vontade do pai
 
-- roupas novas/hábitos: uma mudança de hábitos. Fala de compromisso com a família/igreja. (Cl 3.5-11)
+- roupas novas/hábitos: uma mudança de hábitos.
+
+    Fala de compromisso com a família/igreja. (Cl 3.5-11)
+
+    Hábitos VESUS obediência da Lei
 
 - anel da família: autoridade delegada para executar a vontade (Gn 41.42)
 
