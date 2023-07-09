@@ -1,6 +1,6 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T17:49:25-03:00
+modified: 2023-07-09T17:55:04-03:00
 ---
 
 # Filho Pródigo
@@ -27,3 +27,5 @@ modified: 2023-07-09T17:49:25-03:00
 Motivo maior: 
 Filhos: 1 Pé 2.9-10
 Escravos: comunicam poder, não virtude
+
+Filhos se relacionam espontâneamente por causa da vontade do pai, mas os escravos trabalham pelo prato de comida.
