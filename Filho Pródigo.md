@@ -1,13 +1,13 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T18:48:51-03:00
+modified: 2023-07-09T18:57:04-03:00
 ---
 
 # Filho Pródigo
 
 - Herança de pai vivo: usurpar os bens do pai
 
-- Humildade/Consciência de Pecado: não sou digno
+- Humildade/Consciência de Pecado: não sou digno, o relacionamento com Deus está estabelecido sobre a Graça. Nossa indignidade. Jamais qualquer tipo de orgulho.
 
     Qual o pecado? Abandonou o pai, a família e desperdiçou tudo que havia recebido do pai.
 
