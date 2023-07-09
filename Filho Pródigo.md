@@ -1,6 +1,6 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T17:46:37-03:00
+modified: 2023-07-09T17:48:38-03:00
 ---
 
 # Filho Pródigo
@@ -23,3 +23,5 @@ modified: 2023-07-09T17:46:37-03:00
     - Is 52.7
 
 - Festa/Celbraçao: o pai é um pai festivo, ele gosta de celebrar momentos importantes. Pq, pq o pai deseja a família reunida, feliz e abençoada. Aniversários, chá de bebê etc.
+
+Motivo maior: 1 Pé 2.9-10
