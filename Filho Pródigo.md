@@ -1,6 +1,6 @@
 ---
 created: 2023-07-09T16:38:14-03:00
-modified: 2023-07-09T18:28:23-03:00
+modified: 2023-07-09T18:48:51-03:00
 ---
 
 # Filho Pródigo
@@ -24,6 +24,7 @@ modified: 2023-07-09T18:28:23-03:00
 - sandálias/calçados: capacidade para executar o trabalho, a vontade do Pai.
     - completa restituição de filho. Escravos não tinham as roupas da família, amém nem sandálias nos pés.
     - os pés falam de caminho, direção e vocação (objetivo)
+    - quem não sabe para onde vai, qualquer lugar serve
     - Is 52.7
 
 - Festa/Celbraçao: o pai é um pai festivo, ele gosta de celebrar momentos importantes. Pq, pq o pai deseja a família reunida, feliz e abençoada. Aniversários, chá de bebê etc.
