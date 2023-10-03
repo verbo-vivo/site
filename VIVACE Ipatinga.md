@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T13:55:02-03:00
+modified: 2023-10-03T15:14:19-03:00
 ---
 
 # VIVACE Ipatinga
@@ -25,3 +25,4 @@ Verbas impositivas
     - para missionários, ele não paga
     - um investimento e socorro aos pastores e à igreja
 Estatuto: idoso, esporte e lazer, secretaria social e de educação
+- serviço de convivência direto da prefeitura
