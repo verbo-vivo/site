@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T11:38:39-03:00
+modified: 2023-10-03T12:49:27-03:00
 ---
 
 # VIVACE Ipatinga
@@ -19,3 +19,4 @@ Verbas impositivas
 - igrejas com reformas dos prédios, mas as parcerias com estrutura (geladeira, panificadora etc)
 - Beth Shalon
   - casa de recuperação para homens de famílias
+  - fundo missionário entre as igrejas
