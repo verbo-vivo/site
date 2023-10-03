@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T09:35:44-03:00
+modified: 2023-10-03T09:37:44-03:00
 ---
 
 # VIVACE Ipatinga
@@ -12,3 +12,6 @@ Verbas impositivas
 - estudo da demanda da região: crianças, apoio maior
 - centro esportivo: contra turno, oficinas, cestas
   - escola de musicalização
+- escola infantil
+- escola de teologia
+- obs: ocip muito mal vista no governo federal
