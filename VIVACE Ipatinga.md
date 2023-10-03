@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T12:50:27-03:00
+modified: 2023-10-03T12:51:03-03:00
 ---
 
 # VIVACE Ipatinga
@@ -22,3 +22,4 @@ Verbas impositivas
   - fundo missionário entre as igrejas
     - empréstimo sem juros para pastores trocarem de carro
     - empréstimo para igrejas melhorarem a infraestrutura
+    - para missionários, ele não paga
