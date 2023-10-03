@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T12:52:02-03:00
+modified: 2023-10-03T13:55:02-03:00
 ---
 
 # VIVACE Ipatinga
@@ -24,3 +24,4 @@ Verbas impositivas
     - empréstimo para igrejas melhorarem a infraestrutura
     - para missionários, ele não paga
     - um investimento e socorro aos pastores e à igreja
+Estatuto: idoso, esporte e lazer, secretaria social e de educação
