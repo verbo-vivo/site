@@ -1,6 +1,6 @@
 ---
 created: 2023-10-03T09:34:24-03:00
-modified: 2023-10-03T11:15:31-03:00
+modified: 2023-10-03T11:38:39-03:00
 ---
 
 # VIVACE Ipatinga
@@ -17,3 +17,5 @@ Verbas impositivas
 - obs: ocip muito mal vista no governo federal
 - projeto destrinchando a bíblia, 9 a 12 anos, exposição
 - igrejas com reformas dos prédios, mas as parcerias com estrutura (geladeira, panificadora etc)
+- Beth Shalon
+  - casa de recuperação para homens de famílias
