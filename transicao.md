@@ -129,7 +129,11 @@ Deuteronômio 28:1-2,15
 > ¹ — Se vocês ouvirem atentamente a voz do Senhor, seu Deus, tendo o cuidado de guardar todos os seus mandamentos que hoje lhes ordeno, o Senhor, seu Deus, exaltará vocês sobre todas as nações da terra.
 > ² Se ouvirem a voz do Senhor, seu Deus, sobre vocês virão e os alcançarão todas estas bênçãos: 
 >
-> ¹⁵ Porém, se não derem ouvidos à voz do Senhor, seu Deus, deixando de cumprir todos os seus mandamentos e os seus estatutos que hoje lhes ordeno, então virão sobre vocês e os alcançarão todas estas maldições: 
+> ¹⁵ Porém, se não derem ouvidos à voz do Senhor, seu Deus, deixando de cumprir todos os seus mandamentos e os seus estatutos que hoje lhes ordeno, então virão sobre vocês e os alcançarão todas estas maldições
+
+> ³² Aquele que não poupou o seu próprio Filho, mas por todos nós o entregou, será que não nos dará graciosamente com ele todas as coisas?  
+
+Romanos 8:32
 
 (Gálatas 5:13-18)
 
