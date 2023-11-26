@@ -131,9 +131,33 @@ Deuteronômio 28:1-2,15
 >
 > ¹⁵ Porém, se não derem ouvidos à voz do Senhor, seu Deus, deixando de cumprir todos os seus mandamentos e os seus estatutos que hoje lhes ordeno, então virão sobre vocês e os alcançarão todas estas maldições
 
+
+Romanos 8:32:
+
 > ³² Aquele que não poupou o seu próprio Filho, mas por todos nós o entregou, será que não nos dará graciosamente com ele todas as coisas?  
 
-Romanos 8:32
+
+² Vocês são a nossa carta, escrita em nosso coração, conhecida e lida por todos.
+³ Vocês manifestam que são carta de Cristo, produzida pelo nosso ministério, escrita não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas em tábuas de carne, isto é, nos corações.
+⁴ E é por meio de Cristo que temos tal confiança em Deus.
+⁵ Não que, por nós mesmos, sejamos capazes de pensar alguma coisa, como se partisse de nós; pelo contrário, a nossa capacidade vem de Deus,
+⁶ o qual nos capacitou para sermos ministros de uma nova aliança, não da letra, mas do Espírito; porque a letra mata, mas o Espírito vivifica.
+⁷ E, se o ministério da morte, gravado com letras em pedras, se revestiu de glória, a ponto de os filhos de Israel não poderem fixar os olhos na face de Moisés, por causa da glória do seu rosto, ainda que fosse uma glória que estava desaparecendo,
+⁸ como não será de maior glória o ministério do Espírito?
+⁹ Porque, se o ministério da condenação teve glória, em muito maior proporção será glorioso o ministério da justiça.
+¹⁰ Pois, neste particular, o que era glorioso já não tem mais glória diante da glória atual, que é muito maior.
+¹¹ Porque, se o que estava desaparecendo teve a sua glória, muito mais glória tem o que é permanente.
+¹² Tendo, pois, tal esperança, agimos com muita ousadia.
+¹³ E não somos como Moisés, que punha um véu sobre o rosto, para que os filhos de Israel não pudessem fixar os olhos no fim daquilo que estava desaparecendo.
+¹⁴ Mas a mente deles se endureceu. Pois, até o dia de hoje, o mesmo véu permanece sobre a leitura da antiga aliança; não foi tirado, pois só em Cristo ele é removido.
+¹⁵ Mas, até hoje, quando Moisés é lido, o véu está posto sobre o coração deles.
+¹⁶ Quando, porém, alguém se converte ao Senhor, o véu é tirado.
+¹⁷ Ora, este Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
+¹⁸ E todos nós, com o rosto descoberto, contemplando a glória do Senhor, somos transformados, de glória em glória, na sua própria imagem, como pelo Senhor, que é o Espírito.  
+
+(2 Coríntios 3:2-18)
+
+
 
 (Gálatas 5:13-18)
 
