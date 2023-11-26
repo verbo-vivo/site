@@ -124,11 +124,18 @@ A Adoração é um processo.
 10. Ressurreição e a promessa do Espírito Santo.
 11. Discipulado e ministérios - casa e comunidade - as formas da consolidaçao e maturidade.
 
+Deuteronômio 28:1-2,15
+
+> ¹ — Se vocês ouvirem atentamente a voz do Senhor, seu Deus, tendo o cuidado de guardar todos os seus mandamentos que hoje lhes ordeno, o Senhor, seu Deus, exaltará vocês sobre todas as nações da terra.
+> ² Se ouvirem a voz do Senhor, seu Deus, sobre vocês virão e os alcançarão todas estas bênçãos: 
+>
+> ¹⁵ Porém, se não derem ouvidos à voz do Senhor, seu Deus, deixando de cumprir todos os seus mandamentos e os seus estatutos que hoje lhes ordeno, então virão sobre vocês e os alcançarão todas estas maldições: 
+
+(Gálatas 5:13-18)
+
 > ¹³ Porque vocês, irmãos, foram chamados à liberdade. Mas não usem a liberdade para dar ocasião à carne; pelo contrário, sejam servos uns dos outros, pelo amor.
 > ¹⁴ Porque toda a lei se cumpre em um só preceito, a saber: "Ame o seu próximo como a você mesmo."
 > ¹⁵ Mas, se vocês ficam mordendo e devorando uns aos outros, tenham cuidado para que não sejam mutuamente destruídos.
 > ¹⁶ Digo, porém, o seguinte: vivam no Espírito e vocês jamais satisfarão os desejos da carne.
 > ¹⁷ Porque a carne luta contra o Espírito, e o Espírito luta contra a carne, porque são opostos entre si, para que vocês não façam o que querem.
-> ¹⁸ Mas, se são guiados pelo Espírito, vocês não estão debaixo da lei. 
->
-> (Gálatas 5:13-18)
+> ¹⁸ Mas, se são guiados pelo Espírito, vocês não estão debaixo da lei.
