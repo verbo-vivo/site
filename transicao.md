@@ -121,4 +121,5 @@ A Adoração é um processo.
 7. O desmanche da Arca
 8. Jesus, Deus como homem, no meio dos homens
 9. Consumado - o véu do Templo se rasga
-10. Ressurreição e a promessa do Espírito Santo
+10. Ressurreição e a promessa do Espírito Santo.
+11. Discipulado e ministérios - casa e comunidade - as formas da consolidaçao e maturidade
