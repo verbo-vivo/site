@@ -112,10 +112,8 @@ O objetivo Deus para a humanidade é que ela o Adore, e adorar não é ficar rez
 
 A Adoração é um processo.
 
-### Os dez mandamentos Ex 20
-
-### Deus quer falar ao povo pessoalmente, mas o povo rejeitam
-
-### leis dos altares
-
-### leis do relacionamento com o próximo
+1. Os dez mandamentos Ex 20
+2. Deus quer falar ao povo pessoalmente, mas o povo rejeita
+3. leis dos altares
+4. leis do relacionamento com o próximo
+5. A tenda do encontro a Arca da Aliança
