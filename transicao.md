@@ -122,4 +122,13 @@ A Adoração é um processo.
 8. Jesus, Deus como homem, no meio dos homens
 9. Consumado - o véu do Templo se rasga
 10. Ressurreição e a promessa do Espírito Santo.
-11. Discipulado e ministérios - casa e comunidade - as formas da consolidaçao e maturidade
+11. Discipulado e ministérios - casa e comunidade - as formas da consolidaçao e maturidade.
+
+> ¹³ Porque vocês, irmãos, foram chamados à liberdade. Mas não usem a liberdade para dar ocasião à carne; pelo contrário, sejam servos uns dos outros, pelo amor.
+> ¹⁴ Porque toda a lei se cumpre em um só preceito, a saber: "Ame o seu próximo como a você mesmo."
+> ¹⁵ Mas, se vocês ficam mordendo e devorando uns aos outros, tenham cuidado para que não sejam mutuamente destruídos.
+> ¹⁶ Digo, porém, o seguinte: vivam no Espírito e vocês jamais satisfarão os desejos da carne.
+> ¹⁷ Porque a carne luta contra o Espírito, e o Espírito luta contra a carne, porque são opostos entre si, para que vocês não façam o que querem.
+> ¹⁸ Mas, se são guiados pelo Espírito, vocês não estão debaixo da lei. 
+>
+> (Gálatas 5:13-18)
