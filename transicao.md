@@ -117,6 +117,8 @@ A Adoração é um processo.
 3. leis dos altares
 4. leis do relacionamento com o próximo
 5. Outras leis, civis etc
-5. A tenda do encontro a Arca da Aliança, Deus no meio do seu povo, didaticamente dentro do homem (arca)
-6. O desmanche da Arca
-6.
+6. A tenda do encontro a Arca da Aliança, Deus no meio do seu povo, didaticamente dentro do homem (arca)
+7. O desmanche da Arca
+8. Jesus, Deus como homem, no meio dos homens
+9. Consumado - o véu do Templo se rasga
+10. Ressurreição e a promessa do Espírito Santo
