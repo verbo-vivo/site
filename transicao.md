@@ -99,6 +99,10 @@ São mortos que querem ministrar vida. E nesta jornada de insucesso, copiam os m
 
 **O HOMEM PRECISA NASCER DE NOVO**, não há alternativa. O Espírito de Deus é a verdadeira vida.
 
+
+> Já os que se apoiam na prática da Lei estão debaixo de maldição, pois está escrito: "Maldito todo aquele que não persiste em praticar todas as coisas escritas no livro da Lei".
+(Gálatas 3:10)
+
 ### Objetivo da Lei
 
 #### Porque Deus tirou os hebreus do Egito
